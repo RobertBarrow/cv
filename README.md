@@ -22,7 +22,8 @@ Curriculum Vitae for Robert Barrow
 
 *Marital Status*: **Married**
 
-## Employment History
+
+## Current Roles
 
 ### Agile Transformation Manager 
 **_Objectway Limited (Feb 2016 – Present)_**
@@ -38,20 +39,57 @@ Curriculum Vitae for Robert Barrow
 
 *Objective*: Oversight and governance of JIRA implementation and administrative support.
 
+*Experience*: 
+
 * Configuring all aspects of JIRA: _projects, Agile boards (Scrum / Kanban), Shared Schemes, Workflows, User Groups and User Accounts_.
 
 * Documentation of JIRA projects / shared schemes / workflow configurations and JIRA Administration best practices in Confluence.
 
 * Training other JIRA Administrators in line with best practices.
 
+### Product Owner 
+**_Objectway Flagship Limited (May 2011 - Present)_**
+
+*Objective*: Responsible for roadmap and service delivery of Flagship products and leadership of the solution development team.
+
+*Experience*:
+
+Employing Agile product development and project management techniques whilst implementing and integrating products from the Objectway portfolio with various clients' in-house and 3rd party systems.
+
+### Director
+**_Oakley Pond Management Company Limited (Oct 2000 - Present)_**
+
+*Objective*: Responsible for estate management, fund raising and community relations.
+
+
+## Previous Roles & Employment History
+
 ### Agile Coach and Transformation Lead
 **_Objectway Limited (Dec 2014 – Feb 2016)_**
 
 *Objective*: Implement Agile at team level across multiple Product centres.
 
+*Experience*:
+
 * Coaching Business Analysts, Product Owners, Scrum Masters and Scrum teams in Scrum methodology and best practices.
 
 * Establishing an iterative and incremental approach to Product development at the team level.
+
+### Scrum Master
+**_Objectway Limited (Feb 2016 - Nov 2016)_**
+
+*Objective*: Act as Scrum master for a new team from inception, through exploration and construction phases.
+
+*Experience*: 
+
+* Running Scrum-based events and ceremonies (Backlog grooming, Sprint planning, Daily stand-ups, Sprint reviews, Retrospectives).
+
+* Working closely with client and solution development team to remove impediments.
+
+* Business analysis in new domain/sector (Container Shipping) and technical analysis for legacy codebase migration (Unix to Windows).
+
+* Implementing Agile / XP methodologies (pairing, TDD, BDD) and modern version control / collaboration tools (Git, JIRA Agile, Confluence, Slack, WinSCP scripts).
+
 
 ## Professional Certifications and Accreditations
 
@@ -59,6 +97,7 @@ Curriculum Vitae for Robert Barrow
 * Atlassian - **JIRA Administration - Part 2 - User Management and Schemes** (2016)
 * Atlassian - **Getting more out of JIRA Workflows - Advanced Workflow Configuration** (2016)
 * Atlassian Certified Professional - **ACP-100 Jira Administrator [BETA TEST]** (2016)
+
 
 ## Education
 
@@ -71,7 +110,7 @@ Curriculum Vitae for Robert Barrow
 * *Transformation*: experience in migrating legacy teams to modern tool-sets and practices (inc. _**XP, TDD, BDD**_)
 * *Technical*: experience in hardware, operating system, application installation /  configuration and _**CLI / shell scripting**_ for various systems
 * *Development*: experience in various languages and frameworks
-* *Integration*: experience in various _**file transfer** (SFTP, NFS, SMB)_, _**message queue**_ and _**API**_ based integration projects
+* *Integration*: experience in various _**scripted file transfer** (WinSCP, SFTP, NFS, SMB)_, _**message queue**_ and _**API**_ based integration projects
 * *Support*: experience in pre-sale, post-sale (implementation) and full life-cycle support roles
 
  
@@ -80,8 +119,8 @@ Curriculum Vitae for Robert Barrow
 
 
 ## Interests
-* Containerisation and micro-service architecture
 * Blockchain technologies and Smart Contracts
+* Containerisation and micro-service architecture
 * Continuous integration, delivery and deployment
 
 [LinkedIn]: https://www.linkedin.com/in/robertbarrow "View my LinkedIn Profile"

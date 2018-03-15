@@ -105,8 +105,6 @@ _**Rhyme Systems / 3i Infotech** ~ (Jan 2008 - Mar 2010)_
 
 * Binnacle - message queue system
 
-* Flagship - back office settlement system
-
 * FlagWin - front office system
 
 * r2C (also known as "reporting to clients") - reporting system

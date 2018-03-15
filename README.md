@@ -39,8 +39,6 @@ Curriculum Vitae for Robert Barrow
 
 *Objective*: Oversight and governance of JIRA implementation and administrative support.
 
-*Experience*: 
-
 * Configuring all aspects of JIRA: _projects, Agile boards (Scrum / Kanban), Shared Schemes, Workflows, User Groups and User Accounts_.
 
 * Documentation of JIRA projects / shared schemes / workflow configurations and JIRA Administration best practices in Confluence.
@@ -52,35 +50,28 @@ Curriculum Vitae for Robert Barrow
 
 *Objective*: Responsible for roadmap and service delivery of Flagship products and leadership of the solution development team.
 
-*Experience*:
-
-Employing Agile product development and project management techniques whilst implementing and integrating products from the Objectway portfolio with various clients' in-house and 3rd party systems.
+* Employing Agile product development and project management techniques whilst implementing and integrating products from the Objectway portfolio with various clients' in-house and 3rd party systems.
 
 ### Director
 **_Oakley Pond Management Company Limited (Oct 2000 - Present)_**
 
-*Objective*: Responsible for estate management, fund raising and community relations.
-
+* Responsible for estate management, fund raising and community relations.
 
 ## Previous Roles & Employment History
 
 ### Agile Coach and Transformation Lead
-**_Objectway Limited (Dec 2014 – Feb 2016)_**
+**_Objectway Limited** ~ (Dec 2014 – Feb 2016)_
 
 *Objective*: Implement Agile at team level across multiple Product centres.
-
-*Experience*:
 
 * Coaching Business Analysts, Product Owners, Scrum Masters and Scrum teams in Scrum methodology and best practices.
 
 * Establishing an iterative and incremental approach to Product development at the team level.
 
 ### Scrum Master
-**_Objectway Limited (Feb 2016 - Nov 2016)_**
+_**Objectway Limited** ~ (Feb 2016 - Nov 2016)_
 
 *Objective*: Act as Scrum master for a new team from inception, through exploration and construction phases.
-
-*Experience*: 
 
 * Running Scrum-based events and ceremonies (Backlog grooming, Sprint planning, Daily stand-ups, Sprint reviews, Retrospectives).
 
@@ -90,38 +81,110 @@ Employing Agile product development and project management techniques whilst imp
 
 * Implementing Agile / XP methodologies (pairing, TDD, BDD) and modern version control / collaboration tools (Git, JIRA Agile, Confluence, Slack, WinSCP scripts).
 
+### Product Owner
+_**3i Infotech (Flagship - UK) Limited** ~ (Mar 2010 - May 2011)_
 
-## Professional Certifications and Accreditations
+*Objective*: Adopt Agile methodologies and practices for Flagship products
 
-* Atlassian - **JIRA Administration - Part 1 - Project Configuration** (2015) 
-* Atlassian - **JIRA Administration - Part 2 - User Management and Schemes** (2016)
-* Atlassian - **Getting more out of JIRA Workflows - Advanced Workflow Configuration** (2016)
-* Atlassian Certified Professional - **ACP-100 Jira Administrator [BETA TEST]** (2016)
+* Agile Project Management using Pivotal Tracker
 
+* Iteration/sprint planning
 
-## Education
+* MoSCoW review
 
-* North Warwickshire Technical College - National Diploma in Computer Studies (1991)
+* Pairing
 
+* Resource management (inc. acquisition and disposal)
+
+* Team management (both co-located and distributed)
+
+### Software architect
+_**Rhyme Systems / 3i Infotech** ~ (Jan 2008 - Mar 2010)_
+
+*Objective*: Integrate Flagship back-office settlement system with other 3i Infotech products and 3rd party systems
+
+* Binnacle - message queue system
+
+* Flagship - back office settlement system
+
+* FlagWin - front office system
+
+* r2C (also known as "reporting to clients") - reporting system
+
+* UnaVista - Transaction Reporting
+
+### Research and Development team member
+_**Exact Technical Services Limited** ~ (Jun 1998 – Dec 2007)_
+
+*Objective*: research and development of Flagship back-office settlement system
+
+* Migrate legacy code base from Novell / Windows NT 3.5 to SCO OpenServer Unix (5.x)
+
+* Rapid application/software development with Retrieve 4GL & MS T-SQL
+
+* DevOps / system implementation experience with SCO OpenServer Unix (5.x and 6.x) 
+
+* Data analysis, ETL and integration experience with various 3rd party Financial data systems / providers:
+
+	* CREST / Euroclear (DEX/ISO)
+	* EDI
+	* Hemscott
+	* Interactive Data (EXSHARE, FTS, ITEX, XML)
+	* Proquote
+	* Six Financials (TELEKURS)
+	* SWIFT (ISO)
+#
+* Systems integration experience with various 3rd party systems, including:
+
+	* Bottomline (payments processing)
+	* CREST (BT Syntegra and LSE)
+	* Fidessa ETP (Binnacle API) 
+	* Omgeo CTM / Oasys Global
+	* SWIFT (SMA Bureau service)
+	* Thomson Market Match
+	* Zetafax
+
+### Development Manager
+_**Colbek Systems Limited** ~ (1991 – 1998)_
+
+* Software development
+* Customer support
+* Project management
+* Technician (everyday a new hat)
+
+## Professional Certifications, Accreditations, Courses and Education
+
+### Atlassian 
+
+* JIRA Administration - Part 1 - Project Configuration (2015) 
+* JIRA Administration - Part 2 - User Management and Schemes (2016)
+* Getting more out of JIRA Workflows - Advanced Workflow Configuration (2016)
+* ACP-100 Jira Administrator [BETA TEST] (2016)
+
+### Microsoft
+
+* Agile Project Management using Team Foundation Services (2013)
+
+### North Warwickshire Technical College
+
+* National Diploma in Computer Studies (1991)
 
 ## Skillsets
 
-* *Business*: experience in _**Agile Coach, Product Owner, Scrum Master, Service Delivery**_ and _**Business Analyst**_ roles
-* *Transformation*: experience in migrating legacy teams to modern tool-sets and practices (inc. _**XP, TDD, BDD**_)
-* *Technical*: experience in hardware, operating system, application installation /  configuration and _**CLI / shell scripting**_ for various systems
-* *Development*: experience in various languages and frameworks
-* *Integration*: experience in various _**scripted file transfer** (WinSCP, SFTP, NFS, SMB)_, _**message queue**_ and _**API**_ based integration projects
-* *Support*: experience in pre-sale, post-sale (implementation) and full life-cycle support roles
-
+* _**Business**_: experience in _**Agile Coach**_, _**Product Owner**_, _**Scrum Master**_, _**Service Delivery**_ and _**Business Analyst**_ roles
+* _**Transformation**_: experience in migrating legacy teams to modern tool-sets and practices (inc. _**XP, TDD, BDD**_)
+* _**Technical**_: experience in _**hardware**_, _**virtualisation**_, _**operating system**_, _**application**_ installation / configuration and _**CLI / shell scripting**_ for various systems
+* _**Development**_: experience in various 3rd and 4th generation _**languages**_ and _**frameworks**_
+* _**Integration**_: experience in various _**scripted file transfer** (WinSCP, SFTP, NFS, SMB)_, _**message queue**_ and _**API**_ based integration projects
+* _**Support**_: experience in _**pre-sale**_, _**post-sale (implementation)**_ and _**full life-cycle**_ support roles
  
 ## Publications
 * _**[Value Based Velocity](https://www.amazon.co.uk/dp/B06XCYRMBG "View on Amazon UK")** - *Start tracking the value delivered by your Scrum teams* (2017)_
 
-
 ## Interests
-* Blockchain technologies and Smart Contracts
-* Containerisation and micro-service architecture
-* Continuous integration, delivery and deployment
+* _**Blockchain**_ technologies and _**Smart Contracts**_
+* _**Containerisation**_ and _**micro-service**_ architecture
+* _**Continuous integration**_, _**testing**_, _**delivery**_ and _**deployment**_ pipelines
 
 [LinkedIn]: https://www.linkedin.com/in/robertbarrow "View my LinkedIn Profile"
 [Twitter]:  https://twitter.com/SquidVicious_UK      "View my Twitter Profile"

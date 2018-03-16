@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>README</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+/* GitHub stylesheet for MarkdownPad (http://markdownpad.com) */
+/* Author: Nicolas Hery - http://nicolashery.com */
+/* Version: b13fe65ca28d2e568c6ed5d7f06581183df8f2ff */
+/* Source: https://github.com/nicolahery/markdownpad-github */
+
+/* RESET
+=============================================================================*/
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/* BODY
+=============================================================================*/
+
+body {
+  font-family: Helvetica, arial, freesans, clean, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #333;
+  background-color: #fff;
+  padding: 20px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+body>*:first-child {
+  margin-top: 0 !important;
+}
+
+body>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* BLOCKS
+=============================================================================*/
+
+p, blockquote, ul, ol, dl, table, pre {
+  margin: 15px 0;
+}
+
+/* HEADERS
+=============================================================================*/
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1 tt, h1 code, h2 tt, h2 code, h3 tt, h3 code, h4 tt, h4 code, h5 tt, h5 code, h6 tt, h6 code {
+  font-size: inherit;
+}
+
+h1 {
+  font-size: 28px;
+  color: #000;
+}
+
+h2 {
+  font-size: 24px;
+  border-bottom: 1px solid #ccc;
+  color: #000;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+h4 {
+  font-size: 16px;
+}
+
+h5 {
+  font-size: 14px;
+}
+
+h6 {
+  color: #777;
+  font-size: 14px;
+}
+
+body>h2:first-child, body>h1:first-child, body>h1:first-child+h2, body>h3:first-child, body>h4:first-child, body>h5:first-child, body>h6:first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+h1+p, h2+p, h3+p, h4+p, h5+p, h6+p {
+  margin-top: 10px;
+}
+
+/* LINKS
+=============================================================================*/
+
+a {
+  color: #4183C4;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* LISTS
+=============================================================================*/
+
+ul, ol {
+  padding-left: 30px;
+}
+
+ul li > :first-child, 
+ol li > :first-child, 
+ul li ul:first-of-type, 
+ol li ol:first-of-type, 
+ul li ol:first-of-type, 
+ol li ul:first-of-type {
+  margin-top: 0px;
+}
+
+ul ul, ul ol, ol ol, ol ul {
+  margin-bottom: 0;
+}
+
+dl {
+  padding: 0;
+}
+
+dl dt {
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+  padding: 0;
+  margin: 15px 0 5px;
+}
+
+dl dt:first-child {
+  padding: 0;
+}
+
+dl dt>:first-child {
+  margin-top: 0px;
+}
+
+dl dt>:last-child {
+  margin-bottom: 0px;
+}
+
+dl dd {
+  margin: 0 0 15px;
+  padding: 0 15px;
+}
+
+dl dd>:first-child {
+  margin-top: 0px;
+}
+
+dl dd>:last-child {
+  margin-bottom: 0px;
+}
+
+/* CODE
+=============================================================================*/
+
+pre, code, tt {
+  font-size: 12px;
+  font-family: Consolas, "Liberation Mono", Courier, monospace;
+}
+
+code, tt {
+  margin: 0 0px;
+  padding: 0px 0px;
+  white-space: nowrap;
+  border: 1px solid #eaeaea;
+  background-color: #f8f8f8;
+  border-radius: 3px;
+}
+
+pre>code {
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  border: none;
+  background: transparent;
+}
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #ccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px;
+}
+
+pre code, pre tt {
+  background-color: transparent;
+  border: none;
+}
+
+kbd {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #DDDDDD;
+    background-image: linear-gradient(#F1F1F1, #DDDDDD);
+    background-repeat: repeat-x;
+    border-color: #DDDDDD #CCCCCC #CCCCCC #DDDDDD;
+    border-image: none;
+    border-radius: 2px 2px 2px 2px;
+    border-style: solid;
+    border-width: 1px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 10px;
+    padding: 1px 4px;
+}
+
+/* QUOTES
+=============================================================================*/
+
+blockquote {
+  border-left: 4px solid #DDD;
+  padding: 0 15px;
+  color: #777;
+}
+
+blockquote>:first-child {
+  margin-top: 0px;
+}
+
+blockquote>:last-child {
+  margin-bottom: 0px;
+}
+
+/* HORIZONTAL RULES
+=============================================================================*/
+
+hr {
+  clear: both;
+  margin: 15px 0;
+  height: 0px;
+  overflow: hidden;
+  border: none;
+  background: transparent;
+  border-bottom: 4px solid #ddd;
+  padding: 0;
+}
+
+/* TABLES
+=============================================================================*/
+
+table th {
+  font-weight: bold;
+}
+
+table th, table td {
+  border: 1px solid #ccc;
+  padding: 6px 13px;
+}
+
+table tr {
+  border-top: 1px solid #ccc;
+  background-color: #fff;
+}
+
+table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+/* IMAGES
+=============================================================================*/
+
+img {
+  max-width: 100%
+}
+</style>
+</head>
+<body>
+<h2>Curriculum Vitae for Robert Barrow</h2>
+<p><em>Address</em>:  <strong>1 Oakley Pond, Great Oakley, Corby, Northamptonshire NN18 8NN, UK</strong></p>
+<p><em>Telephone</em>: <strong>+44 (0) 7534 956436</strong></p>
+<p><em>Email</em>: <strong><a href="&#x6d;&#x61;&#105;&#108;&#116;&#111;&#x3a;&#x72;&#x6f;&#x62;&#x65;&#114;&#116;&#46;&#98;&#97;&#114;&#114;&#111;&#x77;&#x40;&#x67;&#109;&#x61;&#x69;&#x6c;&#x2e;c&#111;&#109;">&#x72;&#x6f;&#98;&#x65;&#x72;t&#46;&#x62;&#x61;&#114;&#114;&#x6f;w&#64;&#103;&#109;&#97;&#105;&#x6c;&#x2e;&#x63;&#x6f;&#109;</a></strong> </p>
+<p><em>Social</em>: <strong><a href="https://www.linkedin.com/in/robertbarrow" title="View my LinkedIn Profile">LinkedIn</a> | <a href="https://twitter.com/SquidVicious_UK" title="View my Twitter Profile">Twitter</a> | <a href="https://github.com/RobertBarrow" title="View my GitHub Profile">GitHub</a></strong></p>
+<h2>Personal Information</h2>
+<p><em>Date of Birth</em>: <strong>12th December 1972</strong></p>
+<p><em>Place of Birth</em>: <strong>Nuneaton, Warwickshire, England, UK</strong></p>
+<p><em>Passport/Citizenship</em>: <strong>Full, British</strong></p>
+<p><em>Gender</em>: <strong>Male</strong></p>
+<p><em>Marital Status</em>: <strong>Married</strong></p>
+<h2>Current Roles</h2>
+<h3>Agile Transformation Manager</h3>
+<p><strong><em>Objectway Limited (Feb 2016 – Present)</em></strong></p>
+<p><em>Objective</em>: Roll-out collaboration tools and implement Agile at the Program level across multiple Product centres.</p>
+<ul>
+<li>
+<p>Oversight and governance of the implementation, training and support of collaboration tools to be used by solution development teams (JIRA Agile, Confluence, Slack).</p>
+</li>
+<li>
+<p>Coaching Business Leaders, Product Owners, Scrum Masters and Scrum teams in line with latest scaled agile frameworks, methodologies and best practices.</p>
+</li>
+</ul>
+<h3>JIRA Administrator</h3>
+<p><strong><em>Objectway Limited (Sep 2015 – Present)</em></strong></p>
+<p><em>Objective</em>: Oversight and governance of JIRA implementation and administrative support.</p>
+<ul>
+<li>
+<p>Configuring all aspects of JIRA: <em>projects, Agile boards (Scrum / Kanban), Shared Schemes, Workflows, User Groups and User Accounts</em>.</p>
+</li>
+<li>
+<p>Documentation of JIRA projects / shared schemes / workflow configurations and JIRA Administration best practices in Confluence.</p>
+</li>
+<li>
+<p>Training other JIRA Administrators in line with best practices.</p>
+</li>
+</ul>
+<h3>Product Owner</h3>
+<p><strong><em>Objectway Flagship Limited (May 2011 - Present)</em></strong></p>
+<p><em>Objective</em>: Responsible for roadmap and service delivery of Flagship products and leadership of the solution development team.</p>
+<ul>
+<li>Employing Agile product development and project management techniques whilst implementing and integrating products from the Objectway portfolio with various clients' in-house and 3rd party systems.</li>
+</ul>
+<h3>Director</h3>
+<p><strong><em>Oakley Pond Management Company Limited (Oct 2000 - Present)</em></strong></p>
+<ul>
+<li>Responsible for estate management, fund raising and community relations.</li>
+</ul>
+<h2>Previous Roles &amp; Employment History</h2>
+<h3>Agile Coach and Transformation Lead</h3>
+<p><strong><em>Objectway Limited</strong> ~ (Dec 2014 – Feb 2016)</em></p>
+<p><em>Objective</em>: Implement Agile at team level across multiple Product centres.</p>
+<ul>
+<li>
+<p>Coaching Business Analysts, Product Owners, Scrum Masters and Scrum teams in Scrum methodology and best practices.</p>
+</li>
+<li>
+<p>Establishing an iterative and incremental approach to Product development at the team level.</p>
+</li>
+</ul>
+<h3>Scrum Master</h3>
+<p><em><strong>Objectway Limited</strong> ~ (Feb 2016 - Nov 2016)</em></p>
+<p><em>Objective</em>: Act as Scrum master for a new team from inception, through exploration and construction phases.</p>
+<ul>
+<li>
+<p>Running Scrum-based events and ceremonies (Backlog grooming, Sprint planning, Daily stand-ups, Sprint reviews, Retrospectives).</p>
+</li>
+<li>
+<p>Working closely with client and solution development team to remove impediments.</p>
+</li>
+<li>
+<p>Business analysis in new domain/sector (Container Shipping) and technical analysis for legacy codebase migration (Unix to Windows).</p>
+</li>
+<li>
+<p>Implementing Agile / XP methodologies (pairing, TDD, BDD) and modern version control / collaboration tools (Git, JIRA Agile, Confluence, Slack, WinSCP scripts).</p>
+</li>
+</ul>
+<h3>Product Owner</h3>
+<p><em><strong>3i Infotech (Flagship - UK) Limited</strong> ~ (Mar 2010 - May 2011)</em></p>
+<p><em>Objective</em>: Adopt Agile methodologies and practices for Flagship products</p>
+<ul>
+<li>
+<p>Agile Project Management using Pivotal Tracker</p>
+</li>
+<li>
+<p>Iteration/sprint planning</p>
+</li>
+<li>
+<p>MoSCoW review</p>
+</li>
+<li>
+<p>Pairing</p>
+</li>
+<li>
+<p>Resource management (inc. acquisition and disposal)</p>
+</li>
+<li>
+<p>Team management (both co-located and distributed)</p>
+</li>
+</ul>
+<h3>Software architect</h3>
+<p><em><strong>Rhyme Systems / 3i Infotech</strong> ~ (Jan 2008 - Mar 2010)</em></p>
+<p><em>Objective</em>: Integrate Flagship back-office settlement system with other 3i Infotech products and 3rd party systems</p>
+<ul>
+<li>
+<p>Binnacle - message queue system</p>
+</li>
+<li>
+<p>FlagWin - front office system</p>
+</li>
+<li>
+<p>r2C (also known as &quot;reporting to clients&quot;) - reporting system</p>
+</li>
+<li>
+<p>UnaVista - Transaction Reporting</p>
+</li>
+</ul>
+<h3>Research and Development team member</h3>
+<p><em><strong>Exact Technical Services Limited</strong> ~ (Jun 1998 – Dec 2007)</em></p>
+<p><em>Objective</em>: research and development of Flagship back-office settlement system</p>
+<ul>
+<li>
+<p>Migrate legacy code base from Novell / Windows NT 3.5 to SCO OpenServer Unix (5.x)</p>
+</li>
+<li>
+<p>Rapid application/software development with Retrieve 4GL &amp; MS T-SQL</p>
+</li>
+<li>
+<p>DevOps / system implementation experience with SCO OpenServer Unix (5.x and 6.x) </p>
+</li>
+<li>
+<p>Data analysis, ETL and integration experience with various 3rd party Financial data systems / providers:</p>
+<ul>
+<li>CREST / Euroclear (DEX/ISO)</li>
+<li>EDI</li>
+<li>Hemscott</li>
+<li>Interactive Data (EXSHARE, FTS, ITEX, XML)</li>
+<li>Proquote</li>
+<li>Six Financials (TELEKURS)</li>
+<li>SWIFT (ISO)</li>
+</ul>
+</li>
+</ul>
+<h1></h1>
+<ul>
+<li>
+<p>Systems integration experience with various 3rd party systems, including:</p>
+<ul>
+<li>Bottomline (payments processing)</li>
+<li>CREST (BT Syntegra and LSE)</li>
+<li>Fidessa ETP (Binnacle API) </li>
+<li>Omgeo CTM / Oasys Global</li>
+<li>SWIFT (SMA Bureau service)</li>
+<li>Thomson Market Match</li>
+<li>Zetafax</li>
+</ul>
+</li>
+</ul>
+<h3>Development Manager</h3>
+<p><em><strong>Colbek Systems Limited</strong> ~ (1991 – 1998)</em></p>
+<ul>
+<li>Software development</li>
+<li>Customer support</li>
+<li>Project management</li>
+<li>Technician (everyday a new hat)</li>
+</ul>
+<h2>Professional Certifications, Accreditations, Courses and Education</h2>
+<h3>Atlassian</h3>
+<ul>
+<li>JIRA Administration - Part 1 - Project Configuration (2015) </li>
+<li>JIRA Administration - Part 2 - User Management and Schemes (2016)</li>
+<li>Getting more out of JIRA Workflows - Advanced Workflow Configuration (2016)</li>
+<li>ACP-100 Jira Administrator [BETA TEST] (2016)</li>
+</ul>
+<h3>Microsoft</h3>
+<ul>
+<li>Agile Project Management using Team Foundation Services (2013)</li>
+</ul>
+<h3>North Warwickshire Technical College</h3>
+<ul>
+<li>National Diploma in Computer Studies (1991)</li>
+</ul>
+<h2>Skillsets</h2>
+<ul>
+<li><em><strong>Business</strong></em>: experience in <em><strong>Agile Coach</strong></em>, <em><strong>Product Owner</strong></em>, <em><strong>Scrum Master</strong></em>, <em><strong>Service Delivery</strong></em> and <em><strong>Business Analyst</strong></em> roles</li>
+<li><em><strong>Transformation</strong></em>: experience in migrating legacy teams to modern tool-sets and practices (inc. <em><strong>XP, TDD, BDD</strong></em>)</li>
+<li><em><strong>Technical</strong></em>: experience in <em><strong>hardware</strong></em>, <em><strong>virtualisation</strong></em>, <em><strong>operating system</strong></em>, <em><strong>application</strong></em> installation / configuration and <em><strong>CLI / shell scripting</strong></em> for various systems</li>
+<li><em><strong>Development</strong></em>: experience in various 3rd and 4th generation <em><strong>languages</strong></em> and <em><strong>frameworks</strong></em></li>
+<li><em><strong>Integration</strong></em>: experience in various <em><strong>scripted file transfer</strong> (WinSCP, SFTP, NFS, SMB)</em>, <em><strong>message queue</strong></em> and <em><strong>API</strong></em> based integration projects</li>
+<li><em><strong>Support</strong></em>: experience in <em><strong>pre-sale</strong></em>, <em><strong>post-sale (implementation)</strong></em> and <em><strong>full life-cycle</strong></em> support roles</li>
+</ul>
+<h2>Publications</h2>
+<ul>
+<li><em><strong><a href="https://www.amazon.co.uk/dp/B06XCYRMBG" title="View on Amazon UK">Value Based Velocity</a></strong> - <em>Start tracking the value delivered by your Scrum teams</em> (2017)</em></li>
+</ul>
+<h2>Interests</h2>
+<ul>
+<li><em><strong>Blockchain</strong></em> technologies and <em><strong>Smart Contracts</strong></em></li>
+<li><em><strong>Containerisation</strong></em> and <em><strong>micro-service</strong></em> architecture</li>
+<li><em><strong>Continuous integration</strong></em>, <em><strong>testing</strong></em>, <em><strong>delivery</strong></em> and <em><strong>deployment</strong></em> pipelines</li>
+</ul>
+
+</body>
+</html>
+<!-- This document was created with MarkdownPad, the Markdown editor for Windows (http://markdownpad.com) -->

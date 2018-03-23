@@ -53,7 +53,7 @@ Curriculum Vitae for Robert Barrow
 * Employing Agile product development and project management techniques whilst implementing and integrating products from the Objectway portfolio with various clients' in-house and 3rd party systems.
 
 ### Director
-**_Oakley Pond Management Company Limited (Oct 2000 - Present)_**
+**_Oakley Pond Management Company Limited (Sep 2000 - Present)_**
 
 * Responsible for estate management, fund raising and community relations.
 

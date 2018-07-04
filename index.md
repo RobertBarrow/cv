@@ -184,7 +184,7 @@ categories: cv
 * _**Support**_: experience in _**pre-sale**_, _**post-sale (implementation)**_ and _**full life-cycle**_ support roles
  
 ## Publications
-* _**[Value Based Velocity](https://www.amazon.co.uk/dp/B06XCYRMBG "View on Amazon UK")** - *Start tracking the value delivered by your Scrum teams* (2017)_
+* _**[Value Based Velocity](https://www.amazon.co.uk/dp/B06XCYRMBG "View on Amazon UK")** - Start tracking the value delivered by your Scrum teams (2017)_
 
 ## Interests
 * _**Blockchain**_ technologies and _**Smart Contracts**_

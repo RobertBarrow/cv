@@ -4,13 +4,15 @@ date:   2018-07-04 13:00:00 +0000
 categories: cv
 ---
 
+*Full name*: **Robert Andrew Barrow**
+
 *Address*:  **1 Oakley Pond, Great Oakley, Corby, Northamptonshire NN18 8NN, UK**
 
 *Telephone*: **+44 (0) 7534 956436**
 
 *Email*: **[robert.barrow@gmail.com](mailto:robert.barrow@gmail.com)** 
 
-*Social*: [LinkedIn](https://www.linkedin.com/in/robertbarrow) | [Twitter](https://twitter.com/SquidVicious_UK) | [GitHub](https://github.com/RobertBarrow)
+[LinkedIn](https://www.linkedin.com/in/robertbarrow) | [Twitter](https://twitter.com/SquidVicious_UK) | [GitHub](https://github.com/RobertBarrow)
 
 
 ## Personal Information
@@ -63,7 +65,7 @@ categories: cv
 ## Previous Roles & Employment History
 
 ### Agile Coach and Transformation Lead
-**_Objectway Limited** ~ (Dec 2014 – Feb 2016)_
+**_Objectway Limited (Dec 2014 – Feb 2016)_**
 
 *Objective*: Implement Agile at team level across multiple Product centres.
 
@@ -72,7 +74,7 @@ categories: cv
 * Establishing an iterative and incremental approach to Product development at the team level.
 
 ### Scrum Master
-_**Objectway Limited** ~ (Feb 2016 - Nov 2016)_
+**_Objectway Limited (Feb 2016 - Nov 2016)_**
 
 *Objective*: Act as Scrum master for a new team from inception, through exploration and construction phases.
 
@@ -84,8 +86,10 @@ _**Objectway Limited** ~ (Feb 2016 - Nov 2016)_
 
 * Implementing Agile / XP methodologies (pairing, TDD, BDD) and modern version control / collaboration tools (Git, JIRA Agile, Confluence, Slack, WinSCP scripts).
 
+* Experimenting with containerisation (using Docker)
+
 ### Product Owner
-_**3i Infotech (Flagship - UK) Limited** ~ (Mar 2010 - May 2011)_
+**_3i Infotech (Flagship - UK) Limited (Mar 2010 - May 2011)_**
 
 *Objective*: Adopt Agile methodologies and practices for Flagship products
 
@@ -102,7 +106,7 @@ _**3i Infotech (Flagship - UK) Limited** ~ (Mar 2010 - May 2011)_
 * Team management (both co-located and distributed)
 
 ### Software architect
-_**Rhyme Systems / 3i Infotech** ~ (Jan 2008 - Mar 2010)_
+**_Rhyme Systems / 3i Infotech (Jan 2008 - Mar 2010)_**
 
 *Objective*: Integrate Flagship back-office settlement system with other 3i Infotech products and 3rd party systems
 
@@ -115,7 +119,7 @@ _**Rhyme Systems / 3i Infotech** ~ (Jan 2008 - Mar 2010)_
 * UnaVista - Transaction Reporting
 
 ### Research and Development team member
-_**Exact Technical Services Limited** ~ (Jun 1998 – Dec 2007)_
+**_Exact Technical Services Limited (Jun 1998 – Dec 2007)_**
 
 *Objective*: research and development of Flagship back-office settlement system
 
@@ -146,7 +150,7 @@ _**Exact Technical Services Limited** ~ (Jun 1998 – Dec 2007)_
 	* Zetafax
 
 ### Development Manager
-_**Colbek Systems Limited** ~ (1991 – 1998)_
+**_Colbek Systems Limited (1991 – 1998)_**
 
 * Software development
 * Customer support
@@ -172,9 +176,9 @@ _**Colbek Systems Limited** ~ (1991 – 1998)_
 
 ## Skillsets
 
-* _**Business**_: experience in _**Agile Coach**_, _**Product Owner**_, _**Scrum Master**_, _**Service Delivery**_ and _**Business Analyst**_ roles
-* _**Transformation**_: experience in migrating legacy teams to modern tool-sets and practices (inc. _**XP, TDD, BDD**_)
-* _**Technical**_: experience in _**hardware**_, _**virtualisation**_, _**operating system**_, _**application**_ installation / configuration and _**CLI / shell scripting**_ for various systems
+* _**Business**_: experience in _**DevOps**_, _**Agile Coach**_, _**Product Owner**_, _**Scrum Master**_, _**Service Delivery**_ and _**Business Analyst**_ roles
+* _**Transformation**_: experience in migrating legacy teams to modern tool-sets and practices (inc. _**XP, TDD, BDD, Git, Docker**_)
+* _**Technical**_: experience in _**hardware**_, _**virtualisation**_, _**containerisation**_, _**operating system**_, _**application**_ installation / configuration and _**CLI / shell scripting**_ for various systems
 * _**Development**_: experience in various 3rd and 4th generation _**languages**_ and _**frameworks**_
 * _**Integration**_: experience in various _**scripted file transfer** (WinSCP, SFTP, NFS, SMB)_, _**message queue**_ and _**API**_ based integration projects
 * _**Support**_: experience in _**pre-sale**_, _**post-sale (implementation)**_ and _**full life-cycle**_ support roles
@@ -186,7 +190,3 @@ _**Colbek Systems Limited** ~ (1991 – 1998)_
 * _**Blockchain**_ technologies and _**Smart Contracts**_
 * _**Containerisation**_ and _**micro-service**_ architecture
 * _**Continuous integration**_, _**testing**_, _**delivery**_ and _**deployment**_ pipelines
-
-[LinkedIn]: https://www.linkedin.com/in/robertbarrow "View my LinkedIn Profile"
-[Twitter]:  https://twitter.com/SquidVicious_UK      "View my Twitter Profile"
-[GitHub]:   https://github.com/RobertBarrow          "View my GitHub Profile"

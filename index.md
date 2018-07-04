@@ -1,5 +1,9 @@
-Curriculum Vitae for Robert Barrow
-----------
+---
+layout: post
+title:  "Curriculum Vitae for Robert Barrow"
+date:   2018-07-04 13:00:00 +0000
+categories: cv
+---
 
 *Address*:  **1 Oakley Pond, Great Oakley, Corby, Northamptonshire NN18 8NN, UK**
 
@@ -7,7 +11,7 @@ Curriculum Vitae for Robert Barrow
 
 *Email*: **[robert.barrow@gmail.com](mailto:robert.barrow@gmail.com)** 
 
-*Social*: **[LinkedIn][] | [Twitter][] | [GitHub][]**
+*Social*: **[LinkedIn](https://www.linkedin.com/in/robertbarrow) | [Twitter](https://twitter.com/SquidVicious_UK) | [GitHub](https://github.com/RobertBarrow)**
 
 
 ## Personal Information

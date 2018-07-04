@@ -11,7 +11,7 @@ categories: cv
 
 *Email*: **[robert.barrow@gmail.com](mailto:robert.barrow@gmail.com)** 
 
-*Social*: **[LinkedIn](https://www.linkedin.com/in/robertbarrow) | [Twitter](https://twitter.com/SquidVicious_UK) | [GitHub](https://github.com/RobertBarrow)**
+*Social*: [LinkedIn](https://www.linkedin.com/in/robertbarrow) | [Twitter](https://twitter.com/SquidVicious_UK) | [GitHub](https://github.com/RobertBarrow)
 
 
 ## Personal Information

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Curriculum Vitae for Robert Barrow"
 date:   2018-07-04 13:00:00 +0000
 categories: cv

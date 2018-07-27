@@ -174,6 +174,10 @@ categories: cv
 
 * National Diploma in Computer Studies (1991)
 
+### Udemy
+
+* Docker Mastery: The Complete Toolset From a Docker Captain (2018)
+
 ## Skillsets
 
 * _**Business**_: experience in _**DevOps**_, _**Agile Coach**_, _**Product Owner**_, _**Scrum Master**_, _**Service Delivery**_ and _**Business Analyst**_ roles

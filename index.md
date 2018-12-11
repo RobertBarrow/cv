@@ -209,5 +209,5 @@ categories: cv
 
 ## Interests
 * _**Blockchain**_ technologies and _**Smart Contracts**_
-* _**Containerisation**_, _**micro-service**_ architecture and **functions-as-a-service**_
+* _**Containerisation**_, _**micro-service**_ architecture and _**functions-as-a-service**_
 * _**Continuous integration**_, _**testing**_, _**delivery**_ and _**deployment**_ pipelines

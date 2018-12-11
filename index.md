@@ -50,12 +50,16 @@ categories: cv
 
 * Training other JIRA Administrators in line with best practices.
 
-### Product Owner 
+*Metrics*: Currently supporting 1,200+ users over 500+ projects.
+
+### Product Owner / Service Delivery Manager
 **_Objectway Flagship Limited (May 2011 - Present)_**
 
 *Objective*: Responsible for roadmap and service delivery of Flagship products and leadership of the solution development team.
 
 * Employing Agile product development and project management techniques whilst implementing and integrating products from the Objectway portfolio with various clients' in-house and 3rd party systems.
+
+*Recent achievements*: Successfully implementing MiFID II and GDRP compliancy.  Migrating to Virtual Servers hosted in data centre.
 
 ### Director
 **_Oakley Pond Management Company Limited (Sep 2000 - Present)_**
@@ -88,10 +92,10 @@ categories: cv
 
 * Experimenting with containerisation (using Docker)
 
-### Product Owner
+### Product Manager
 **_3i Infotech (Flagship - UK) Limited (Mar 2010 - May 2011)_**
 
-*Objective*: Adopt Agile methodologies and practices for Flagship products
+*Objective*: Adopt latest Agile methodologies, practices and toolsets for Flagship product development 
 
 * Agile Project Management using Pivotal Tracker
 
@@ -100,6 +104,8 @@ categories: cv
 * MoSCoW review
 
 * Pairing
+
+*Other responsibilities*:
 
 * Resource management (inc. acquisition and disposal)
 
@@ -110,6 +116,7 @@ categories: cv
 
 *Objective*: Integrate Flagship back-office settlement system with other 3i Infotech products and 3rd party systems
 
+*Acheivements*: Successful implementation of various system integrations
 * Binnacle - message queue system
 
 * FlagWin - front office system
@@ -127,7 +134,11 @@ categories: cv
 
 * Rapid application/software development with Retrieve 4GL & MS T-SQL
 
-* DevOps / system implementation experience with SCO OpenServer Unix (5.x and 6.x) 
+* Extreme Programming (XP) experience with small team of developers
+
+* Trunk-based development (TBD) / continuous-integration (CI) and deployment (CD) of Flagship product
+
+* Operations / system implementation experience with SCO OpenServer Unix (5.x and 6.x) 
 
 * Data analysis, ETL and integration experience with various 3rd party Financial data systems / providers:
 
@@ -152,10 +163,15 @@ categories: cv
 ### Development Manager
 **_Colbek Systems Limited (1991 – 1998)_**
 
-* Software development
-* Customer support
+* Leading a small team developing Production Control software for SMEs (engineering)
+* Developing bespoke software using Rapid Application Development (RAD) with Retrieve 4GL
+* Integration with Sage Line 100 Accounting package
+* Business Analysis
+* 1st & 2nd line customer support
 * Project management
-* Technician (everyday a new hat)
+* Novell / Windows NT implementation
+* Hardware technician 
+*Everyday a new hat...*
 
 ## Professional Certifications, Accreditations, Courses and Education
 
@@ -176,6 +192,7 @@ categories: cv
 
 ### Udemy
 
+* Docker Swarm Mastery: DevOps Style Cluster Orchestration (2018)
 * Docker Mastery: The Complete Toolset From a Docker Captain (2018)
 
 ## Skillsets
@@ -192,5 +209,5 @@ categories: cv
 
 ## Interests
 * _**Blockchain**_ technologies and _**Smart Contracts**_
-* _**Containerisation**_ and _**micro-service**_ architecture
+* _**Containerisation**_, _**micro-service**_ architecture and **functions-as-a-service**_
 * _**Continuous integration**_, _**testing**_, _**delivery**_ and _**deployment**_ pipelines

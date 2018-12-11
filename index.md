@@ -149,7 +149,7 @@ categories: cv
 	* Proquote
 	* Six Financials (TELEKURS)
 	* SWIFT (ISO)
-#
+
 * Systems integration experience with various 3rd party systems, including:
 
 	* Bottomline (payments processing)

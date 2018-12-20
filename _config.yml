@@ -1,1 +1,13 @@
+# meta data
+title: CV
+author: RobertBarrow
+email: robert.barrow@gmail.com
+description: Curriculum Vitae for Robert Barrow
+
+# social links
+linkedin_username: robertbarrow
+twitter_username: SquidVicious_UK
+github_username:  RobertBarrow
+
+# build settings
 theme: jekyll-theme-cayman

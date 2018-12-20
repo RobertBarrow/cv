@@ -13,8 +13,8 @@ categories: cv
 *Telephone*: **+44 (0) 7534 956436**
 
 *Email*: **[robert.barrow@gmail.com](mailto:robert.barrow@gmail.com)**
-
-*Social*: [![LinkedIn](/assets/icons/LinkedIn-2C-21px-R.png "robertbarrow")](https://www.linkedin.com/in/robertbarrow) LinkedIn, [![GitHub](/assets/icons/GitHub-Mark-20x20.png "RobertBarrow")](https://github.com/RobertBarrow) GitHub, [![Twitter](/assets/icons/Twitter_Social_Icon_Rounded_Square_Color_20x20.png "@SquidVicious_UK")](https://twitter.com/SquidVicious_UK) Twitter
+      
+*Social*: [![LinkedIn](cv/assets/icons/LinkedIn-2C-21px-R.png "robertbarrow")](https://www.linkedin.com/in/robertbarrow) LinkedIn, [![GitHub](cv/assets/icons/GitHub-Mark-20x20.png "RobertBarrow")](https://github.com/RobertBarrow) GitHub, [![Twitter](cv/assets/icons/Twitter_Social_Icon_Rounded_Square_Color_20x20.png "@SquidVicious_UK")](https://twitter.com/SquidVicious_UK) Twitter
 
 ## Personal Information
 

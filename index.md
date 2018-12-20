@@ -14,7 +14,7 @@ categories: cv
 
 *Email*: **[robert.barrow@gmail.com](mailto:robert.barrow@gmail.com)**
 
-[LinkedIn](https://www.linkedin.com/in/robertbarrow) | [Twitter](https://twitter.com/SquidVicious_UK) | [GitHub](https://github.com/RobertBarrow)
+*Social*: [![LinkedIn](/assets/icons/LinkedIn-2C-21px-R.png "robertbarrow")](https://www.linkedin.com/in/robertbarrow) LinkedIn, [![GitHub](/assets/icons/GitHub-Mark-20x20.png "RobertBarrow")](https://github.com/RobertBarrow) GitHub, [![Twitter](/assets/icons/Twitter_Social_Icon_Rounded_Square_Color_20x20.png "@SquidVicious_UK")](https://twitter.com/SquidVicious_UK) Twitter
 
 ## Personal Information
 
@@ -236,7 +236,7 @@ categories: cv
 
 ## Publications
 
-* _**[Value Based Velocity](https://www.amazon.co.uk/dp/B06XCYRMBG "View on Amazon UK")** - Start tracking the value delivered by your Scrum teams (2017)_
+* ![Amazon](/assets/icons/amazon-logo_white_58x28.png) _**[Value Based Velocity](https://www.amazon.co.uk/dp/B06XCYRMBG "View on Amazon UK")** - Start tracking the value delivered by your Scrum teams (2017)_
 
 ## Interests
 

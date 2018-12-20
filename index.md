@@ -35,18 +35,20 @@ categories: cv
 
 *Objective*: Roll-out collaboration tools and implement Agile at the Program level across multiple Product centres.
 
-* Oversight and governance of the implementation, training and support of collaboration tools to be used by solution development teams (JIRA Agile, Confluence, Slack).
+* Oversight and governance of the implementation, training and support of collaboration tools to be used by solution development teams (JIRA Core, JIRA Agile, JIRA Service Desk, Confluence, Slack).
 
 * Coaching Business Leaders, Product Owners, Scrum Masters and Scrum teams in line with latest scaled agile frameworks, methodologies and best practices.
+
+* Evangelising the move to Value Based Velocity which helps Product Owners and Scrum teams to focus on value delivery and outcomes.
 
 ### JIRA Administrator
 **_Objectway Limited (Sep 2015 – Present)_**
 
 *Objective*: Oversight and governance of JIRA implementation and administrative support.
 
-* Configuring all aspects of JIRA: _projects, Agile boards (Scrum / Kanban), Shared Schemes, Workflows, User Groups and User Accounts_.
+* Configuring all aspects of JIRA: _projects, Agile boards (Scrum / Kanban), Shared Schemes, Workflows, Security, User Groups and User Accounts_.
 
-* Documentation of JIRA projects / shared schemes / workflow configurations and JIRA Administration best practices in Confluence.
+* Maintaining JIRA Administration "Best practices" and associated documentation in Confluence, including configuration details for JIRA projects / shared schemes / workflow etc.
 
 * Training other JIRA Administrators in line with best practices.
 
@@ -59,7 +61,9 @@ categories: cv
 
 * Employing Agile product development and project management techniques whilst implementing and integrating products from the Objectway portfolio with various clients' in-house and 3rd party systems.
 
-*Recent achievements*: Successfully implementing MiFID II and GDRP compliancy.  Migrating to Virtual Servers hosted in data centre.
+* Co-ordinating development, implementation, service delivery and support efforts for Flagship product centre and remote team.
+
+*Recent achievements*: Successfully implementing MiFID II (2017) and GDRP (2018) compliancy.  Migrating on-premise servers at various client sites to hosted service in Objectway data centre.
 
 ### Director
 **_Oakley Pond Management Company Limited (Sep 2000 - Present)_**
@@ -73,43 +77,57 @@ categories: cv
 
 *Objective*: Implement Agile at team level across multiple Product centres.
 
-* Coaching Business Analysts, Product Owners, Scrum Masters and Scrum teams in Scrum methodology and best practices.
+* Coaching Business Analysts, Product Owners, Scrum Masters and Scrum teams as Subject Matter Expert for agile best practices.
 
-* Establishing an iterative and incremental approach to Product development at the team level.
+* Establishing an iterative and incremental approach to Product development at the solution development team level.
+
+* Working with Product Owners and Scrum teams to coordinate the agile events (Backlog Refinement, Sprint Planning, Daily Stand-ups, Sprint Reviews and Retrospectives).
+
+* Establishing culture of Continuous Improvement and leading the transformation of teams working with legacy codebases.
+
+* Introducing Kanban boards, Story Point estimation, MoSCoW Reviews, Impact Mapping, Test-Driven Development, Continous Integration and Continuous Delivery.
+
+* Attending various Agile / Lean / DevOps summits, conferences and Meetups to keep abrest of latest thinking in agile circles and gain additional knowledge and insights from the experiences of others.
 
 ### Scrum Master
 **_Objectway Limited (Feb 2016 - Nov 2016)_**
 
 *Objective*: Act as Scrum master for a new team from inception, through exploration and construction phases.
 
-* Running Scrum-based events and ceremonies (Backlog grooming, Sprint planning, Daily stand-ups, Sprint reviews, Retrospectives).
+* Running Scrum events and ceremonies (Backlog Refinement, Sprint planning, Daily stand-ups, Sprint reviews and Retrospectives).
 
-* Working closely with client and solution development team to remove impediments.
+* Working closely with stakeholders, Product Owner and Scrum team to remove impediments.
 
-* Business analysis in new domain/sector (Container Shipping) and technical analysis for legacy codebase migration (Unix to Windows).
+* Coaching stakeholders in how best to interface with the Product Owner and Scrum team to maximise the value from their interactions.
 
-* Implementing Agile / XP methodologies (pairing, TDD, BDD) and modern version control / collaboration tools (Git, JIRA Agile, Confluence, Slack, WinSCP scripts).
+* Assisting the Product Owner in the analysis of business requirements to become Subject Matter Expert in a completely new domain / industry sector.
 
-* Experimenting with containerisation (using Docker)
+* Assisting the Scrum team in refining the emerging architecture requirements for the digital transformation and modernisation of a Container Shipping system.
+
+* Performing technical analysis as SME for the migration of legacy codebase (from Unix to Windows).
+
+* Introducing, coaching and supporting the implementation of Agile / XP methodologies (pairing, TDD, BDD) and modern version control / collaboration tools (Git, JIRA Agile, Confluence, Slack, WinSCP scripts).
+
+* Evangelising the move to infrastructure-as-code and experimentation with containerisation (using Docker) for continuous deployment.
 
 ### Product Manager
 **_3i Infotech (Flagship - UK) Limited (Mar 2010 - May 2011)_**
 
 *Objective*: Adopt latest Agile methodologies, practices and toolsets for Flagship product development 
 
-* Agile Project Management using Pivotal Tracker
+* Managing Agile Projects using Pivotal Tracker
 
-* Iteration/sprint planning
+* Iteration planning
 
-* MoSCoW review
+* Performing MoSCoW reviews
 
-* Pairing
+* XP Pairing
 
 *Other responsibilities*:
 
-* Resource management (inc. acquisition and disposal)
-
 * Team management (both co-located and distributed)
+
+* Resource management (inc. acquisition and disposal)
 
 ### Software architect
 **_Rhyme Systems / 3i Infotech (Jan 2008 - Mar 2010)_**
@@ -130,7 +148,7 @@ categories: cv
 
 *Objective*: research and development of Flagship back-office settlement system
 
-* Migrate legacy code base from Novell / Windows NT 3.5 to SCO OpenServer Unix (5.x)
+* Migrating legacy code base from Novell / Windows NT 3.5 to SCO OpenServer Unix (5.x)
 
 * Rapid application/software development with Retrieve 4GL & MS T-SQL
 

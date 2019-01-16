@@ -211,6 +211,7 @@ categories: cv
 * JIRA Administration - Part 2 - User Management and Schemes (2016)
 * Getting more out of JIRA Workflows - Advanced Workflow Configuration (2016)
 * ACP-100 Jira Administrator [BETA TEST] (2016)
+* ACP-100 Jira Administrator Certification Prep (2019) 
 
 ### Microsoft
 

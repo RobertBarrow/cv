@@ -205,6 +205,10 @@ categories: cv
 
 ## Professional Certifications, Accreditations, Courses and Education
 
+### Scrum Alliance
+
+* Certified Scrum Master (CSM) _[View](https://www.scrumalliance.org/community/profile/rbarrow6)_
+
 ### Atlassian
 
 * JIRA Administration - Part 1 - Project Configuration (2015)

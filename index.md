@@ -4,13 +4,11 @@ date:   2018-07-04 13:00:00 +0000
 categories: cv
 ---
 
-# Curriculum Vitae for Robert Barrow
-
 *Full name*: **Robert Andrew Barrow**
 
 *Address*:  **1 Oakley Pond, Great Oakley, Corby, Northamptonshire NN18 8NN, UK**
 
-*Telephone*: **+44 (0) 7534 956436**
+*Telephone*: **+44 (0) 7955 142314**
 
 *Email*: **[robert.barrow@gmail.com](mailto:robert.barrow@gmail.com)**
       

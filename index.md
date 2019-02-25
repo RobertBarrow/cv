@@ -236,7 +236,7 @@ categories: cv
 * _**Automation**_: experience with various _**automation**_ and _**scripting**_ tools _(inc. **Ansible**, **Bash**, **Cron**, **FlagScript**)_
 * _**Business**_: experience in _**Agile Coach**_, _**Business Analyst**_, _**Developer**_, _**Product Owner**_, _**Project Manager**_, _**Service Delivery Manager**_ and _**Scrum Master**_ roles
 * _**Development**_: experience in various 3rd and 4th generation _**languages** (inc. **C**, **COBOL**, **Javascript**, **Microsoft T-SQL**, **Pascal**, **Python**)_ and _**frameworks** (inc. **Angular**, **Bootstrap**)_
-* _**Implementation**_: experience with various in-house and 3rd party products (inc. _**JIRA**_, _**Confluence**_, _**Slack**_, _**Yammer**_) and JIRA plug-ins _(inc. **ScriptRunner**, **TFS4JIRA**_)_
+* _**Implementation**_: experience with various in-house and 3rd party products (inc. _**JIRA**_, _**Confluence**_, _**Slack**_, _**Yammer**_) and JIRA plug-ins _(inc. **ScriptRunner**, **TFS4JIRA**)_
 * _**Integration**_: experience in various _**scripted file transfer** (inc. **WinSCP**, **SFTP**, **NFS**, **SMB**)_, _**message queue**_ and _**API**_ based integration projects
 * _**Support**_: experience in _**pre-sale**_, _**post-sale** (implementation)_ and _**full life-cycle**_ support roles
 * _**Synchronisation**_: experience with _**JIRA**_ and _**Microsoft Visual Studio Online / Azure DevOps** (using **TFS4JIRA** plug-in)_

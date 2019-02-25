@@ -31,11 +31,11 @@ categories: cv
 
 ### Agile Transformation Manager
 
-**_Objectway Limited (Feb 2016 – Present)_**
+**_Objectway Limited (Feb 2016 – Mar 2019)_**
 
-*Objective*: Roll-out collaboration tools and implement Agile at the Program level across multiple Product centres.
+*Objective*: Roll-out digital collaboration tools and implement Agile at the Program level across multiple Product centres.
 
-* Oversight and governance of the implementation, training and support of collaboration tools to be used by solution development teams (JIRA Core, JIRA Agile, JIRA Service Desk, Confluence, Slack).
+* Oversight and governance of the implementation, training and support of digital collaboration tools to be used by solution development teams (JIRA Core, JIRA Agile, JIRA Service Desk, Confluence, Slack).
 
 * Coaching Business Leaders, Product Owners, Scrum Masters and Scrum teams in line with latest scaled agile frameworks, methodologies and best practices.
 
@@ -43,7 +43,7 @@ categories: cv
 
 ### JIRA Administrator
 
-**_Objectway Limited (Sep 2015 – Present)_**
+**_Objectway Limited (Sep 2015 – Mar 2019)_**
 
 *Objective*: Oversight and governance of JIRA implementation and administrative support.
 
@@ -57,7 +57,7 @@ categories: cv
 
 ### Product Owner / Service Delivery Manager
 
-**_Objectway Flagship Limited (May 2011 - Present)_**
+**_Objectway Flagship Limited (May 2011 - Mar 2019)_**
 
 *Objective*: Responsible for roadmap and service delivery of Flagship products and leadership of the solution development team.
 
@@ -65,7 +65,7 @@ categories: cv
 
 * Co-ordinating development, implementation, service delivery and support efforts for Flagship product centre and remote team.
 
-*Recent achievements*: Successfully implementing MiFID II (2017) and GDRP (2018) compliancy.  Migrating on-premise servers at various client sites to hosted service in Objectway data centre.
+*Recent achievements*: Successfully implementing MiFID II (2017) and GDRP (2018) compliancy.  Migrating on-premise servers at various client sites to hosted service in Objectway data centre (2019).
 
 ### Director
 
@@ -111,7 +111,9 @@ categories: cv
 
 * Performing technical analysis as SME for the migration of legacy codebase (from Unix to Windows).
 
-* Introducing, coaching and supporting the implementation of Agile / XP methodologies (pairing, TDD, BDD) and modern version control / collaboration tools (Git, JIRA Agile, Confluence, Slack, WinSCP scripts).
+* Introducing, coaching and supporting the implementation of Agile / XP methodologies (pairing, TDD, BDD) and modern version control / digital collaboration tools (Git, JIRA Software, Confluence, Slack, WinSCP scripts).
+
+* Guiding the Scrum team in the investigation and adoption of development models (RBAC), frameworks (Bootstrap, Angular) and architectures (MVC, MVVM. Microservices).
 
 * Evangelising the move to infrastructure-as-code and experimentation with containerisation (using Docker) for continuous deployment.
 
@@ -163,9 +165,9 @@ categories: cv
 
 * Extreme Programming (XP) experience with small team of developers
 
-* Trunk-based development (TBD) / continuous-integration (CI) and deployment (CD) of Flagship product
+* Trunk-based development (TBD) / continuous-integration and deployment (CI/CD) of Flagship products
 
-* Operations / system implementation experience with SCO OpenServer Unix (5.x and 6.x)
+* Operations / system implementation experience with SCO OpenServer Unix (5.x and 6.x) and Novell Netware (3.x)
 
 * Data analysis, ETL and integration experience with various 3rd party Financial data systems / providers:
 
@@ -193,20 +195,20 @@ categories: cv
 
 * Leading a small team developing Production Control software for SMEs (engineering)
 * Developing bespoke software using Rapid Application Development (RAD) with Retrieve 4GL
+* Deployment to SCO Unix, Novell Netware and Windows NT environments
 * Integration with Sage Line 100 Accounting package
-* Business Analysis
-* 1st & 2nd line customer support
-* Project management
+* Business Analysis and Requirements Gathering
+* 1st & 2nd line Customer Support
 * Novell / Windows NT implementation
-* Hardware technician
+* Hardware technician (servers, desktops, networks)
 
-*Everyday a new hat...*
+*Every day a new hat...*
 
 ## Professional Certifications, Accreditations, Courses and Education
 
 ### Scrum Alliance
 
-* Certified Scrum Master (CSM) _[View](https://www.scrumalliance.org/community/profile/rbarrow6)_
+* _**Certified Scrum Master**_ (_**CSM**_) _[View](https://www.scrumalliance.org/community/profile/rbarrow6)_
 
 ### Atlassian
 
@@ -218,25 +220,29 @@ categories: cv
 
 ### Microsoft
 
-* Agile Project Management using Team Foundation Services (2013)
+* **Agile Project Management** using Team Foundation Services (2013)
 
 ### North Warwickshire Technical College
 
-* National Diploma in Computer Studies (1991)
+* _**National Diploma**_ in Computer Studies (1991) - _**Distinction**_
 
 ### Udemy
 
-* Docker Swarm Mastery: DevOps Style Cluster Orchestration (2018)
-* Docker Mastery: The Complete Toolset From a Docker Captain (2018)
+* **Docker Swarm Mastery**: DevOps Style Cluster Orchestration (2018)
+* **Docker Mastery**: The Complete Toolset From a Docker Captain (2018)
 
-## Skillsets
+## Experience and Skillsets summary
 
-* _**Business**_: experience in _**DevOps**_, _**Agile Coach**_, _**Product Owner**_, _**Scrum Master**_, _**Service Delivery**_ and _**Business Analyst**_ roles
-* _**Transformation**_: experience in migrating legacy teams to modern tool-sets and practices (inc. _**XP, TDD, BDD, Git, Docker**_)
-* _**Technical**_: experience in _**hardware**_, _**virtualisation**_, _**containerisation**_, _**operating system**_, _**application**_ installation / configuration and _**CLI / shell scripting**_ for various systems
-* _**Development**_: experience in various 3rd and 4th generation _**languages**_ and _**frameworks**_
-* _**Integration**_: experience in various _**scripted file transfer** (WinSCP, SFTP, NFS, SMB)_, _**message queue**_ and _**API**_ based integration projects
+* _**Automation**_: experience with various _**automation**_ and _**scripting**_ tools (inc. _**Ansible**_, _**Bash**_, _**Cron**_, _**FlagScript**_)
+* _**Business**_: experience in _**Agile Coach**_, _**Business Analyst**_, _**Developer**_, _**Product Owner**_, _**Project Manager**_, _**Service Delivery Manager**_ and _**Scrum Master**_ roles
+* _**Development**_: experience in various 3rd and 4th generation _**languages**_ (inc. _**C**_, _**COBOL**_, _**Javascript**_, _**Microsoft T-SQL**_, _**Pascal**_, _**Python**_) and _**frameworks**_ (_**Angular**_, _**Bootstrap**_)
+* _**Implementation**_: experience with various in-house and 3rd party products (inc. _**JIRA**_, _**Confluence**_, _**Slack**_, _**Yammer**_) and JIRA plug-ins (inc. _**ScriptRunner**_, _**TFS4JIRA**_)
+* _**Integration**_: experience in various _**scripted file transfer**_ (_**WinSCP**_, _**SFTP**_, _**NFS**_, _**SMB**_), _**message queue**_ and _**API**_ based integration projects
 * _**Support**_: experience in _**pre-sale**_, _**post-sale (implementation)**_ and _**full life-cycle**_ support roles
+* _**Synchronisation**_: experience with _**JIRA**_ and _**Microsoft Visual Studio Online / Azure DevOps**_ (using _**TFS4JIRA**_ plug-in)
+* _**Technical**_: experience in _**hardware**_, _**virtualisation**_, _**containerisation**_, _**operating system**_, _**application**_ installation / configuration and _**CLI / shell scripting**_ for various systems
+* _**Transformation**_: experience in migrating legacy teams to digital tools (inc. _**Git**_, _**Docker**_, _**Skype**_, _**Slack**_, _**Visual Studio Code**_) and modern practices (inc. _**XP**_, _**TDD**_, _**BDD**_, _**CI**_, _**CI/CD**_)
+
 
 ## Publications
 
@@ -245,5 +251,7 @@ categories: cv
 ## Interests
 
 * _**Blockchain**_ technologies and _**Smart Contracts**_
-* _**Containerisation**_, _**micro-service**_ architecture and _**functions-as-a-service**_
+* _**Containerisation**_, _**micro-service**_ architecture and _**function-as-a-service / serverless**_
 * _**Continuous integration**_, _**testing**_, _**delivery**_ and _**deployment**_ pipelines
+* _**DevOps**_ / _**NoOps**_ movements
+* _**Workflow optimisation**_ and _**Value Stream Mapping**_

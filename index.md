@@ -233,15 +233,15 @@ categories: cv
 
 ## Experience and Skillsets summary
 
-* _**Automation**_: experience with various _**automation**_ and _**scripting**_ tools (inc. _**Ansible**_, _**Bash**_, _**Cron**_, _**FlagScript**_)
+* _**Automation**_: experience with various _**automation**_ and _**scripting**_ tools _(inc. **Ansible**, **Bash**, **Cron**, **FlagScript**)_
 * _**Business**_: experience in _**Agile Coach**_, _**Business Analyst**_, _**Developer**_, _**Product Owner**_, _**Project Manager**_, _**Service Delivery Manager**_ and _**Scrum Master**_ roles
-* _**Development**_: experience in various 3rd and 4th generation _**languages**_ (inc. _**C**_, _**COBOL**_, _**Javascript**_, _**Microsoft T-SQL**_, _**Pascal**_, _**Python**_) and _**frameworks**_ (_**Angular**_, _**Bootstrap**_)
-* _**Implementation**_: experience with various in-house and 3rd party products (inc. _**JIRA**_, _**Confluence**_, _**Slack**_, _**Yammer**_) and JIRA plug-ins (inc. _**ScriptRunner**_, _**TFS4JIRA**_)
-* _**Integration**_: experience in various _**scripted file transfer**_ (_**WinSCP**_, _**SFTP**_, _**NFS**_, _**SMB**_), _**message queue**_ and _**API**_ based integration projects
-* _**Support**_: experience in _**pre-sale**_, _**post-sale (implementation)**_ and _**full life-cycle**_ support roles
-* _**Synchronisation**_: experience with _**JIRA**_ and _**Microsoft Visual Studio Online / Azure DevOps**_ (using _**TFS4JIRA**_ plug-in)
+* _**Development**_: experience in various 3rd and 4th generation _**languages** (inc. **C**, **COBOL**, **Javascript**, **Microsoft T-SQL**, **Pascal**, **Python**)_ and _**frameworks** (inc. **Angular**, **Bootstrap**)_
+* _**Implementation**_: experience with various in-house and 3rd party products (inc. _**JIRA**_, _**Confluence**_, _**Slack**_, _**Yammer**_) and JIRA plug-ins _(inc. **ScriptRunner**, **TFS4JIRA**_)_
+* _**Integration**_: experience in various _**scripted file transfer** (inc. **WinSCP**, **SFTP**, **NFS**, **SMB**)_, _**message queue**_ and _**API**_ based integration projects
+* _**Support**_: experience in _**pre-sale**_, _**post-sale** (implementation)_ and _**full life-cycle**_ support roles
+* _**Synchronisation**_: experience with _**JIRA**_ and _**Microsoft Visual Studio Online / Azure DevOps** (using **TFS4JIRA** plug-in)_
 * _**Technical**_: experience in _**hardware**_, _**virtualisation**_, _**containerisation**_, _**operating system**_, _**application**_ installation / configuration and _**CLI / shell scripting**_ for various systems
-* _**Transformation**_: experience in migrating legacy teams to digital tools (inc. _**Git**_, _**Docker**_, _**Skype**_, _**Slack**_, _**Visual Studio Code**_) and modern practices (inc. _**XP**_, _**TDD**_, _**BDD**_, _**CI**_, _**CI/CD**_)
+* _**Transformation**_: experience in migrating legacy teams to digital tools _(inc. **Git**, **Docker**, **Skype**, **Slack**, **Visual Studio Code**)_ and modern practices _(inc. **XP**, **TDD**, **BDD**, **CI**, **CI/CD**)_
 
 
 ## Publications

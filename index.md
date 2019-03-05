@@ -47,7 +47,7 @@ categories: cv
 
 *Objective*: Oversight and governance of JIRA implementation and administrative support.
 
-* Configuring all aspects of JIRA: _projects, Agile boards (Scrum / Kanban), Shared Schemes, Workflows, Security, User Groups and User Accounts_.
+* Configuring all aspects of JIRA: _projects, Agile boards (Scrum / Kanban), Dashboards, Shared Schemes, Workflows, Security, User Groups and User Accounts_.
 
 * Maintaining JIRA Administration "Best practices" and associated documentation in Confluence, including configuration details for JIRA projects / shared schemes / workflow etc.
 

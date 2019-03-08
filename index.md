@@ -208,7 +208,7 @@ categories: cv
 
 ### Scrum Alliance
 
-* _**Certified Scrum Master**_ (_**CSM**_) _[View](https://www.scrumalliance.org/community/profile/rbarrow6)_
+* _**Certified Scrum Master**_ (_**CSM**_) _[View](https://certification.scrumalliance.org/accounts/887172-robert-andrew-barrow/certifications/1007243-csm/)_
 
 ### Atlassian
 

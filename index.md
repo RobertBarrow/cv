@@ -67,12 +67,6 @@ categories: cv
 
 *Recent achievements*: Successfully implementing MiFID II (2017) and GDRP (2018) compliancy.  Migrating on-premise servers at various client sites to hosted service in Objectway data centre (2019).
 
-### Director
-
-**_Oakley Pond Management Company Limited (Sep 2000 - Present)_**
-
-* Responsible for estate management, fund raising and community relations.
-
 ## Previous Roles & Employment History
 
 ### Agile Coach and Transformation Lead

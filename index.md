@@ -24,9 +24,7 @@ categories: cv
 *Objective*: Roll-out digital collaboration tools and implement Agile at the Program level across multiple Product centres.
 
 * Oversight and governance of the implementation, training and support of digital collaboration tools to be used by solution development teams (JIRA Core, JIRA Agile, JIRA Service Desk, Confluence, Slack).
-
 * Coaching Business Leaders, Product Owners, Scrum Masters and Scrum teams in line with latest scaled agile frameworks, methodologies and best practices.
-
 * Evangelising the move to Value Based Velocity which helps Product Owners and Scrum teams to focus on value delivery and outcomes.
 
 ### JIRA Administrator
@@ -36,9 +34,7 @@ categories: cv
 *Objective*: Oversight and governance of JIRA implementation and administrative support.
 
 * Configuring all aspects of JIRA: _projects, Agile boards (Scrum / Kanban), Dashboards, Shared Schemes, Workflows, Security, User Groups and User Accounts_.
-
 * Maintaining JIRA Administration "Best practices" and associated documentation in Confluence, including configuration details for JIRA projects / shared schemes / workflow etc.
-
 * Training other JIRA Administrators in line with best practices.
 
 *Metrics*: Currently supporting 1,200+ users over 500+ projects.
@@ -50,7 +46,6 @@ categories: cv
 *Objective*: Responsible for roadmap and service delivery of Flagship products and leadership of the solution development team.
 
 * Employing Agile product development and project management techniques whilst implementing and integrating products from the Objectway portfolio with various clients' in-house and 3rd party systems.
-
 * Co-ordinating development, implementation, service delivery and support efforts for Flagship product centre and remote team.
 
 *Recent achievements*: Successfully implementing MiFID II (2017) and GDRP (2018) compliancy.  Migrating on-premise servers at various client sites to hosted service in Objectway data centre (2019).
@@ -64,21 +59,13 @@ categories: cv
 *Objective*: Act as Scrum master for a new team from inception, through exploration and construction phases.
 
 * Running Scrum events and ceremonies (Backlog Refinement, Sprint planning, Daily stand-ups, Sprint reviews and Retrospectives).
-
 * Working closely with stakeholders, Product Owner and Scrum team to remove impediments.
-
 * Coaching stakeholders in how best to interface with the Product Owner and Scrum team to maximise the value from their interactions.
-
 * Assisting the Product Owner in the analysis of business requirements to become Subject Matter Expert in a completely new domain / industry sector.
-
 * Assisting the Scrum team in refining the emerging architecture requirements for the digital transformation and modernisation of a Container Shipping system.
-
 * Performing technical analysis as SME for the migration of legacy codebase (from Unix to Windows).
-
 * Introducing, coaching and supporting the implementation of Agile / XP methodologies (pairing, TDD, BDD) and modern version control / digital collaboration tools (Git, JIRA Software, Confluence, Slack, WinSCP scripts).
-
 * Guiding the Scrum team in the investigation and adoption of development models (RBAC), frameworks (Bootstrap, Angular) and architectures (MVC, MVVM. Microservices).
-
 * Evangelising the move to infrastructure-as-code and experimentation with containerisation (using Docker) for continuous deployment.
   
 ### Agile Coach and Transformation Lead
@@ -88,15 +75,10 @@ categories: cv
 *Objective*: Implement Agile at team level across multiple Product centres.
 
 * Coaching Business Analysts, Product Owners, Scrum Masters and Scrum teams as Subject Matter Expert for agile best practices.
-
 * Establishing an iterative and incremental approach to Product development at the solution development team level.
-
 * Working with Product Owners and Scrum teams to coordinate the agile events (Backlog Refinement, Sprint Planning, Daily Stand-ups, Sprint Reviews and Retrospectives).
-
 * Establishing culture of Continuous Improvement and leading the transformation of teams working with legacy codebases.
-
 * Introducing Kanban boards, Story Point estimation, MoSCoW Reviews, Impact Mapping, Test-Driven Development, Continous Integration and Continuous Delivery.
-
 * Attending various Agile / Lean / DevOps summits, conferences and Meetups to keep abrest of latest thinking in agile circles and gain additional knowledge and insights from the experiences of others.
 
 ### Product Manager
@@ -106,17 +88,13 @@ categories: cv
 *Objective*: Adopt latest Agile methodologies, practices and toolsets for Flagship product development
 
 * Managing Agile Projects using Pivotal Tracker
-
 * Iteration planning
-
 * Performing MoSCoW reviews
-
 * XP Pairing
 
 *Other responsibilities*:
 
 * Team management (both co-located and distributed)
-
 * Resource management (inc. acquisition and disposal)
 
 ### Software architect
@@ -128,11 +106,8 @@ categories: cv
 *Acheivements*: Successful implementation of various system integrations
 
 * Binnacle - message queue system
-
 * FlagWin - front office system
-
 * r2C (also known as "reporting to clients") - reporting system
-
 * UnaVista - Transaction Reporting
 
 ### Research and Development team member
@@ -142,17 +117,11 @@ categories: cv
 *Objective*: research and development of Flagship back-office settlement system
 
 * Migrating legacy code base from Novell / Windows NT 3.5 to SCO OpenServer Unix (5.x)
-
 * Rapid application/software development with Retrieve 4GL & MS T-SQL
-
 * Extreme Programming (XP) experience with small team of developers
-
 * Trunk-based development (TBD) / continuous-integration and deployment (CI/CD) of Flagship products
-
 * Operations / system implementation experience with SCO OpenServer Unix (5.x and 6.x) and Novell Netware (3.x)
-
 * Data analysis, ETL and integration experience with various 3rd party Financial data systems / providers:
-
   * CREST / Euroclear (DEX/ISO)
   * EDI
   * Hemscott
@@ -160,9 +129,7 @@ categories: cv
   * Proquote
   * Six Financials (TELEKURS)
   * SWIFT (ISO)
-
 * Systems integration experience with various 3rd party systems, including:
-
   * Bottomline (payments processing)
   * CREST (BT Syntegra and LSE)
   * Fidessa ETP (Binnacle API)

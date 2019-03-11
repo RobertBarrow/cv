@@ -189,6 +189,21 @@ categories: cv
   * Thomson Market Match
   * Zetafax
 
+### Development Manager
+
+**_Colbek Systems Limited (1991 – 1998)_**
+
+* Leading a small team developing Production Control software for SMEs (engineering)
+* Developing bespoke software using Rapid Application Development (RAD) with Retrieve 4GL
+* Deployment to SCO Unix, Novell Netware and Windows NT environments
+* Integration with Sage Line 100 Accounting package
+* Business Analysis and Requirements Gathering
+* 1st & 2nd line Customer Support
+* Novell / Windows NT implementation
+* Hardware technician (servers, desktops, networks)
+
+*Every day a new hat...*
+
 ## Professional Certifications, Accreditations, Courses and Education
 
 ### Scrum Alliance

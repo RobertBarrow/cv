@@ -57,24 +57,6 @@ categories: cv
 
 ## Previous Roles & Employment History
 
-### Agile Coach and Transformation Lead
-
-**_Objectway Limited (Dec 2014 – Feb 2016)_**
-
-*Objective*: Implement Agile at team level across multiple Product centres.
-
-* Coaching Business Analysts, Product Owners, Scrum Masters and Scrum teams as Subject Matter Expert for agile best practices.
-
-* Establishing an iterative and incremental approach to Product development at the solution development team level.
-
-* Working with Product Owners and Scrum teams to coordinate the agile events (Backlog Refinement, Sprint Planning, Daily Stand-ups, Sprint Reviews and Retrospectives).
-
-* Establishing culture of Continuous Improvement and leading the transformation of teams working with legacy codebases.
-
-* Introducing Kanban boards, Story Point estimation, MoSCoW Reviews, Impact Mapping, Test-Driven Development, Continous Integration and Continuous Delivery.
-
-* Attending various Agile / Lean / DevOps summits, conferences and Meetups to keep abrest of latest thinking in agile circles and gain additional knowledge and insights from the experiences of others.
-
 ### Scrum Master
 
 **_Objectway Limited (Feb 2016 - Nov 2016)_**
@@ -98,6 +80,24 @@ categories: cv
 * Guiding the Scrum team in the investigation and adoption of development models (RBAC), frameworks (Bootstrap, Angular) and architectures (MVC, MVVM. Microservices).
 
 * Evangelising the move to infrastructure-as-code and experimentation with containerisation (using Docker) for continuous deployment.
+  
+### Agile Coach and Transformation Lead
+
+**_Objectway Limited (Dec 2014 – Feb 2016)_**
+
+*Objective*: Implement Agile at team level across multiple Product centres.
+
+* Coaching Business Analysts, Product Owners, Scrum Masters and Scrum teams as Subject Matter Expert for agile best practices.
+
+* Establishing an iterative and incremental approach to Product development at the solution development team level.
+
+* Working with Product Owners and Scrum teams to coordinate the agile events (Backlog Refinement, Sprint Planning, Daily Stand-ups, Sprint Reviews and Retrospectives).
+
+* Establishing culture of Continuous Improvement and leading the transformation of teams working with legacy codebases.
+
+* Introducing Kanban boards, Story Point estimation, MoSCoW Reviews, Impact Mapping, Test-Driven Development, Continous Integration and Continuous Delivery.
+
+* Attending various Agile / Lean / DevOps summits, conferences and Meetups to keep abrest of latest thinking in agile circles and gain additional knowledge and insights from the experiences of others.
 
 ### Product Manager
 

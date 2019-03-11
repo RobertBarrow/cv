@@ -15,18 +15,6 @@ categories: cv
       
 *Social*: [![LinkedIn](https://robertbarrow.github.io/cv/assets/icons/LinkedIn-2C-21px-R.png "robertbarrow")](https://www.linkedin.com/in/robertbarrow) LinkedIn, [![GitHub](https://robertbarrow.github.io/cv/assets/icons/GitHub-Mark-20x20.png "RobertBarrow")](https://github.com/RobertBarrow) GitHub, [![Twitter](https://robertbarrow.github.io/cv/assets/icons/Twitter_Social_Icon_Rounded_Square_Color_20x20.png "@SquidVicious_UK")](https://twitter.com/SquidVicious_UK) Twitter
 
-## Personal Information
-
-*Date of Birth*: **12th December 1972**
-
-*Place of Birth*: **Nuneaton, Warwickshire, England, UK**
-
-*Passport/Citizenship*: **Full, British**
-
-*Gender*: **Male**
-
-*Marital Status*: **Married**
-
 ## Current Roles
 
 ### Agile Transformation Manager

@@ -121,22 +121,8 @@ categories: cv
 * Extreme Programming (XP) experience with small team of developers
 * Trunk-based development (TBD) / continuous-integration and deployment (CI/CD) of Flagship products
 * Operations / system implementation experience with SCO OpenServer Unix (5.x and 6.x) and Novell Netware (3.x)
-* Data analysis, ETL and integration experience with various 3rd party Financial data systems / providers:
-  * CREST / Euroclear (DEX/ISO)
-  * EDI
-  * Hemscott
-  * Interactive Data (EXSHARE, FTS, ITEX, XML)
-  * Proquote
-  * Six Financials (TELEKURS)
-  * SWIFT (ISO)
-* Systems integration experience with various 3rd party systems, including:
-  * Bottomline (payments processing)
-  * CREST (BT Syntegra and LSE)
-  * Fidessa ETP (Binnacle API)
-  * Omgeo CTM / Oasys Global
-  * SWIFT (SMA Bureau service)
-  * Thomson Market Match
-  * Zetafax
+* Data analysis, ETL and integration experience with various 3rd party Financial data systems / providers
+* Systems integration experience with various 3rd party systems
 
 ## Professional Certifications, Accreditations, Courses and Education
 

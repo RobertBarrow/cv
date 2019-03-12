@@ -3,9 +3,10 @@ title:  "Curriculum Vitae for Robert Barrow"
 date:   2018-07-04 13:00:00 +0000
 categories: cv
 ---
-| Contact Details | | | | |
+# Contact Details
+
+| | **Robert Andrew Barrow** |||
 | --- | --- | --- | ---- | --- |
-| *Full name* | **Robert Andrew Barrow** |||
 | *Address* | **1 Oakley Pond, Great Oakley, Corby, Northamptonshire NN18 8NN, UK** |||
 | *Telephone* | **+44 (0) 7955 142314** |||
 | *Email & social*| **[robert.barrow@gmail.com](mailto:robert.barrow@gmail.com)** | LinkedIn [![LinkedIn](https://robertbarrow.github.io/cv/assets/icons/LinkedIn-2C-21px-R.png "robertbarrow")](https://www.linkedin.com/in/robertbarrow) | GitHub [![GitHub](https://robertbarrow.github.io/cv/assets/icons/GitHub-Mark-20x20.png "RobertBarrow")](https://github.com/RobertBarrow) | Twitter [![Twitter](https://robertbarrow.github.io/cv/assets/icons/Twitter_Social_Icon_Rounded_Square_Color_20x20.png "@SquidVicious_UK")](https://twitter.com/SquidVicious_UK) |

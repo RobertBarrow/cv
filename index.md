@@ -15,11 +15,7 @@ categories: cv
 
 *Social*: [![LinkedIn](https://robertbarrow.github.io/cv/assets/icons/LinkedIn-2C-21px-R.png "robertbarrow")](https://www.linkedin.com/in/robertbarrow) LinkedIn, [![GitHub](https://robertbarrow.github.io/cv/assets/icons/GitHub-Mark-20x20.png "RobertBarrow")](https://github.com/RobertBarrow) GitHub, [![Twitter](https://robertbarrow.github.io/cv/assets/icons/Twitter_Social_Icon_Rounded_Square_Color_20x20.png "@SquidVicious_UK")](https://twitter.com/SquidVicious_UK) Twitter
 
-| Employment summary | | |
-| --- | --- | --- |
-| Objectway Limited | Dec 2014 - Mar 2019 | Financial Software & Digital Solutions for Banking, Securities and Insurance industries |
-| 3i Infotech (Western Europe) Limited | Dec 2007 - Dec 2014 | Service provider for Wealth, Investment & Asset Management industry |
-| Exact Technical Services Limited | Jun 1998 - Dec 2007 | Software provider for UK stockbrokers |
+# Employment History
 
 ## Objectway Limited
 

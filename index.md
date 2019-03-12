@@ -13,9 +13,9 @@ categories: cv
 
 # Employment History
 
-## **Objectway Limited**
+## **Objectway Limited** ~ (Dec 2014 – Mar 2019)
 
-### **Agile Transformation / Delivery Manager** ~ (Jan 2015 – Mar 2019)
+### **Agile Transformation / Delivery Manager** 
 
 *Objectives, major projects and other responsibilities*:
 

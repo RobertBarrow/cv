@@ -5,7 +5,7 @@ categories: cv
 ---
 # Contact Details
 
-|Full name|**Robert Andrew Barrow**||||
+|Full name|Robert Andrew Barrow||||
 | --- | --- | --- | ---- | --- |
 |*Address*|1 Oakley Pond, Great Oakley, Corby, Northamptonshire NN18 8NN, UK||||
 |*Telephone*|**+44 (0) 7955 142314**||||

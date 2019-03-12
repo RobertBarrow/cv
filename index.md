@@ -11,23 +11,24 @@ categories: cv
 |*Telephone*|**+44 (0) 7955 142314**||||
 |*Email & social*|**[robert.barrow@gmail.com](mailto:robert.barrow@gmail.com)**|LinkedIn [![LinkedIn](https://robertbarrow.github.io/cv/assets/icons/LinkedIn-2C-21px-R.png "robertbarrow")](https://www.linkedin.com/in/robertbarrow)|GitHub [![GitHub](https://robertbarrow.github.io/cv/assets/icons/GitHub-Mark-20x20.png "RobertBarrow")](https://github.com/RobertBarrow)|Twitter [![Twitter](https://robertbarrow.github.io/cv/assets/icons/Twitter_Social_Icon_Rounded_Square_Color_20x20.png "@SquidVicious_UK")](https://twitter.com/SquidVicious_UK)|
 
-## Employment History
+# Employment History
 
 ## **Objectway Limited**
 
-### Agile Delivery Manager (Oct 2018 – Mar 2019)
+### **Agile Transformation / Delivery Manager** ~ (Jan 2015 – Mar 2019)
 
-*Objective*: Deliver a successful migration of clients from legacy (on-premise) systems against a hard deadline
+*Objectives, major projects and other responsibilities*:
 
+#### Flagship client migration ~ (6 month project)
+
+* Delivering a successful migration of clients from legacy (on-premise) systems against a hard deadline.
 * Project management supporting business analysts, implementation team and clients during transition phase.
 * Providing expert knowledge and guidance to implementation team for ETL and data validation techniques.
 * Defining and tracking metrics used for data conversion and reconciliation during migration "dry-run" trials.
 * Facilitating deployment of read-only systems for historical audit enquiries and regulatory compliance.
 * Overseeing migration of on-premise servers (at various client sites) to hosted service in Objectway data centre.
 
-### Agile Transformation Manager (Feb 2016 – Oct 2018)
-
-*Objective*: Roll-out digital collaboration tools and implement Agile at the Program level across multiple Product centres
+#### Roll-out digital collaboration tools and implement Agile at the Program level across multiple Product centres ~ (2 year delivery programme)
 
 * Oversight and governance of the implementation, training and support of digital collaboration tools to be used by solution development teams (JIRA Core, JIRA Agile, JIRA Service Desk, Confluence, Slack).
 * Coaching Business Leaders, Product Owners, Scrum Masters and Scrum teams in line with latest scaled agile frameworks, methodologies and best practices.
@@ -35,26 +36,16 @@ categories: cv
 * Overseeing all aspects of JIRA configuration for new projects/teams (acting as Senior JIRA Administrator for UK).
 * Attending various Agile / Lean / DevOps summits, conferences and Meetups to keep abrest of latest thinking in agile circles and gain additional knowledge and insights from the experiences of others.
 
-### Product Owner ~ Flagship (Dec 2014 - Oct 2018)
+#### Implement Agile transformation of Brewin Dolphin FISCAL team for MiFID II ~ (3 month secondment)
 
-*Objective*: Responsible for roadmap, backlog and service delivery for Flagship (legacy product)
-
-* Agile project management for development and implementation of regulatory updates e.g. Flexible & Lifetime ISAs (2016), MiFID II (2017), GDRP (2018).
-* Co-ordinating development, service delivery and support efforts.
-
-### Agile Coach and Transformation Lead ~ MiFID II (Dec 2016 – Feb 2017)
-
-*Objective*: Implement Agile transformation for Brewin Dolphin FISCAL team
-
+* Acting as Agile Coach and leading the transformation of FISCAL product development and implementation team.
 * Providing training and coaching for Business Analysts, Product Owner, Scrum Master and Scrum team.
 * Introducing Scrum events, Story Point estimation, MoSCoW Reviews, Test-Driven Development.
 * Establishing an iterative and incremental approach to Product development for MiFID II project.
 * Configuring JIRA to be used for MiFID II project management (development, UAT and implementation).
 * Implementing two-way JIRA / Microsoft Visual Studio Online synchronisation using TFS4JIRA plug-in.
   
-### Scrum Master ~ Digital transformation project (Mar 2016 - Nov 2016)
-
-*Objective*: Act as Scrum master for a new team from inception, through exploration and construction phases
+#### Acting as Scrum Master for Digital Transformation project ~ (9 month secondment)
 
 * Running Scrum events and ceremonies (Backlog Refinement, Sprint planning, Daily stand-ups, Sprint reviews and Retrospectives).
 * Working closely with stakeholders, Product Owner and Scrum team to remove impediments.
@@ -66,69 +57,65 @@ categories: cv
 * Guiding the Scrum team in the investigation and adoption of development models (RBAC), frameworks (Bootstrap, Angular) and architectures (MVC, MVVM, Microservices).
 * Evangelising the move to infrastructure-as-code and experimentation with containerisation (using Docker) for continuous deployment.
   
-### Agile Coach and Transformation Lead ~ Product Development (Dec 2015 – Feb 2016)
+#### Implement Agile at team level across multiple Product centres ~ (3 month project)
 
-*Objective*: Implement Agile at team level across multiple Product centres
-
+* Acting as Agile Coach and Transformation Lead for several Product Development teams during transformation period.
 * Coaching Business Analysts, Product Owners, Scrum Masters and Scrum teams as Subject Matter Expert for agile best practices.
 * Establishing an iterative and incremental approach to Product development at the solution development team level.
 * Working with Product Owners and Scrum teams to coordinate the agile events (Backlog Refinement, Sprint Planning, Daily Stand-ups, Sprint Reviews and Retrospectives).
 * Establishing culture of Continuous Improvement and leading the transformation of teams working with legacy codebases.
 * Introducing Kanban boards, Story Point estimation, MoSCoW Reviews, Impact Mapping, Test-Driven Development, Continous Integration and Continuous Delivery.
 
-### JIRA Administrator (Sep 2015 – Feb 2016)
+#### Acting as Senior JIRA Administrator during JIRA Implementation period ~ (6 month project)
 
-*Objective*: Oversight and governance of JIRA implementation (1,200+ users over 500+ projects)
-
+* Oversight and governance of JIRA implementation (1,200+ users over 500+ projects)
 * Overseeing all aspects of JIRA configuration: _projects, Agile boards (Scrum / Kanban), Dashboards, Shared Schemes, Workflows, Security, User Groups and User Accounts_.
 * Maintaining JIRA Administration "Best practices" and associated documentation in Confluence, including configuration details for JIRA projects / shared schemes / workflows etc.
 * Training other JIRA Administrators in line with best practices.
 * Establishing JIRA administrative support process.
 
-### Project Manager - Altimis migration team (Dec 2014 - Aug 2015)
+#### Flagship migration ~ (9 month secondment)
 
-*Objective*: Responsible for successful migration of Flagship clients to Altimis product
+* Responsible for successful migration of Flagship clients to Altimis product / Wealth-in-One solution.
+* Delivering a successful migration of client data from legacy (on-premise) systems against a hard deadlines.
+* Project management supporting business analysts, implementation team and clients during transition phase.
+* Gap analysis of existing vs. target application.
+* Providing expert knowledge and guidance to implementation team for ETL and data validation techniques.
+* Defining and tracking metrics used for data conversion and reconciliation during migration "dry-run" trials.
+* Facilitating project co-ordination events for Atimis support team.
+* Scheduling resource availability across multiple projects.
+* Project managing deployment of read-only systems for historical audit enquiries and regulatory compliance.
+* Overseeing migration of on-premise servers (at various client sites) to hosted service in Objectway data centre.
 
-* Project management supporting business analysts, implementation team and clients during transition phase
-* Gap analysis of existing vs. target application
-* Facilitating project co-ordination events for Atimis support team
-* Scheduling resource availability across multiple projects
+#### Acting as Product Owner for Flagship [as a background task] ~ (4 years+)
 
-## **3i Infotech (Western Europe) Limited**
+* Responsible for roadmap, backlog and service delivery for Flagship (legacy product).
+* Agile project management for development and implementation of regulatory updates e.g. Flexible & Lifetime ISAs (2016), MiFID II (2017), GDRP (2018).
+* Co-ordinating development, service delivery and support efforts.
 
-### Service Delivery Manager ~ Flagship (May 2011 - Dec 2014)
+## **3i Infotech (Western Europe) Limited** ~ (Jan 2008 - Dec 2014)
 
-*Objective*: Responsible for service delivery of Flagship products and leadership of the solution development team.
+### **Service Delivery Manager**
 
-* Employing Agile product development and project management techniques whilst implementing and integrating products from the Objectway portfolio with various clients' in-house and 3rd party systems.
-* Co-ordinating development, implementation, service delivery and support efforts for Flagship product centre and remote team.
+#### Responsible for service delivery of Flagship products and leadership of the solution development team
 
-### Product Manager ~ Flagship (Mar 2010 - May 2011)
-
-*Objective*: Drive adoption of Agile methodologies, practices and toolsets for Flagship product development team
-
-* Managing Agile Projects using Pivotal Tracker.
-* Iteration planning.
-* Performing MoSCoW reviews.
-* XP Pairing.
-* Team management (both co-located and distributed).
-* Resource management (inc. acquisition and disposal).
-
-### Software architect ~ Flagship (Jan 2008 - Mar 2010)
-
-*Objective*: Integrate Flagship back-office settlement system with other 3i Infotech products and 3rd party systems
-
-* Successful implementation of various system integrations
+* Successful implemention and integration of Objectway products with clients' in-house and 3rd party systems:
   * Binnacle - message queue system
-  * FlagWin - front office system
-  * r2C (also known as "reporting to clients") - reporting system
-  * UnaVista - Transaction Reporting
+  * FlagWin - front office application
+  * r2C (also known as "reporting to clients") - reporting solution
+  * UnaVista - Transaction Reporting service
+* Co-ordinating development, implementation, service delivery and support efforts for Flagship product centre and remote team:
+  * Team management (both co-located and distributed).
+  * Resource management (inc. acquisition and disposal).
+* Driving adoption of Agile methodologies, practices and toolsets for Flagship product development team:
+  * Managing Agile Projects using Pivotal Tracker.
+  * Iteration planning.
+  * Performing MoSCoW reviews.
+  * XP Pairing.
 
-## **Exact Technical Services Limited**
+## **Exact Technical Services Limited** ~ (Jun 1998 – Dec 2007)
 
-### Reseach and development team member (Jun 1998 – Dec 2007)
-
-*Objective*: research and development of new back-office settlement system
+### Research and development of new back-office settlement system for UK stockbrokers
 
 * Migrating legacy code base from Novell / Windows NT 3.5 to SCO OpenServer Unix (5.x).
 * Rapid application/software development with Retrieve 4GL & MS T-SQL.

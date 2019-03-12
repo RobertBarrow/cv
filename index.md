@@ -3,21 +3,16 @@ title:  "Curriculum Vitae for Robert Barrow"
 date:   2018-07-04 13:00:00 +0000
 categories: cv
 ---
-## Contact Details
-
-*Full name*: **Robert Andrew Barrow**
-
-*Address*:  **1 Oakley Pond, Great Oakley, Corby, Northamptonshire NN18 8NN, UK**
-
-*Telephone*: **+44 (0) 7955 142314**
-
-*Email*: **[robert.barrow@gmail.com](mailto:robert.barrow@gmail.com)**
-
-*Social*: [![LinkedIn](https://robertbarrow.github.io/cv/assets/icons/LinkedIn-2C-21px-R.png "robertbarrow")](https://www.linkedin.com/in/robertbarrow) LinkedIn, [![GitHub](https://robertbarrow.github.io/cv/assets/icons/GitHub-Mark-20x20.png "RobertBarrow")](https://github.com/RobertBarrow) GitHub, [![Twitter](https://robertbarrow.github.io/cv/assets/icons/Twitter_Social_Icon_Rounded_Square_Color_20x20.png "@SquidVicious_UK")](https://twitter.com/SquidVicious_UK) Twitter
+| Contact Details | | | | |
+| --- | --- | --- | ---- | --- |
+| *Full name* | **Robert Andrew Barrow** |||
+| *Address* | **1 Oakley Pond, Great Oakley, Corby, Northamptonshire NN18 8NN, UK** |||
+| *Telephone* | **+44 (0) 7955 142314** |||
+| *Email & social*| **[robert.barrow@gmail.com](mailto:robert.barrow@gmail.com)** | LinkedIn [![LinkedIn](https://robertbarrow.github.io/cv/assets/icons/LinkedIn-2C-21px-R.png "robertbarrow")](https://www.linkedin.com/in/robertbarrow) | GitHub [![GitHub](https://robertbarrow.github.io/cv/assets/icons/GitHub-Mark-20x20.png "RobertBarrow")](https://github.com/RobertBarrow) | Twitter [![Twitter](https://robertbarrow.github.io/cv/assets/icons/Twitter_Social_Icon_Rounded_Square_Color_20x20.png "@SquidVicious_UK")](https://twitter.com/SquidVicious_UK) |
 
 # Employment History
 
-## Objectway Limited
+## **Objectway Limited**
 
 ### Agile Delivery Manager (Oct 2018 – Mar 2019)
 
@@ -98,7 +93,7 @@ categories: cv
 * Facilitating project co-ordination events for Atimis support team
 * Scheduling resource availability across multiple projects
 
-## 3i Infotech (Western Europe) Limited
+## **3i Infotech (Western Europe) Limited**
 
 ### Service Delivery Manager ~ Flagship (May 2011 - Dec 2014)
 
@@ -128,7 +123,7 @@ categories: cv
   * r2C (also known as "reporting to clients") - reporting system
   * UnaVista - Transaction Reporting
 
-## Exact Technical Services Limited 
+## **Exact Technical Services Limited**
 
 ### Reseach and development team member (Jun 1998 – Dec 2007)
 

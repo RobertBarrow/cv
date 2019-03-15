@@ -15,7 +15,7 @@ categories: cv
 
 ## **Objectway Limited** ~ (Dec 2014 – Mar 2019)
 
-### **Agile Transformation / Delivery Manager** 
+### **Agile Transformation / Delivery Manager**
 
 *Objectives, major projects and other responsibilities*:
 
@@ -163,7 +163,6 @@ categories: cv
 * _**Synchronisation**_: experience with _**JIRA**_ and _**Microsoft Visual Studio Online / Azure DevOps** (using **TFS4JIRA** plug-in)_
 * _**Technical**_: experience in _**hardware**_, _**virtualisation**_, _**containerisation**_, _**operating system**_, _**application**_ installation / configuration and _**CLI / shell scripting**_ for various systems
 * _**Transformation**_: experience in migrating legacy teams to digital tools _(inc. **Git**, **Docker**, **Skype**, **Slack**, **Visual Studio Code**)_ and modern practices _(inc. **XP**, **TDD**, **BDD**, **CI**, **CI/CD**)_
-
 
 ## Publications
 

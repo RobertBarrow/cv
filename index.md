@@ -74,16 +74,15 @@ categories: cv
 * Training other JIRA Administrators in line with best practices.
 * Establishing JIRA administrative support process.
 
-#### Flagship migration ~ (9 month secondment)
+#### Live client data migration ~ (9 month secondment)
 
-* Responsible for successful migration of Flagship clients to Altimis product / Wealth-in-One solution.
-* Delivering a successful migration of client data from legacy (on-premise) systems against a hard deadlines.
+* Delivering the successful migration of live client data from legacy product to Wealth-in-One solution.
 * Project management supporting business analysts, implementation team and clients during transition phase.
-* Gap analysis of existing vs. target application.
+* Gap analysis of existing vs. target application functionality.
 * Providing expert knowledge and guidance to implementation team for ETL and data validation techniques.
 * Defining and tracking metrics used for data conversion and reconciliation during migration "dry-run" trials.
-* Facilitating project co-ordination events for Atimis support team.
-* Scheduling resource availability across multiple projects.
+* Facilitating project co-ordination events for Altimis support team.
+* Scheduling shared resource availability (with commitments across multiple projects).
 * Project managing deployment of read-only systems for historical audit enquiries and regulatory compliance.
 * Overseeing migration of on-premise servers (at various client sites) to hosted service in Objectway data centre.
 

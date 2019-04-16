@@ -81,7 +81,7 @@ categories: cv
 * Gap analysis of existing vs. target application functionality.
 * Providing expert knowledge and guidance to implementation team for ETL and data validation techniques.
 * Defining and tracking metrics used for data conversion and reconciliation during migration "dry-run" trials.
-* Facilitating project co-ordination events for Altimis support team.
+* Facilitating project coordination events for Altimis support team.
 * Scheduling shared resource availability (with commitments across multiple projects).
 * Project managing deployment of read-only systems for historical audit enquiries and regulatory compliance.
 * Overseeing migration of on-premise servers (at various client sites) to hosted service in Objectway data centre.
@@ -90,7 +90,7 @@ categories: cv
 
 * Responsible for roadmap, backlog and service delivery for Flagship (legacy product).
 * Agile project management for development and implementation of regulatory updates e.g. Flexible & Lifetime ISAs (2016), MiFID II (2017), GDRP (2018).
-* Co-ordinating development, service delivery and support efforts.
+* Coordinating development, service delivery and support efforts.
 
 ## **3i Infotech (Western Europe) Limited** ~ (Jan 2008 - Dec 2014)
 
@@ -103,7 +103,7 @@ categories: cv
   * FlagWin - front office application
   * r2C (also known as "reporting to clients") - reporting solution
   * UnaVista - Transaction Reporting service
-* Co-ordinating development, implementation, service delivery and support efforts for Flagship product centre and remote team:
+* Coordinating development, implementation, service delivery and support efforts for Flagship product centre and remote team:
   * Team management (both co-located and distributed).
   * Resource management (inc. acquisition and disposal).
 * Driving adoption of Agile methodologies, practices and toolsets for Flagship product development team:
@@ -153,7 +153,7 @@ categories: cv
 
 ## Experience and Skillsets summary
 
-* _**Automation**_: experience with various _**scripting**_ tools _(inc. **Ansible**, **Autorun**, **Bash**, **Cron**, **FlagScript**)_
+* _**Automation**_: experience with various _**scripting**_ tools _(inc. **Ansible**, **Autorun**, **Bash**, **Cron**, **FlagScript**, **ScripRunner**)_
 * _**Business**_: experience in _**Agile Coach**_, _**Business Analyst**_, _**Developer**_, _**Product Owner**_, _**Project Manager**_, _**Service Delivery Manager**_ and _**Scrum Master**_ roles
 * _**Development**_: experience in various 3rd and 4th generation _**languages** (inc. **C**, **COBOL**, **Javascript**, **Microsoft T-SQL**, **Pascal**, **Python**)_ and _**frameworks** (inc. **Angular**, **Bootstrap**)_
 * _**Implementation**_: experience with various in-house and 3rd party products (inc. _**JIRA**_, _**Confluence**_, _**Slack**_, _**Yammer**_) and JIRA plug-ins _(inc. **ScriptRunner**, **TFS4JIRA**)_

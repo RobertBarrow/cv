@@ -172,5 +172,5 @@ categories: cv
 * _**Blockchain**_ technologies and _**Smart Contracts**_
 * _**Containerisation**_, _**micro-service**_ architecture and _**function-as-a-service / serverless**_
 * _**Continuous integration**_, _**testing**_, _**delivery**_ and _**deployment**_ pipelines
-* _**DevOps**_ / _**NoOps**_ movements
+* _**DevOps**_ / _**GitOps**_ / _**NoOps**_ movements
 * _**Workflow optimisation**_ and _**Value Stream Mapping**_

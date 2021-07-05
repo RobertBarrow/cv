@@ -35,6 +35,7 @@ categories: cv
   - Gatsby JS (Static website generator)
   - Cvent integration (Event management)
   - Migration of content from Drupal website
+- Implementing Kenitco Kontent Web Spotlight ~ TBC (£20k)
 - Proposed activity to reboot additional websites & portal rebuilds
   - North Star ~ TBC (£40k)
   - Technical discovery ~ TBC (£20k)
@@ -74,7 +75,11 @@ Maintaining flow of new features, bug-fixes, risk mitigation and tech debt remov
 
 #### Powerleague (New account for 2020)
 - Discovery for marketing and pitchbooking website (PwC) ~ 2020 (£?k)
-  - Evolved 
+  - Evolved into multi-vendor delivery programme ~ TBC (£1.2m)
+  - PowerObjects MS Dynamics CRM integration
+  - Pitchbooking.com integration
+  - EposNow (till and backoffice systyem) integration
+  - Aydyay payment gateway integration
 
 #### PPG (Northern Europe)
 Maintaining flow of new features, bug-fixes, risk mitigation and tech debt removal for multiple eCommerce websites (inherited 2019):
@@ -100,28 +105,32 @@ Maintaining flow of new feature development, bug-fixes, risk mitigation and tech
   - Travel Companion app ~ TBC
 
 - Account Governance and Incident Management
-  - SendGrid 
+  - SendGrid incident ~ 2020
+  - PCI DSS audit and Memorandum of Understanding (PCI DSS compliance) ~ 2020
+  - Shaw Trust Accessibility Audit ~ 2021
 
 #### Newcastle Building Society
 - Phase 0 for website rebuild ~ 2020 (£56k)
 - Design phase 2 ~ 2020 (£60k)
-- Delivery of website rebuild ~ 2021 (£477k)
+- MVP delivery of marketing website ~ 2021 (£477k)
 - Content entry support ~ TBC (£24k)
 - Improvement phase ~ TBC (£150k)
 
 #### UK Endorsement Board (New account for 2020)
-- MVP website developed and launched within 3 weeks of initial brief ~ 2020 (£40k)
+- MVP site developed and launched within 3 weeks of initial brief ~ 2020 (£40k)
   - Kentico Kontent
   - React
   - Gatsby (static site generator)
   - Netlify CI/CD & hosting (staging)
+  - UKFAST datacentre hosting (production)
 - CMS Training and content entry ~ 2021 (£2k)
 - Implementing Azure DevOps CI/CD for automated deployment (production) ~ TBC (£5k)
 
 #### Water Babies 
-- Marketing website launched 2019
-  - Kentico Kontent, .Net Core
-  - Six Sprint delivery
+- Marketing website (six Sprint delivery) ~ 2019
+  - Kentico Kontent
+  - .Net Core
+  - Nemo CRM integration
 - Swimphony CRM migration ~ 2020 (£35k)
   - Single Sprint POC & two Sprint delivery 
 

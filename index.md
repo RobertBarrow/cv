@@ -2,7 +2,10 @@
 title:  "Curriculum Vitae for Robert Barrow"
 date:   2018-07-04 13:00:00 +0000
 categories: cv
+
 ---
+[![Netlify Status](https://api.netlify.com/api/v1/badges/63d834b0-1d88-4665-864b-8e5e0083c2d2/deploy-status)](https://app.netlify.com/sites/awesome-ptolemy-33b50b/deploys)
+
 # Contact Details
 
 |Full name|Robert Andrew Barrow||||
@@ -12,6 +15,115 @@ categories: cv
 |*Email & social*|**[robert.barrow@gmail.com](mailto:robert.barrow@gmail.com)**|LinkedIn [![LinkedIn](https://robertbarrow.github.io/cv/assets/icons/LinkedIn-2C-21px-R.png "robertbarrow")](https://www.linkedin.com/in/robertbarrow)|GitHub [![GitHub](https://robertbarrow.github.io/cv/assets/icons/GitHub-Mark-20x20.png "RobertBarrow")](https://github.com/RobertBarrow)|Twitter [![Twitter](https://robertbarrow.github.io/cv/assets/icons/Twitter_Social_Icon_Rounded_Square_Color_20x20.png "@SquidVicious_UK")](https://twitter.com/SquidVicious_UK)|
 
 # Employment History
+
+## **MMT Digital Limited** ~ (Jun 2019 - Present)
+
+### **Technical Account Lead**
+
+*Objectives, major projects and other responsibilities*:
+
+- Managing client relationships at a senior level (digital strategy and technical governance)
+- Overall responsibility for quality of delivery; utilising MMT Digital's Agile delivery framework and quality governance model
+- Collaborating with stakeholders and delivery team to create digital roadmaps incorporating OKRs and SMART goals
+- Collaborating with engineers, architects, experience designers, technical product owners, digital project managers and systems engineers to product accurate cost estimates to derisk delivery
+- Coaching and developing Agile skills/knowledge of our delivery roles e.g. TPO/DPM
+
+#### Chartered Institute of Taxation (CIOT)
+- Marketing website ~ 2021 (£140k)
+  - Kentico Kontent (SaaS/Content-as-a-Service)
+  - React UI (Front-end JavaScript library)
+  - Gatsby JS (Static website generator)
+  - Cvent integration (Event management)
+  - Migration of content from Drupal website
+- Proposed activity to reboot additional websites & portal rebuilds
+  - North Star ~ TBC (£40k)
+  - Technical discovery ~ TBC (£20k)
+
+#### CitySprint ~ Single eCommerce website (inherited 2020)
+- Rebranding (two Sprints) ~ 2021 (£15k)
+
+#### Financial Reporting Council - Corporate website & intranet
+- ShawTrust Accessibility Audit ~ 2020 (£5k)
+- Remediation works following ShawTrust Accessibility Audit ~ 2020 (£20k)
+- Implementing Azure DevOps CI/CD for automated deployment (production) ~ 2020 (£3k)
+- CMS training ~ 2020 (£4k)
+- UX Audit ~ 2020 (£7k)
+
+#### Gowling WLG 
+- BAU for marketing website and careers portal ~ inherited 2019
+- Enhancing Interaction CRM integration and marketing automation ~ 2019 (£40k)
+- Taleo integration for Careers portal ~ 2020 (£12k)
+- Bug-fixing following Kentico upgrade (by 3rd party) ~ 2020 (£5k)
+
+#### Kingspan Group 
+Maintaining flow of new features, bug-fixes, risk mitigation and tech debt removal:
+
+- Support & BAU for multiple brochure sites ~ 2019 (£24k)
+- New feature development and bug-fix Sprints ~ 2019 (£30k)
+- Azure VM migration utilising IaC & blue/green deployments ~ 2020 (£27k)
+- New support contract ~ 2020 (£22k)
+- Legal updates ~ 2020 (£50k)
+- Grenfell Inquiry landing page ~ 2020 (£4k)
+- Additional support budget ~ 2020 (£8k)
+- Supporting migration to AEC (Deloittes) ~ 2021 (£6k)
+
+#### Oxford Brookes
+- Augmenting internal development team for single Sprints
+  ~ 2020 (£7k)
+  ~ 2021 (£8k)
+
+#### Powerleague (New account for 2020)
+- Discovery for marketing and pitchbooking website (PwC) ~ 2020 (£?k)
+  - Evolved 
+
+#### PPG (Northern Europe)
+Maintaining flow of new features, bug-fixes, risk mitigation and tech debt removal for multiple eCommerce websites (inherited 2019):
+- PIM Proxy (ETL project) ~ 2019 (£60k)
+- JDC and Handyman UK sites ~ 2020 (£120k)
+- Additional delivery Sprints ~ 2020 (£40k)
+
+#### Translink NI
+Maintaining flow of new feature development, bug-fixes, risk mitigation and tech debt removal for eCommerce platform:
+
+- Transforming Digital Services - Contact Centre Delivery ~ 2020 (£300k)
+- Continous Improvement ~ 2020 (£130k)
+  - Park & Ride
+  - QR codes
+  - PCI Compliance
+    - Kentico Experience upgrade ~ 2020 (£37k)
+    - Microservices .Net upgrade ~ 2020 (£5k)
+- Transforming Traval and Social Inclusion (TTSI) ~ 2021-2023 (£3m)
+  - ChatBot ~ 2021
+  - Timetables ~ 2021
+  - Remediation works following ShawTrust Accessibility Audit ~ TBC
+  - Alexa/Google Home ~ TBC 
+  - Travel Companion app ~ TBC
+
+- Account Governance and Incident Management
+  - SendGrid 
+
+#### Newcastle Building Society
+- Phase 0 for website rebuild ~ 2020 (£56k)
+- Design phase 2 ~ 2020 (£60k)
+- Delivery of website rebuild ~ 2021 (£477k)
+- Content entry support ~ TBC (£24k)
+- Improvement phase ~ TBC (£150k)
+
+#### UK Endorsement Board (New account for 2020)
+- MVP website developed and launched within 3 weeks of initial brief ~ 2020 (£40k)
+  - Kentico Kontent
+  - React
+  - Gatsby (static site generator)
+  - Netlify CI/CD & hosting (staging)
+- CMS Training and content entry ~ 2021 (£2k)
+- Implementing Azure DevOps CI/CD for automated deployment (production) ~ TBC (£5k)
+
+#### Water Babies 
+- Marketing website launched 2019
+  - Kentico Kontent, .Net Core
+  - Six Sprint delivery
+- Swimphony CRM migration ~ 2020 (£35k)
+  - Single Sprint POC & two Sprint delivery 
 
 ## **Objectway Limited** ~ (Dec 2014 – Mar 2019)
 
@@ -165,12 +277,15 @@ categories: cv
 
 ## Publications
 
-* ![Amazon](/assets/icons/amazon-logo_white_58x28.png) _**[Value Based Velocity](https://www.amazon.co.uk/dp/B06XCYRMBG "View on Amazon UK")** - Start tracking the value delivered by your Scrum teams (2017)_
+* ![Amazon](/assets/icons/amazon-logo_white_58x28.png) _**[Value Based Velocity](https://amzn.to/3ynyh0L "View on Amazon UK")** - Start tracking the value delivered by your Scrum teams (2017)_
 
 ## Interests
 
-* _**Blockchain**_ technologies and _**Smart Contracts**_
-* _**Containerisation**_, _**micro-service**_ architecture and _**function-as-a-service / serverless**_
+* _**Scrum**_, _**Kanban**_, _**Lean**_, _**SAFe**_, _**Nexus**_ delivery frameworks
+* _**Software development**_ technology stacks and _**toolsets**_
+* _**Containerisation**_, _**micro-service**_ and _**function-as-a-service / serverless**_ architectures
 * _**Continuous integration**_, _**testing**_, _**delivery**_ and _**deployment**_ pipelines
 * _**DevOps**_ / _**GitOps**_ / _**NoOps**_ movements
-* _**Workflow optimisation**_ and _**Value Stream Mapping**_
+* _**E2E Workflow**_ and _**Value Stream Mapping**_ optimisation techniques
+* _**Kano modelling**_, _**Impact mapping**_, _**WSJF**_ prioritisation techniques
+* _**Hypothesis statements**_, _**Objectives and Key Results**_ empirical product development and delivery measurement techniques

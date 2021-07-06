@@ -4,7 +4,7 @@
 
 Understand the strategic drivers for your area of work. Align activities to contribute to wider organisational priorities. Remain alert to emerging issues and trends which might impact your work area. Seek out and share experiences to develop knowledge of the team’s business area. Understand how the strategies and activities of the team create value and meet the diverse needs of all stakeholders.
 
-Develop and maintain an understanding of economic, social, political, environmental and technological developments to ensure activity is relevant. Ensure plans and activities in your area of work reflect wider strategic priorities and communicate effectively with senior leaders to influence future strategies. Adopt a governmentwide perspective to ensure alignment of activity and policy. Bring together views, perspectives and diverse needs of stakeholders to gain a broader understanding of the issues surrounding policies and activities.
+Develop and maintain an understanding of economic, social, political, environmental and technological developments to ensure activity is relevant. Ensure plans and activities in your area of work reflect wider strategic priorities and communicate effectively with senior leaders to influence future strategies. Adopt a businesswide perspective to ensure alignment of activity and policy. Bring together views, perspectives and diverse needs of stakeholders to gain a broader understanding of the issues surrounding policies, processes and activities.
 
 ## Changing and Improving
 

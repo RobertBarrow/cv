@@ -23,10 +23,22 @@ categories: cv
 *Objectives, major projects and other responsibilities*:
 
 - Managing client relationships at a senior level (digital strategy and technical governance)
-- Overall responsibility for quality of delivery; utilising MMT Digital's Agile delivery framework and quality governance model
+- Overall responsibility for quality of solution delivery; utilising MMT Digital's Agile delivery framework and quality governance model
 - Collaborating with stakeholders and delivery team to create digital roadmaps incorporating OKRs and SMART goals
 - Collaborating with engineers, architects, experience designers, technical product owners, digital project managers and systems engineers to product accurate cost estimates to derisk delivery
 - Coaching and developing Agile skills/knowledge of our delivery roles e.g. TPO/DPM
+- Management of delivery risks and escalations to Technica Account Director and CTO (as required)
+- Oversight and responsibility for interrogating and improving 'project health check' scores
+- Overall responsibility for assuring the appropriate resource on projects/accounts
+- Management of upcoming resource requirements and requests into 'matching sessions'
+- Matching appropriate resources to projects
+- Management of resourcing conflicts between accounts/projects
+- Escalating issues of concern around quality of resource/training needs to Senior Manager of Engineering
+
+### Accounts and projects worked on (since June 2019):
+
+### Browne Jacobson
+- Assisting new business team during pitch for website modernisation (shortlisted)
 
 #### Chartered Institute of Taxation (CIOT)
 - Marketing website ~ 2021 (£140k)
@@ -35,9 +47,9 @@ categories: cv
   - Gatsby JS (Static website generator)
   - Cvent integration (Event management)
   - Migration of content from Drupal website
-- Implementing Kenitco Kontent Web Spotlight ~ TBC (£20k)
+- Implementing Kenitco Kontent Web Spotlight ~ TBC (£30k)
 - Proposed activity to reboot additional websites & portal rebuilds
-  - North Star ~ TBC (£40k)
+  - North Star ~ TBC (£50k)
   - Technical discovery ~ TBC (£20k)
 
 #### CitySprint ~ Single eCommerce website (inherited 2020)
@@ -49,6 +61,10 @@ categories: cv
 - Implementing Azure DevOps CI/CD for automated deployment (production) ~ 2020 (£3k)
 - CMS training ~ 2020 (£4k)
 - UX Audit ~ 2020 (£7k)
+
+#### Getronics
+- Cost estimate and SoW for Phase 0
+- Discovery day
 
 #### Gowling WLG 
 - BAU for marketing website and careers portal ~ inherited 2019
@@ -78,7 +94,7 @@ Maintaining flow of new features, bug-fixes, risk mitigation and tech debt remov
   - Evolved into multi-vendor delivery programme ~ TBC (£1.2m)
   - PowerObjects MS Dynamics CRM integration
   - Pitchbooking.com integration
-  - EposNow (till and backoffice systyem) integration
+  - EposNow (till and backoffice system) integration
   - Aydyay payment gateway integration
 
 #### PPG (Northern Europe)
@@ -103,11 +119,13 @@ Maintaining flow of new feature development, bug-fixes, risk mitigation and tech
   - Remediation works following ShawTrust Accessibility Audit ~ TBC
   - Alexa/Google Home ~ TBC 
   - Travel Companion app ~ TBC
+- Yoti integration ~ 2021 (TBC)
 
 - Account Governance and Incident Management
   - SendGrid incident ~ 2020
   - PCI DSS audit and Memorandum of Understanding (PCI DSS compliance) ~ 2020
   - Shaw Trust Accessibility Audit ~ 2021
+  - Ways of working (reboot) ~ 2021
 
 #### Newcastle Building Society
 - Phase 0 for website rebuild ~ 2020 (£56k)
@@ -133,6 +151,34 @@ Maintaining flow of new feature development, bug-fixes, risk mitigation and tech
   - Nemo CRM integration
 - Swimphony CRM migration ~ 2020 (£35k)
   - Single Sprint POC & two Sprint delivery 
+
+### Training (since June 2019):
+
+#### Delivery Leadership Group
+- Internal Client Account Planning Session ~ Sep 2019
+
+#### Google Analytics
+- Internal Google Tag Manager workshop (Rick) ~ Nov 2019
+
+#### HR
+- Diversity and Inclusion ~ Feb 2021
+- IR35 and changes in tax legislation for Contractors ~ Mar 2020
+- Line management ~ TBC
+- Unconscious Bias Workshop ~ Jan 2021
+
+#### Kubernetes
+- Internal Kubernetes workshop (Liam Gulliver) ~ Feb 2020
+
+#### Microsoft
+- Azure Fundamentals ~ April 2021
+
+#### Scaled Agile Framework 
+- SAFe Agilist 4.6 Certification ~ Jan 2020
+- SAFe Agilist 5.0 Certification ~ Jan 2020
+
+#### Temporall
+- Temporall Workbench Boot Camp ~ Jul 2020
+- Temporall Partner Accelerate ~ May 2021
 
 ## **Objectway Limited** ~ (Dec 2014 – Mar 2019)
 
@@ -246,6 +292,11 @@ Maintaining flow of new feature development, bug-fixes, risk mitigation and tech
 * Systems integration with various 3rd party systems.
 
 ## Professional Certifications, Accreditations, Courses and Education
+
+### Scaled Agile Framework (SAFe)
+
+* _**Certified SAFe 5.1 Agilist**_ (expired Jan 2021)
+* _**Certified SAFe 4.6 Agilist**_ (expired Jan 2021)
 
 ### Scrum Alliance
 

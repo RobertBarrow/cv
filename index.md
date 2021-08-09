@@ -34,6 +34,7 @@ categories: cv
 - Matching appropriate resources to projects
 - Management of resourcing conflicts between accounts/projects
 - Escalating issues of concern around quality of resource/training needs to Senior Manager of Engineering
+- Reviewing CVs, conducting interviews and making hiring recommendations for Technical Account Lead (TAL), Senior Technical Product Owner (STPO) and Technical Product Owner roles (TPO).
 
 ### Accounts and projects worked on (since June 2019):
 
@@ -152,12 +153,12 @@ Maintaining flow of new feature development, bug-fixes, risk mitigation and tech
 - Swimphony CRM migration ~ 2020 (£35k)
   - Single Sprint POC & two Sprint delivery 
 
-### Training (since June 2019):
+### Training during MMT Digital tenure (since June 2019):
 
 #### Delivery Leadership Group
 - Internal Client Account Planning Session ~ Sep 2019
 
-#### Google Analytics
+#### Google Analytics
 - Internal Google Tag Manager workshop (Rick) ~ Nov 2019
 
 #### HR
@@ -166,7 +167,7 @@ Maintaining flow of new feature development, bug-fixes, risk mitigation and tech
 - Line management ~ TBC
 - Unconscious Bias Workshop ~ Jan 2021
 
-#### Kubernetes
+#### Kubernetes
 - Internal Kubernetes workshop (Liam Gulliver) ~ Feb 2020
 
 #### Microsoft

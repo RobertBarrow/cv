@@ -4,8 +4,6 @@ date:   2018-07-04 13:00:00 +0000
 categories: cv
 
 ---
-[![Netlify Status](https://api.netlify.com/api/v1/badges/63d834b0-1d88-4665-864b-8e5e0083c2d2/deploy-status)](https://app.netlify.com/sites/awesome-ptolemy-33b50b/deploys)
-
 # Contact Details
 
 |Full name|Robert Andrew Barrow||||
@@ -13,6 +11,7 @@ categories: cv
 |*Address*|1 Oakley Pond, Great Oakley, Corby, Northamptonshire NN18 8NN, UK||||
 |*Telephone*|**+44 (0) 7399 896262**||||
 |*Email & social*|**[robert.barrow@gmail.com](mailto:robert.barrow@gmail.com)**|LinkedIn [![LinkedIn](https://robertbarrow.github.io/cv/assets/icons/LinkedIn-2C-21px-R.png "robertbarrow")](https://www.linkedin.com/in/robertbarrow)|GitHub [![GitHub](https://robertbarrow.github.io/cv/assets/icons/GitHub-Mark-20x20.png "RobertBarrow")](https://github.com/RobertBarrow)|Twitter [![Twitter](https://robertbarrow.github.io/cv/assets/icons/Twitter_Social_Icon_Rounded_Square_Color_20x20.png "@SquidVicious_UK")](https://twitter.com/SquidVicious_UK)|
+
 
 # Employment History
 
@@ -36,6 +35,8 @@ categories: cv
 - Escalating issues of concern around quality of resource/training needs to Senior Manager of Engineering
 - Reviewing CVs, conducting interviews and making hiring recommendations for Technical Account Lead (TAL), Senior Technical Product Owner (STPO) and Technical Product Owner roles (TPO).
 
+<details><summary>Accounts</summary>
+  
 ### Accounts and projects worked on (since June 2019):
 
 ### Browne Jacobson
@@ -152,7 +153,10 @@ Maintaining flow of new feature development, bug-fixes, risk mitigation and tech
   - Nemo CRM integration
 - Swimphony CRM migration ~ 2020 (£35k)
   - Single Sprint POC & two Sprint delivery 
+</details>
 
+<details><summary>Training</summary>
+  
 ### Training during MMT Digital tenure (since June 2019):
 
 #### Delivery Leadership Group
@@ -180,6 +184,8 @@ Maintaining flow of new feature development, bug-fixes, risk mitigation and tech
 #### Temporall
 - Temporall Workbench Boot Camp ~ Jul 2020
 - Temporall Partner Accelerate ~ May 2021
+
+</details>
 
 ## **Objectway Limited** ~ (Dec 2014 – Mar 2019)
 
@@ -296,9 +302,10 @@ Maintaining flow of new feature development, bug-fixes, risk mitigation and tech
 
 ### Scaled Agile Framework (SAFe)
 
-* _**Certified SAFe 5.1 Agilist**_ (expired Jan 2021)
-* _**Certified SAFe 4.6 Agilist**_ (expired Jan 2021)
-
+* _**Certified Implementing SAFe 5.1**_ (scheduled: May 2022)
+* _**Certified SAFe 5.1 Agilist**_ (2020)
+* _**Certified SAFe 4.6 Agilist**_ (2020)
+* 
 ### Scrum Alliance
 
 * _**Certified Scrum Master**_ (_**CSM**_) _[View](https://certification.scrumalliance.org/accounts/887172-robert-andrew-barrow/certifications/1007243-csm/)_
@@ -317,7 +324,7 @@ Maintaining flow of new feature development, bug-fixes, risk mitigation and tech
 
 ### North Warwickshire Technical College
 
-* _**National Diploma**_ in Computer Studies (1991) - _**Distinction**_
+* _**National Diploma**_ in Computer Science (1991) - _**Distinction**_
 
 ### Udemy
 

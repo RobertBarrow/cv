@@ -10,4 +10,5 @@ twitter_username: SquidVicious_UK
 github_username:  RobertBarrow
 
 # build settings
+show_excerpts: true # set to false to remove excerpts on the homepage
 theme: jekyll-theme-cayman

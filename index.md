@@ -35,7 +35,6 @@ categories: cv
 - Escalating issues of concern around quality of resource/training needs to Senior Manager of Engineering
 - Reviewing CVs, conducting interviews and making hiring recommendations for Technical Account Lead (TAL), Senior Technical Product Owner (STPO) and Technical Product Owner roles (TPO).
 
-
 *Training and certifications*:
 #### Scaled Agile Framework 
 - SAFe Agilist 4.6 Certification ~ Jan 2020
@@ -161,10 +160,10 @@ categories: cv
 
 ### Scaled Agile Framework (SAFe)
 
-* _**Certified Implementing SAFe 5.1**_ (scheduled: May 2022)
+* _**Implementing SAFe**_ (training completed May 2022, certification TBC)
 * _**Certified SAFe 5.1 Agilist**_ (2020)
 * _**Certified SAFe 4.6 Agilist**_ (2020)
-* 
+
 ### Scrum Alliance
 
 * _**Certified Scrum Master**_ (_**CSM**_) _[View](https://certification.scrumalliance.org/accounts/887172-robert-andrew-barrow/certifications/1007243-csm/)_

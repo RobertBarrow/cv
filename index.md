@@ -34,8 +34,6 @@ categories: cv
 - Management of resourcing conflicts between accounts/projects
 - Escalating issues of concern around quality of resource/training needs to Senior Manager of Engineering
 - Reviewing CVs, conducting interviews and making hiring recommendations for Technical Account Lead (TAL), Senior Technical Product Owner (STPO) and Technical Product Owner roles (TPO).
-
-<details><summary>Accounts</summary>
   
 ### Accounts and projects worked on (since June 2019):
 
@@ -153,9 +151,7 @@ Maintaining flow of new feature development, bug-fixes, risk mitigation and tech
   - Nemo CRM integration
 - Swimphony CRM migration ~ 2020 (£35k)
   - Single Sprint POC & two Sprint delivery 
-</details>
 
-<details><summary>Training</summary>
   
 ### Training during MMT Digital tenure (since June 2019):
 
@@ -185,7 +181,6 @@ Maintaining flow of new feature development, bug-fixes, risk mitigation and tech
 - Temporall Workbench Boot Camp ~ Jul 2020
 - Temporall Partner Accelerate ~ May 2021
 
-</details>
 
 ## **Objectway Limited** ~ (Dec 2014 – Mar 2019)
 

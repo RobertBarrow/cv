@@ -52,7 +52,7 @@ categories: cv
 - Providing technical governance for new and existing consultancy engagements
 - Management of delivery risks and escalations to Technical Director (Enterprise CoE), Client Director (Enterprise CoE) and Chief Technology Office (CTO), as required
 
-*Wallgreen Boots Alliance / Boots UK* (major health and beauty retailer and pharmacy chain) ~ (Dec 2021 - May 2022)
+*WBA / Boots UK* (major health and beauty retailer and pharmacy chain) ~ (Dec 2021 - May 2022)
 - Consulting engagement as SAFe Practice Consultant (SPC) to design and implementing hybrid delivery model and Lean Portfolio Management processes
 - Creating hiring plan and team augmentation strategy, including role and responsibility definitions, capability and skillsets for recruitment purposes
 - Collaborating with Release Train Engineer (RTE) to design and launch a new Agile Release Train (ART) for the "Marketplace" value stream

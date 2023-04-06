@@ -254,11 +254,13 @@ categories: cv
 
 ## Interests
 
-* _**Scrum**_, _**Kanban**_, _**Lean**_, _**SAFe**_, _**Nexus**_ delivery frameworks
-* _**Software development**_ technology stacks and _**toolsets**_
-* _**Containerisation**_, _**micro-service**_ and _**function-as-a-service / serverless**_ architectures
+* _**Domain-Driven Design**_, _**Event Storming**_, **Impact Mapping**, and _**Team Topologies**_ as independent value stream identification techniques
+* _**E2E Workflow**_ and _**Value Stream Mapping**_ as value stream optimisation techniques
+* _**Scrum**_, _**Kanban**_, _**Lean**_, _**SAFe**_, _**Nexus**_ as delivery frameworks
+* _**Value Models**_ and _**WSJF**_ as prioritisation techniques
+* _**Kano modelling**_, _**Impact mapping**_ and _**Hypothesis statements**_ for product roadmap development
+* _**Objectives and Key Results**_ for delivery measurement
+* _**Containerisation**_, _**micro-service**_ and _**function-as-a-service / serverless**_ as modern architecture patterns
 * _**Continuous integration**_, _**testing**_, _**delivery**_ and _**deployment**_ pipelines
-* _**DevOps**_ / _**GitOps**_ / _**NoOps**_ movements
-* _**E2E Workflow**_ and _**Value Stream Mapping**_ optimisation techniques
-* _**Kano modelling**_, _**Impact mapping**_, _**WSJF**_ prioritisation techniques
-* _**Hypothesis statements**_, _**Objectives and Key Results**_ empirical product development and delivery measurement techniques
+* _**Platform Engineering**_ / _**DevOps**_ / _**GitOps**_ / _**NoOps**_ / _**NoEstimates**_ movements
+* The potential for _**Generative AI**_ to be used to write code as a team augmentation/collaboration tool

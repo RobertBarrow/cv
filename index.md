@@ -19,7 +19,7 @@ categories: cv
 
 ### **Agile Delivery Consultant** ~ (Sep 2022 - Present)
 
-*Royal British Legion (RBL)* (charitable organisation) ~ (Jan 2022 - Apr 2022)
+*Royal British Legion (RBL)* ~ (Jan 2022 - Apr 2022)
 
 - Developing a strategy to augmenting RBL's in-house capabilities with MMT's stream aligned delivery teams, establishing a new technical delivery partnership
 - Designing a new centralised Digital Enterprise Team shape, dual-operating system and governance processes required to support a hybrid Lean-Agile delivery model
@@ -32,7 +32,7 @@ categories: cv
 - Collaborating with Head of Digital (RBL) and Technical Account Lead (MMT) to establish cost estimates and funding model for architecture modernisation across the digital estate (a portfolio of 35 platforms encompassing all Royal British Legion, Poppy Appeal, Poppy Scotland and National Memorial Arboretum sites)
 - Collaborating Head of Digital (RBL) to build the business case for board submission (requesting additional CapEx/OpEx funding)
  
-*Virgin Atlantic (VA)* (international airline) ~ (Oct 2022 - Dec 2022)
+*Virgin Atlantic (VA)* ~ (Oct 2022 - Dec 2022)
 
 - Facilitating Value Stream Identification and Value Stream mapping workshops
 - Various senior stakeholder interviews for Value Model design, refinement and testing sessions
@@ -52,7 +52,7 @@ categories: cv
 - Providing technical governance for new and existing consultancy engagements
 - Management of delivery risks and escalations to Technical Director (Enterprise CoE), Client Director (Enterprise CoE) and Chief Technology Office (CTO), as required
 
-*WBA / Boots UK* (major health and beauty retailer and pharmacy chain) ~ (Dec 2021 - May 2022)
+*WBA / Boots UK* ~ (Dec 2021 - May 2022)
 - Consulting engagement as SAFe Practice Consultant (SPC) to design and implementing hybrid delivery model and Lean Portfolio Management processes
 - Creating hiring plan and team augmentation strategy, including role and responsibility definitions, capability and skillsets for recruitment purposes
 - Collaborating with Release Train Engineer (RTE) to design and launch a new Agile Release Train (ART) for the "Marketplace" value stream
@@ -61,9 +61,9 @@ categories: cv
 - Collaborating with Product Leads, Delivery Manager, QA Manager, Release Train Engineers and Data Analysts to design and implement dashboards for real-time flow and delivery metrics across multiple Agile Release Trains
 - Configuration of JIRA to standardise workflow and dashboards across multiple Agile Release Trains
 
-*Translink* (national public transport authority for Northern Ireland)
+*Translink NI* ~ (Jul 2019 - Aug 2022)
 - Providing technical governance for a 3-year digital transformation programme (Transforming Travel & Social Inclusion)
-- Establishing strategic direction and technical roadmap for an 18-month architecture modernisation programme
+- Establishing strategic direction, technical roadmap, resource plans and cost estimates for an 18-month architecture modernisation programme
 - Providing technical support to senior client stakeholders in building business cases for government funding requests (submitted to Northern Ireland Assembly at Stormont)
 
 *Other responsibilities*:

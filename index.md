@@ -19,23 +19,25 @@ categories: cv
 
 ### **Agile Delivery Consultant** ~ (Sep 2022 - Present)
 
-*Royal British Legion* (charitable organisation) ~ (Jan 2022 - Apr 2022)
+*Royal British Legion (RBL)* (charitable organisation) ~ (Jan 2022 - Apr 2022)
 
-- Designing a new Digital Enterprise Team shape and operating model charitable organisation 
+- Developing a strategy to augmenting RBL's in-house capabilities with MMT's stream aligned delivery teams, establishing a new technical delivery partnership
+- Designing a new centralised Digital Enterprise Team shape, dual-operating system and governance processes required to support a hybrid Lean-Agile delivery model
 - Designing Lean Portfolio Management (LPM) process for the demand intake and governance of Epics during their life-cycle from inception to delivery
 - Designing an organisational Value Model (as the single prioritisation framework for all future business change, development and delivery roadmaps)
-- Creating hiring plan and team augmentation strategy, including role and responsibility definitions, capability and skillsets for recruitment purposes
-- Selecting appropriate roles and delivery methodologies for hybrid Lean-Agile delivery model (in-house team augmented by a strategic delivery partner)
-- Stakeholder interviews (at executive/directorate level) and collaboration with Digital Solutions Consultant (MMT) and Experience Design Lead (MMT) to establish a new Digital Vision, Strategic Themes, key metrics and team principles for the new Digital Enterprise Team 
-- Collaborating with Head of Digital (RBL) and Technical Account Lead (MMT) to establish architecture modernisation strategy for the digital estate (a portfolio of 35 sites across Royal British Legion, Poppy Appeal, Remembrance, Poppy Scotland and the National Memorial Arboretum)
-- Providing technical support to Head of Digital in building business cases for board submission (requesting additional CapEx/OpEx to establish the Digital Enterpise Team and work with a strategic delivery partner on the architectural modernisation programme)
+- Creating hiring plan including roles, responsibility, capabilities and skillsets required for recruitment purposes
+- Selecting appropriate roles and delivery methodologies for the hybrid Lean-Agile delivery model
+- Collaborating with colleagues (Digital Solutions Consultant and Experience Design Lead) to run a series of senior stakeholder interviews (at executive/directorate level) to identify strategic themes and key metrics for the new centralised Digital Enterprise Team
+- Facilitating workshops with colleagues (Technical Account Lead, Experience Design Lead and Engineering Manager) to establish Digital Vision and team principles for the new Digital Enterprise Team 
+- Collaborating with Head of Digital (RBL) and Technical Account Lead (MMT) to establish cost estimates and funding model for architecture modernisation across the digital estate (a portfolio of 35 platforms encompassing all Royal British Legion, Poppy Appeal, Poppy Scotland and National Memorial Arboretum sites)
+- Collaborating Head of Digital (RBL) to build the business case for board submission (requesting additional CapEx/OpEx funding)
  
-*Virgin Atlantic* (international airline) ~ (Oct 2022 - Dec 2022)
+*Virgin Atlantic (VA)* (international airline) ~ (Oct 2022 - Dec 2022)
 
 - Facilitating Value Stream Identification and Value Stream mapping workshops
-- Various stakeholder interviews for Value Model design, refinement and testing sessions
-- Designing a new Lean Portolio Management (LPM) process for Enterprise Portfolio Management Office (ePMO)
-- Configuring Azure DevOps to support the new LPM process
+- Various senior stakeholder interviews for Value Model design, refinement and testing sessions
+- Designing a new Lean Portolio Management (LPM) process for VA's Enterprise Portfolio Management Office (ePMO)
+- Configuring VA's Azure DevOps to support the new LPM process
 
 *Other responsibilities*:
 

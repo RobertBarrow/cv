@@ -22,11 +22,11 @@ categories: cv
 *Royal British Legion* (charitable organisation)
 
 - Designing a new Digital Enterprise Team shape and operating model charitable organisation ~ (Jan 2022 - Apr 2022)
--- Design and implementation of a Lean Portfolio Management (LPM) process for the governance of Epics (covering full life-cycle from inception to delivery)
--- Design and implementation of an organisational value model (creating a single prioritisation framework for all digital change, development and delivery roadmaps)
--- Creating hiring plan and team augmentation strategy, including role and responsibility definitions for recruitment
--- Selecting appropriate roles and delivery methodologies for hybrid Lean-Agile delivery model (in-house team augmented by a strategic delivery partner)
--- Stakeholder interviews (at executive/directorate level) to establish Digital Vision, Strategic Themes, key metrics and team principles for Digital Enterprise Team
+- Design and implementation of a Lean Portfolio Management (LPM) process for the governance of Epics (covering full life-cycle from inception to delivery)
+- Design and implementation of an organisational value model (creating a single prioritisation framework for all digital change, development and delivery roadmaps)
+- Creating hiring plan and team augmentation strategy, including role and responsibility definitions for recruitment
+- Selecting appropriate roles and delivery methodologies for hybrid Lean-Agile delivery model (in-house team augmented by a strategic delivery partner)
+- Stakeholder interviews (at executive/directorate level) to establish Digital Vision, Strategic Themes, key metrics and team principles for Digital Enterprise Team
 
 *Virgin Atlantic* (international airline)
 

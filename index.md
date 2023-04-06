@@ -17,16 +17,56 @@ categories: cv
 
 ## **MMT Digital Limited** ~ (Jun 2019 - Present)
 
-### **Technical Account Lead**
+### **Agile Delivery Consultant** ~ (Sep 2022 - Present)
 
-*Objectives, major projects and other responsibilities*:
+*Royal British Legion* (charitable organisation)
 
-- Managing client relationships at a senior level (digital strategy and technical governance)
+- Designing a new Digital Enterprise Team shape and operating model charitable organisation ~ (Jan 2022 - Apr 2022)
+-- Design and implementation of a Lean Portfolio Management (LPM) process for the governance of Epics (covering full life-cycle from inception to delivery)
+-- Design and implementation of an organisational value model (creating a single prioritisation framework for all digital change, development and delivery roadmaps)
+-- Creating hiring plan and team augmentation strategy, including role and responsibility definitions for recruitment
+-- Selecting appropriate roles and delivery methodologies for hybrid Lean-Agile delivery model (in-house team augmented by a strategic delivery partner)
+-- Stakeholder interviews (at executive/directorate level) to establish Digital Vision, Strategic Themes, key metrics and team principles for Digital Enterprise Team
+
+*Virgin Atlantic* (international airline)
+
+- Designing a Lean Portolio Management (LPM) process ~ (Oct 2022 - Dec 2022)
+- Configuring Azure DevOps to support LPM process
+
+*Other responsibilities*:
+
+- Collaborating with Head of Consulting and Consulting Partners (Technical Consultant, Digital Solutions Consultant, Digital marketing strategist), Chief Growth Officer, Business Development Director, Head of Experience Design and other MMT Digital colleagues to develop a suite of consulting frameworks (North Star, Compass and Engine)
+- Acting as Subject Matter Expert for internal CRM and PSA integration project
+- Acting as Delivery Manager for internal Sales Tool microsite project
+
+### **Technical Account Lead** ~ (Jun 2019 - Aug 2022)
+
+*Objectives and major projects*:
+
+- Providing technical governance for a "Incubator Portfolio" (in the "Enterprise" Centre of Excellence) covering all new and existing consultancy engagements ~ (May 2019 - Aug 2022)
+-- Management of delivery risks and escalations to Technical Director (Enterprise) and CTO (as required)
+
+*Wallgreen Boots Alliance / Boots UK* (major health and beauty retailer and pharmacy chain) ~ (Dec 2021 - May 2022)
+- Consulting engagement as SAFe Practice Consultant (SPC) to design and implementing hybrid delivery model and Lean Portfolio Management processes
+- Collaborating with Release Train Engineer (RTE) to launch a new Agile Release Train (ART) for Marketplace value stream
+- Running Lean-Agile Centre of Excellence and "ART of ART" ceremonies for Release Train Engineers
+- Assisting in the facilitation of PI Planning event
+- Collaborating with Product Leads, Delivery Manager, QA Manager, Release Train Engineers and Data Analysts to design and implement dashboards for real-time flow and delivery metrics across multiple Agile Release Trains
+- Configuration of JIRA to standardise workflow and dashboards across multiple Agile Release Trains
+
+*Translink* (national public transport authority for Northern Ireland)
+- Providing technical governance for a 3-year digital transformation programme (Transforming Travel & Social Inclusion)
+- Establishing strategic direction and technical roadmap for an 18-month architecture modernisation programme
+- Providing technical support to senior client stakeholders in building business cases for government funding requests (submitted to Northern Ireland Assembly at Stormont)
+
+*Other responsibilities*:
+
+- Managing senior client relationships (providing digital strategy and technical governance) for various accounts in the "Strategy, Design & Build" Centre of Excellence
 - Overall responsibility for quality of solution delivery; utilising MMT Digital's Agile delivery framework and quality governance model
-- Collaborating with stakeholders and delivery team to create digital roadmaps incorporating OKRs and SMART goals
-- Collaborating with engineers, architects, experience designers, technical product owners, digital project managers and systems engineers to product accurate cost estimates to derisk delivery
+- Collaborating with client stakeholders and delivery team to create digital roadmaps incorporating OKRs and SMART goals
+- Collaborating with engineers, architects, experience designers, technical product owners, digital project managers and systems engineers to produce accurate cost estimates and derisk delivery
 - Coaching and developing Agile skills/knowledge of our delivery roles e.g. TPO/DPM
-- Management of delivery risks and escalations to Technica Account Director and CTO (as required)
+- Management of delivery risks and escalations to Technical Account Director and CTO (as required)
 - Oversight and responsibility for interrogating and improving 'project health check' scores
 - Overall responsibility for assuring the appropriate resource on projects/accounts
 - Management of upcoming resource requirements and requests into 'matching sessions'
@@ -37,9 +77,9 @@ categories: cv
 
 *Training and certifications*:
 #### Scaled Agile Framework 
-- SAFe Agilist 4.6 Certification ~ Jan 2020
+- Implementing SAFe Training (SPC Certification) ~ May 2022
 - SAFe Agilist 5.0 Certification ~ Jan 2020
-- Implementing SAFe Training ~ May 2022
+- SAFe Agilist 4.6 Certification ~ Jan 2020
  
 #### Temporall
 - Temporall Workbench Boot Camp ~ Jul 2020

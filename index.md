@@ -19,36 +19,41 @@ categories: cv
 
 ### **Agile Delivery Consultant** ~ (Sep 2022 - Present)
 
-*Royal British Legion* (charitable organisation)
+*Royal British Legion* (charitable organisation) ~ (Jan 2022 - Apr 2022)
 
-- Designing a new Digital Enterprise Team shape and operating model charitable organisation ~ (Jan 2022 - Apr 2022)
-- Design and implementation of a Lean Portfolio Management (LPM) process for the governance of Epics (covering full life-cycle from inception to delivery)
-- Design and implementation of an organisational value model (creating a single prioritisation framework for all digital change, development and delivery roadmaps)
-- Creating hiring plan and team augmentation strategy, including role and responsibility definitions for recruitment
+- Designing a new Digital Enterprise Team shape and operating model charitable organisation 
+- Designing Lean Portfolio Management (LPM) process for the demand intake and governance of Epics during their life-cycle from inception to delivery
+- Designing an organisational Value Model (as the single prioritisation framework for all future business change, development and delivery roadmaps)
+- Creating hiring plan and team augmentation strategy, including role and responsibility definitions, capability and skillsets for recruitment purposes
 - Selecting appropriate roles and delivery methodologies for hybrid Lean-Agile delivery model (in-house team augmented by a strategic delivery partner)
-- Stakeholder interviews (at executive/directorate level) to establish Digital Vision, Strategic Themes, key metrics and team principles for Digital Enterprise Team
+- Stakeholder interviews (at executive/directorate level) and collaboration with Digital Solutions Consultant (MMT) and Experience Design Lead (MMT) to establish a new Digital Vision, Strategic Themes, key metrics and team principles for the new Digital Enterprise Team 
+- Collaborating with Head of Digital (RBL) and Technical Account Lead (MMT) to establish architecture modernisation strategy for the digital estate (a portfolio of 35 sites across Royal British Legion, Poppy Appeal, Remembrance, Poppy Scotland and the National Memorial Arboretum)
+- Providing technical support to Head of Digital in building business cases for board submission (requesting additional CapEx/OpEx to establish the Digital Enterpise Team and work with a strategic delivery partner on the architectural modernisation programme)
+ 
+*Virgin Atlantic* (international airline) ~ (Oct 2022 - Dec 2022)
 
-*Virgin Atlantic* (international airline)
-
-- Designing a Lean Portolio Management (LPM) process ~ (Oct 2022 - Dec 2022)
-- Configuring Azure DevOps to support LPM process
+- Facilitating Value Stream Identification and Value Stream mapping workshops
+- Various stakeholder interviews for Value Model design, refinement and testing sessions
+- Designing a new Lean Portolio Management (LPM) process for Enterprise Portfolio Management Office (ePMO)
+- Configuring Azure DevOps to support the new LPM process
 
 *Other responsibilities*:
 
-- Collaborating with Head of Consulting and Consulting Partners (Technical Consultant, Digital Solutions Consultant, Digital marketing strategist), Chief Growth Officer, Business Development Director, Head of Experience Design and other MMT Digital colleagues to develop a suite of consulting frameworks (North Star, Compass and Engine)
+- Collaborating with Head of Consulting and Consulting Partners, Chief Growth Officer, Business Development Director, Head of Experience Design and other MMT Digital colleagues to develop a suite of consulting frameworks ("North Star, Compass and Engine")
 - Acting as Subject Matter Expert for internal CRM and PSA integration project
 - Acting as Delivery Manager for internal Sales Tool microsite project
 
 ### **Technical Account Lead** ~ (Jun 2019 - Aug 2022)
 
-*Objectives and major projects*:
-
-- Providing technical governance for a "Incubator Portfolio" (in the "Enterprise" Centre of Excellence) covering all new and existing consultancy engagements ~ (May 2019 - Aug 2022)
--- Management of delivery risks and escalations to Technical Director (Enterprise) and CTO (as required)
+*Incubator Portfolio* ~ (May 2019 - Aug 2022)
+- Establishing roles, responsibilities and ways of working for a new portfolio of consulting engagements in the "Enterprise" Centre of Excellence
+- Providing technical governance for new and existing consultancy engagements
+- Management of delivery risks and escalations to Technical Director (Enterprise CoE), Client Director (Enterprise CoE) and Chief Technology Office (CTO), as required
 
 *Wallgreen Boots Alliance / Boots UK* (major health and beauty retailer and pharmacy chain) ~ (Dec 2021 - May 2022)
 - Consulting engagement as SAFe Practice Consultant (SPC) to design and implementing hybrid delivery model and Lean Portfolio Management processes
-- Collaborating with Release Train Engineer (RTE) to launch a new Agile Release Train (ART) for Marketplace value stream
+- Creating hiring plan and team augmentation strategy, including role and responsibility definitions, capability and skillsets for recruitment purposes
+- Collaborating with Release Train Engineer (RTE) to design and launch a new Agile Release Train (ART) for the "Marketplace" value stream
 - Running Lean-Agile Centre of Excellence and "ART of ART" ceremonies for Release Train Engineers
 - Assisting in the facilitation of PI Planning event
 - Collaborating with Product Leads, Delivery Manager, QA Manager, Release Train Engineers and Data Analysts to design and implement dashboards for real-time flow and delivery metrics across multiple Agile Release Trains

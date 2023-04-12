@@ -21,7 +21,7 @@ categories: cv
 
 *Role summary*
 
-Leading Agile Delivery transformation and consulting engagements, inlcuding the design, implementation, institutionalisation and optimisation of operating models, Agile Delivery capabilities, team topologies and Lean Portfolio Management processes. Conducting workshops, stakeholder interviews and coaching sessions.
+- Leading Agile Delivery transformation and consulting engagements, inlcuding the design, implementation, institutionalisation and optimisation of operating models, Agile Delivery capabilities, team topologies and Lean Portfolio Management processes. Conducting workshops, stakeholder interviews and coaching sessions.
 
 *Royal British Legion (RBL)* ~ (Jan 2022 - Apr 2022)
 
@@ -53,7 +53,7 @@ Leading Agile Delivery transformation and consulting engagements, inlcuding the 
 
 *Role summary*
 
-Building and leading delivery teams that deliver value sooner, safer and happier.  Creating long-lasting impact by empowering and leading teams to achieve outcomes. Managing client relationships at a senior technical level. Overall responsibility for technical delivery, strategy and governance. Coaching and developing internal Agile skills, as well as helping to shape best practice in Product Delivery. Acting as an escalation point for Product Owners, Scrum Masters, Technical Architects and Engineers.
+- Building and leading delivery teams that deliver value sooner, safer and happier.  Creating long-lasting impact by empowering and leading teams to achieve outcomes. Managing client relationships at a senior technical level. Overall responsibility for technical delivery, strategy and governance. Coaching and developing internal Agile skills, as well as helping to shape best practice in Product Delivery. Acting as an escalation point for Product Owners, Scrum Masters, Technical Architects and Engineers.
 
 *Incubator Portfolio* ~ (May 2019 - Aug 2022)
 - Establishing roles, responsibilities and ways of working for a new portfolio of consulting engagements in the "Enterprise" Centre of Excellence

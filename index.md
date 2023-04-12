@@ -19,6 +19,9 @@ categories: cv
 
 ### **Agile Delivery Consultant** ~ (Sep 2022 - Present)
 
+*Role summary*
+Leading Agile Delivery transformation and consulting engagements, inlcuding the design, implementation, institutionalisation and optimisation of operating models, Agile Delivery capabilities, team topologies and Lean Portfolio Management processes. Conducting workshops, stakeholder interviews and coaching sessions.
+
 *Royal British Legion (RBL)* ~ (Jan 2022 - Apr 2022)
 
 - Developing a strategy to augmenting RBL's in-house capabilities with MMT's stream aligned delivery teams, establishing a new technical delivery partnership
@@ -46,6 +49,9 @@ categories: cv
 - Acting as Delivery Manager for internal Sales Tool microsite project
 
 ### **Technical Account Lead** ~ (Jun 2019 - Aug 2022)
+
+*Role summary*
+Building and leading delivery teams that deliver value sooner, safer and happier.  Creating long-lasting impact by empowering and leading teams to achieve outcomes. Managing client relationships at a senior technical level. Overall responsibility for technical delivery, strategy and governance. Coaching and developing internal Agile skills, as well as helping to shape best practice in Product Delivery. Acting as an escalation point for Product Owners, Scrum Masters, Technical Architects and Engineers.
 
 *Incubator Portfolio* ~ (May 2019 - Aug 2022)
 - Establishing roles, responsibilities and ways of working for a new portfolio of consulting engagements in the "Enterprise" Centre of Excellence
@@ -81,6 +87,7 @@ categories: cv
 - Management of resourcing conflicts between accounts/projects
 - Escalating issues of concern around quality of resource/training needs to Senior Manager of Engineering
 - Reviewing CVs, conducting interviews and making hiring recommendations for Technical Account Lead (TAL), Senior Technical Product Owner (STPO) and Technical Product Owner roles (TPO).
+- Line management of a Product Lead.
 
 *Training and certifications*:
 #### Scaled Agile Framework 

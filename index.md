@@ -79,7 +79,7 @@ categories: cv
 - Managing senior client relationships (providing digital strategy and technical governance) for various accounts in the "Strategy, Design & Build" Centre of Excellence
 - Overall responsibility for quality of solution delivery; utilising MMT Digital's Agile delivery framework and quality governance model
 - Collaborating with client stakeholders and delivery team to create digital roadmaps incorporating OKRs and SMART goals
-- Collaborating with engineers, architects, experience designers, technical product owners, digital project managers and systems engineers to produce accurate cost estimates and derisk delivery
+- Collaborating with cloud system engineers, site reliability engineers, cloud architects, technical architects, experience designers, technical product owners, digital project managers and senior engineers to produce accurate cost estimates and derisk delivery
 - Coaching and developing Agile skills/knowledge of our delivery roles e.g. TPO/DPM
 - Management of delivery risks and escalations to Technical Account Director and CTO (as required)
 - Oversight and responsibility for interrogating and improving 'project health check' scores
@@ -107,14 +107,14 @@ categories: cv
 
 *Objectives, major projects and other responsibilities*:
 
-#### Flagship client migration ~ (6 month project)
+#### Flagship Cloud Migration ~ (6 month project)
 
 * Delivering a successful migration of clients from legacy (on-premise) systems against a hard deadline.
 * Project management supporting business analysts, implementation team and clients during transition phase.
 * Providing expert knowledge and guidance to implementation team for ETL and data validation techniques.
 * Defining and tracking metrics used for data conversion and reconciliation during migration "dry-run" trials.
 * Facilitating deployment of read-only systems for historical audit enquiries and regulatory compliance.
-* Overseeing migration of on-premise servers (at various client sites) to hosted service in Objectway data centre.
+* Overseeing migration of on-premise servers (at various client sites) and Objectway data centre to Azure.
 
 #### Roll-out digital collaboration tools and implement Agile at the Program level across multiple Product centres ~ (2 year delivery programme)
 

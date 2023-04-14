@@ -55,7 +55,7 @@ categories: cv
 
 ## **Objectway Limited** ~ (Dec 2014 – Mar 2019)
 
-### As an **Agile Transformation**
+### As an **Agile Transformation Manager**
 
 #### Roll-out digital collaboration tools and implement Agile at the Program level across multiple Product centres ~ (2 year delivery programme)
 
@@ -74,7 +74,16 @@ categories: cv
 * Configuring JIRA to be used for MiFID II project management (development, UAT and implementation).
 * Implementing two-way JIRA / Microsoft Visual Studio Online synchronisation using TFS4JIRA plug-in.
   
-#### Acting as Scrum Master for Digital Transformation project ~ (9 month secondment)
+#### Implement Agile at team level across multiple Product centres ~ (3 month project)
+
+* Acting as Agile Coach and Transformation Lead for several Product Development teams during transformation period.
+* Coaching Business Analysts, Product Owners, Scrum Masters and Scrum teams as Subject Matter Expert for agile best practices.
+* Establishing an iterative and incremental approach to Product development at the solution development team level.
+* Working with Product Owners and Scrum teams to coordinate the agile events (Backlog Refinement, Sprint Planning, Daily Stand-ups, Sprint Reviews and Retrospectives).
+* Establishing culture of Continuous Improvement and leading the transformation of teams working with legacy codebases.
+* Introducing Kanban boards, Story Point estimation, MoSCoW Reviews, Impact Mapping, Test-Driven Development, Continous Integration and Continuous Delivery.
+
+### As a **Scrum Master**
 
 * Running Scrum events and ceremonies (Backlog Refinement, Sprint planning, Daily stand-ups, Sprint reviews and Retrospectives).
 * Working closely with stakeholders, Product Owner and Scrum team to remove impediments.
@@ -85,17 +94,8 @@ categories: cv
 * Introducing, coaching and supporting the implementation of Agile / XP methodologies (pairing, TDD, BDD) and modern version control / digital collaboration tools (Git, JIRA Software, Confluence, Slack, WinSCP scripts).
 * Guiding the Scrum team in the investigation and adoption of development models (RBAC), frameworks (Bootstrap, Angular) and architectures (MVC, MVVM, Microservices).
 * Evangelising the move to infrastructure-as-code and experimentation with containerisation (using Docker) for continuous deployment.
-  
-#### Implement Agile at team level across multiple Product centres ~ (3 month project)
 
-* Acting as Agile Coach and Transformation Lead for several Product Development teams during transformation period.
-* Coaching Business Analysts, Product Owners, Scrum Masters and Scrum teams as Subject Matter Expert for agile best practices.
-* Establishing an iterative and incremental approach to Product development at the solution development team level.
-* Working with Product Owners and Scrum teams to coordinate the agile events (Backlog Refinement, Sprint Planning, Daily Stand-ups, Sprint Reviews and Retrospectives).
-* Establishing culture of Continuous Improvement and leading the transformation of teams working with legacy codebases.
-* Introducing Kanban boards, Story Point estimation, MoSCoW Reviews, Impact Mapping, Test-Driven Development, Continous Integration and Continuous Delivery.
-
-#### Acting as Senior JIRA Administrator during JIRA Implementation period ~ (6 month project)
+### As as Senior JIRA Administrator
 
 * Oversight and governance of JIRA implementation (1,200+ users over 500+ projects)
 * Overseeing all aspects of JIRA configuration: _projects, Agile boards (Scrum / Kanban), Dashboards, Shared Schemes, Workflows, Security, User Groups and User Accounts_.
@@ -153,7 +153,7 @@ categories: cv
 - SAFe Agilist 5.0 Certification ~ Jan 2020
 - SAFe Agilist 4.6 Certification ~ Jan 2020
  
-## Scrum Alliance
+### Scrum Alliance
 
 * _**Certified Scrum Master**_ (_**CSM**_) _[View](https://certification.scrumalliance.org/accounts/887172-robert-andrew-barrow/certifications/1007243-csm/)_
 

@@ -17,7 +17,7 @@ categories: cv
 
 ## **MMT Digital Limited** ~ (Jun 2019 - Present)
 
-### As **Agile Delivery Consultant** 
+### As an **Agile Delivery Consultant** 
 
 - Designing, implementing and optimising Lean-Agile delivery models and portfolio management processes for various clients (providing governance of Epic life-cycle from inception to value delivery)
 - Facilitating senior stakeholder interviews and workshops to identify strategic themes, value streams, key metrics, and team principles
@@ -30,14 +30,14 @@ categories: cv
 - Providing technical support, governance and oversight to delivery teams - acting as Delivery Manager for internal projects
 - Configuring Microsoft Azure DevOps or Atlassian JIRA to support LPM processes
 
-### As **SAFe Practice Consultant (SPC)**
+### As a **SAFe Practice Consultant (SPC)**
 - Collaborating with Release Train Engineer (RTE) to design and launch an Agile Release Train (ART) for a new value stream
 - Running Lean-Agile Centre of Excellence and "ART of ART" ceremonies for Release Train Engineers
 - Assisting in the facilitation of PI Planning event
 - Collaborating with Product Leads, Delivery Manager, QA Manager, Release Train Engineers and Data Analysts to design and implement Microsoft Power BI dashboards e.g., for real-time flow and delivery metrics across multiple Agile Release Trains
 - Configuration of Atlassian JIRA to standardise workflows, Agile boards, reports and dashboards across multiple Agile Release Trains
 
-### As **Technical Account Lead** 
+### As a **Technical Account Lead** 
 
 - Building and leading delivery teams that deliver value sooner, safer and happier
 - Creating long-lasting impact by guiding and enabling teams to achieve desired outcomes
@@ -55,9 +55,7 @@ categories: cv
 
 ## **Objectway Limited** ~ (Dec 2014 – Mar 2019)
 
-### **Agile Transformation / Delivery Manager**
-
-*Objectives, major projects and other responsibilities*:
+### As a **Agile Transformation**
 
 #### Roll-out digital collaboration tools and implement Agile at the Program level across multiple Product centres ~ (2 year delivery programme)
 
@@ -105,6 +103,8 @@ categories: cv
 * Training other JIRA Administrators in line with best practices.
 * Establishing JIRA administrative support process.
 
+### As a **Delivery Manager**
+
 #### Flagship Cloud Migration ~ (6 month project)
 
 * Delivering a successful migration of clients from legacy (on-premise) systems against a hard deadline.
@@ -126,7 +126,7 @@ categories: cv
 * Project managing deployment of read-only systems for historical audit enquiries and regulatory compliance.
 * Overseeing migration of on-premise servers (at various client sites) to hosted service in Objectway data centre.
 
-#### Acting as Product Owner for Flagship [as a background task] ~ (4 years+)
+### As a **Product Owner**
 
 * Responsible for roadmap, backlog and service delivery for Flagship (legacy product).
 * Agile project management for development and implementation of regulatory updates e.g. Flexible & Lifetime ISAs (2016), MiFID II (2017), GDRP (2018).
@@ -134,7 +134,7 @@ categories: cv
 
 ## **3i Infotech (Western Europe) Limited** ~ (Jan 2008 - Dec 2014)
 
-### **Service Delivery Manager**
+### As a **Service Delivery Manager**
 
 #### Responsible for service delivery of Flagship products and leadership of the solution development team
 
@@ -144,20 +144,16 @@ categories: cv
 
 ## **Exact Technical Services Limited** ~ (Jun 1998 – Dec 2007)
 
-* Research, development ,delivery and support of a new back-office settlement system for UK stockbrokerss.
+* Research, development, delivery and support of a new back-office settlement system for UK stockbrokerss.
 
 ## Professional Certifications and Accreditations
 
-#### Scaled Agile Framework 
+### Scaled Agile Framework 
 - Implementing SAFe Training (SPC Certification) ~ May 2022
 - SAFe Agilist 5.0 Certification ~ Jan 2020
 - SAFe Agilist 4.6 Certification ~ Jan 2020
  
-#### Temporall
-- Temporall Partner Accelerate ~ May 2021
-- Temporall Workbench Boot Camp ~ Jul 2020
-
-### Scrum Alliance
+## Scrum Alliance
 
 * _**Certified Scrum Master**_ (_**CSM**_) _[View](https://certification.scrumalliance.org/accounts/887172-robert-andrew-barrow/certifications/1007243-csm/)_
 

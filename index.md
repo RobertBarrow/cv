@@ -55,7 +55,7 @@ categories: cv
 
 ## **Objectway Limited** ~ (Dec 2014 – Mar 2019)
 
-### As a **Agile Transformation**
+### As an **Agile Transformation**
 
 #### Roll-out digital collaboration tools and implement Agile at the Program level across multiple Product centres ~ (2 year delivery programme)
 

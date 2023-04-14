@@ -1,6 +1,6 @@
 ---
 title:  "AGILE DELIVERY CONSULTANT"
-date:   2022-05-25 20:30:00 +0000
+date:   2022-04-14 12:10:00 +0000
 categories: cv
 
 ---
@@ -65,7 +65,7 @@ categories: cv
 * Overseeing all aspects of JIRA configuration for new projects/teams (acting as Senior JIRA Administrator for UK).
 * Attending various Agile / Lean / DevOps summits, conferences and Meetups to keep abrest of latest thinking in agile circles and gain additional knowledge and insights from the experiences of others.
 
-#### Implement Agile transformation of Brewin Dolphin FISCAL team for MiFID II ~ (3 month secondment)
+#### Implement Agile transformation of Brewin Dolphin FISCAL team for MiFID II
 
 * Acting as Agile Coach and leading the transformation of FISCAL product development and implementation team.
 * Providing training and coaching for Business Analysts, Product Owner, Scrum Master and Scrum team.
@@ -74,7 +74,7 @@ categories: cv
 * Configuring JIRA to be used for MiFID II project management (development, UAT and implementation).
 * Implementing two-way JIRA / Microsoft Visual Studio Online synchronisation using TFS4JIRA plug-in.
   
-#### Implement Agile at team level across multiple Product centres ~ (3 month project)
+#### Implement Agile at team level across multiple Product Development entres
 
 * Acting as Agile Coach and Transformation Lead for several Product Development teams during transformation period.
 * Coaching Business Analysts, Product Owners, Scrum Masters and Scrum teams as Subject Matter Expert for agile best practices.
@@ -103,9 +103,9 @@ categories: cv
 * Training other JIRA Administrators in line with best practices.
 * Establishing JIRA administrative support process.
 
-### As a **Delivery Manager**
+### As an **Agile Delivery Manager**
 
-#### Flagship Cloud Migration ~ (6 month project)
+#### Flagship Cloud Migration
 
 * Delivering a successful migration of clients from legacy (on-premise) systems against a hard deadline.
 * Project management supporting business analysts, implementation team and clients during transition phase.
@@ -114,7 +114,7 @@ categories: cv
 * Facilitating deployment of read-only systems for historical audit enquiries and regulatory compliance.
 * Overseeing migration of on-premise servers (at various client sites) and Objectway data centre to Azure.
 
-#### Live client data migration ~ (9 month secondment)
+#### Live client data migration
 
 * Delivering the successful migration of live client data from legacy product to Wealth-in-One solution.
 * Project management supporting business analysts, implementation team and clients during transition phase.
@@ -174,7 +174,7 @@ categories: cv
 * _**Value Models**_ and _**WSJF**_ as prioritisation techniques
 * _**Kano modelling**_, _**Impact mapping**_ and _**Hypothesis statements**_ for product roadmap development
 * _**Objectives and Key Results**_ for delivery measurement
-* _**Containerisation**_, _**micro-service**_ and _**function-as-a-service / serverless**_ as modern architecture patterns
+* _**Containerisation**_, _**microservices**_ and _**function-as-a-service / serverless**_ as modern socio-technical architecture patterns
 * _**Continuous integration**_, _**testing**_, _**delivery**_ and _**deployment**_ pipelines
 * _**Platform Engineering**_ / _**DevOps**_ / _**GitOps**_ / _**NoOps**_ / _**NoEstimates**_ movements
 * The potential for _**Generative AI**_ to be used to write code as a team augmentation/collaboration tool

@@ -21,7 +21,7 @@ categories: cv
 
 - Designing, implementing and optimising Lean-Agile delivery models and portfolio management processes for various clients (providing governance of Epic life-cycle from inception to value delivery)
 - Facilitating senior stakeholder interviews and workshops to identify strategic themes, value streams, key metrics, and team principles
-- Collaboratomg with colleagues and clients to build business cases to secure funding (statements of work, annual budgets, forecasts, capex/opex requests)
+- Collaborating with colleagues and clients to build business cases to secure funding (statements of work, annual budgets, forecasts, capex/opex requests)
 - Acting as a Subject Matter Expert for internal projects and providing thought leadership to develop consulting frameworks and product development models
 - Designing an organisational Value Model (as the single prioritisation framework for all future business change, development and delivery roadmaps)
 - Selecting appropriate roles and delivery methodologies for hybrid Lean-Agile delivery models

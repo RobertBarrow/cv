@@ -8,7 +8,7 @@ categories: cv
 
 |Full name|Robert Andrew Barrow||||
 | --- | --- | --- | ---- | --- |
-|*Address*|1 Oakley Pond, Great Oakley, Corby, Northamptonshire NN18 8NN, UK||||
+|*Location*|Northamptonshire||||
 |*Telephone*|**+44 (0) 7399 896262**||||
 |*Email & social*|**[robert.barrow@gmail.com](mailto:robert.barrow@gmail.com)**|LinkedIn [![LinkedIn](https://robertbarrow.github.io/cv/assets/icons/LinkedIn-2C-21px-R.png "robertbarrow")](https://www.linkedin.com/in/robertbarrow)|GitHub [![GitHub](https://robertbarrow.github.io/cv/assets/icons/GitHub-Mark-20x20.png "RobertBarrow")](https://github.com/RobertBarrow)|Twitter [![Twitter](https://robertbarrow.github.io/cv/assets/icons/Twitter_Social_Icon_Rounded_Square_Color_20x20.png "@SquidVicious_UK")](https://twitter.com/SquidVicious_UK)|
 

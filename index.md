@@ -138,17 +138,15 @@ categories: cv
 
 #### Responsible for service delivery of Flagship products and leadership of the solution development team
 
+* Research, development, delivery and support of a new back-office settlement system for UK stockbrokers
 * Successful implemention and integration of Objectway products with clients' in-house and 3rd party systems.
 * Coordinating development, implementation, service delivery and support efforts for product development centres and remote teams.
 * Driving adoption of Agile methodologies, practices and toolsets for product development teams.
 
-## **Exact Technical Services Limited** ~ (Jun 1998 – Dec 2007)
-
-* Research, development, delivery and support of a new back-office settlement system for UK stockbrokerss.
-
 ## Professional Certifications and Accreditations
 
 ### Scaled Agile Framework 
+- SAFe Practice Consultant (SPC) upgrade for SAFe 6.0 ~ April 2023
 - Implementing SAFe Training (SPC Certification) ~ May 2022
 - SAFe Agilist 5.0 Certification ~ Jan 2020
 - SAFe Agilist 4.6 Certification ~ Jan 2020

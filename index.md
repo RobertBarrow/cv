@@ -12,6 +12,9 @@ categories: cv
 |*Telephone*|**+44 (0) 7399 896262**||||
 |*Email & social*|**[robert.barrow@gmail.com](mailto:robert.barrow@gmail.com)**|LinkedIn [![LinkedIn](https://robertbarrow.github.io/cv/assets/icons/LinkedIn-2C-21px-R.png "robertbarrow")](https://www.linkedin.com/in/robertbarrow)|GitHub [![GitHub](https://robertbarrow.github.io/cv/assets/icons/GitHub-Mark-20x20.png "RobertBarrow")](https://github.com/RobertBarrow)|Twitter [![Twitter](https://robertbarrow.github.io/cv/assets/icons/Twitter_Social_Icon_Rounded_Square_Color_20x20.png "@SquidVicious_UK")](https://twitter.com/SquidVicious_UK)|
 
+# Personal Profile
+
+Experienced Agile Delivery Consultant with a SAFe SPC certification and a background in Production Control and Back-office Settlement systems. Skilled in designing, implementing, and optimizing value-driven operating models for Lean Portfolio Management and Agile delivery engagements. Proven ability to implement Agile transformation at scale and oversee client data migration. Experience in Release Train Engineer, Scrum Master, and Product Owner roles.
 
 # Employment History
 

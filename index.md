@@ -35,8 +35,8 @@ Experienced Agile Delivery Consultant with a SAFe SPC certification and a backgr
 
 ### As a **SAFe Practice Consultant (SPC)**
 - Collaborating with Release Train Engineer (RTE) to design and launch an Agile Release Train (ART) for a new value stream
-- Running Lean-Agile Centre of Excellence and "ART of ART" ceremonies for Release Train Engineers
-- Assisting in the facilitation of PI Planning event
+- Acting as Solution Train Engineer, running Lean-Agile Centre of Excellence (LACE) and "ART of ART" sync ceremonies for Release Train Engineers
+- Assisting in the facilitation of PI Planning events
 - Collaborating with Product Leads, Delivery Manager, QA Manager, Release Train Engineers and Data Analysts to design and implement Microsoft Power BI dashboards e.g., for real-time flow and delivery metrics across multiple Agile Release Trains
 - Configuration of Atlassian JIRA to standardise workflows, Agile boards, reports and dashboards across multiple Agile Release Trains
 

@@ -14,7 +14,7 @@ categories: cv
 
 # Personal Profile
 
-Experienced Agile Delivery Consultant with a SAFe SPC certification and a background in Production Control and Back-office Settlement systems. Skilled in designing, implementing, and optimizing value-driven operating models for Lean Portfolio Management and building great teams for Agile delivery engagements. Proven ability to implement Agile transformation at scale and oversee client data migration. Experience in Delivery Manager, Release Train Engineer, Scrum Master, and Product Owner roles.
+Experienced **Agile Delivery Consultant** with a **SAFe SPC** certification and a background in Production Control and Back-office Settlement systems. Skilled in designing, implementing, and optimizing value-driven operating models and **Valuestreams** for **Lean Portfolio Management** and building great teams for **Agile Delivery** engagements. Proven ability to implement **Agile Transformation** at scale and oversee client data migration. Experience in **Delivery Manager**, **Release Train Engineer**, **Scrum Master**, and **Product Owner** roles.
 
 # Employment History
 

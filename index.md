@@ -97,7 +97,7 @@ Experienced **Agile Delivery Consultant** with a **SAFe SPC** certification and 
 * Guiding the Scrum team in the investigation and adoption of modern development frameworks and architectures
 * Evangelising the move to infrastructure-as-code and experimentation with containerisation for continuous deployment
 
-### As as ""Senior JIRA Administrator**
+### As as **Senior JIRA Administrator**
 
 * Oversight and governance of JIRA implementation (1,200+ users over 500+ projects)
 * Overseeing all aspects of JIRA configuration: _projects, Agile boards (Scrum / Kanban), Dashboards, Shared Schemes, Workflows, Security, User Groups and User Accounts_

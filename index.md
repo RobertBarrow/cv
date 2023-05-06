@@ -4,7 +4,7 @@ date:   2022-04-14 12:10:00 +0000
 categories: cv
 
 ---
-# Contact Details
+## Contact Details
 
 |Full name|Robert Andrew Barrow||||
 | --- | --- | --- | ---- | --- |
@@ -12,19 +12,17 @@ categories: cv
 |*Telephone*|**+44 (0) 7399 896262**||||
 |*Email & social*|**[robert.barrow@agilemanifesto.co.uk](mailto:robert.barrow@agilemanifesto.co.uk)**|LinkedIn [![LinkedIn](https://robertbarrow.github.io/cv/assets/icons/LinkedIn-2C-21px-R.png "robertbarrow")](https://www.linkedin.com/in/robertbarrow)|GitHub [![GitHub](https://robertbarrow.github.io/cv/assets/icons/GitHub-Mark-20x20.png "RobertBarrow")](https://github.com/RobertBarrow)|Twitter [![Twitter](https://robertbarrow.github.io/cv/assets/icons/Twitter_Social_Icon_Rounded_Square_Color_20x20.png "@SquidVicious_UK")](https://twitter.com/SquidVicious_UK)|
 
-# Personal Profile
+## Personal Profile
 
 Experienced **Agile Delivery Consultant** with a **SAFe SPC** certification and a background in Production Control and Back-office Settlement systems. Skilled in designing, implementing, and optimizing Value Streams and Value-Driven Operating Models for **Lean Portfolio Management** in scaled Agile environments. Proven ability as an **Agile Delivery Manager**, building great, cross-functional, outcome-focused teams for both internal products and client engagements.  Success implementing **Agile Transformation** at scale and overseeing **Service Delivery** for mission critical platforms within a highly-regulated environment. Additiontal successes and experiences from **Release Train Engineer**, **Scrum Master**, **Product Owner**, and **Engineering** roles.
 
-# Employment History
-
 ## Employment Summary
 
-### **Digital Agency (various sectors)** ~ (4 years): **Agile Delivery Consultant** and **Technical Account Lead** roles
-### **Digital Products (Financial Services sector)** ~ (20 years): **Agile Transformation Manager**, **Agile Delivery Manager**, **Product Owner**, and **Scrum Master** roles
-### **Application Development (Engineering sector)** ~ (7 years): **Development Manager** and **Application Developer** roles
+#### Digital Agency (various sectors) ~ (4 years): **Agile Delivery Consultant** and **Technical Account Lead** roles
+#### Digital Products (Financial Services sector) ~ (20 years): **Agile Transformation Manager**, **Agile Delivery Manager**, **Product Owner**, and **Scrum Master** roles
+#### Application Development (Engineering sector) ~ (7 years): **Development Manager** and **Application Developer** roles
 
-## Employment Detail (last 15 years)
+## Employment History (last 15 years)
 
 ## **MMT Digital Limited** ~ (Jun 2019 - Present)
 

@@ -23,8 +23,6 @@ Experienced **Agile Delivery Consultant** with a **SAFe SPC** certification and 
 |**3i Infotech**|Service Delivery|<li>**Service Delivery Manager**</li>|<li>**Financial Services**</li>|6 years|
 |**Colbek Systems**|Application Development|<li>**Development Manager**</li><li>**Application Developer**</li>|<li>**Precision Engineering**</li>|7 years|
 
-## Employment History (last 15 years)
-
 ## **MMT Digital Limited** ~ (Jun 2019 - Present)
 
 ### As an **Agile Delivery Consultant** 

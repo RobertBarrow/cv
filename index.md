@@ -18,6 +18,14 @@ Experienced **Agile Delivery Consultant** with a **SAFe SPC** certification and 
 
 # Employment History
 
+## Employment Summary
+
+### **Digital Agency (various sectors)** ~ (4 years): **Agile Delivery Consultant** and **Technical Account Lead** roles
+### **Digital Products (Financial Services sector)** ~ (20 years): **Agile Transformation Manager**, **Agile Delivery Manager**, **Product Owner**, and **Scrum Master** roles
+### **Application Development (Engineering sector)** ~ (7 years): **Development Manager** and **Application Developer** roles
+
+## Employment Detail (last 15 years)
+
 ## **MMT Digital Limited** ~ (Jun 2019 - Present)
 
 ### As an **Agile Delivery Consultant** 

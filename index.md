@@ -6,7 +6,7 @@ categories: cv
 ---
 ## Contact Details
 
-|Full name|Telephone|Email|LinkedIn|GitHub|Twitter| 
+|Full name|Telephone|Email|LI|GH|Tw| 
 | --- | --- | --- | ---- | ---- | ---- |
 |Robert Andrew Barrow|**+44 (0) 7399 896262**|**[robert.barrow@agilemanifesto.co.uk](mailto:robert.barrow@agilemanifesto.co.uk)**|[![LinkedIn](https://robertbarrow.github.io/cv/assets/icons/LinkedIn-2C-21px-R.png "robertbarrow")](https://www.linkedin.com/in/robertbarrow)|[![GitHub](https://robertbarrow.github.io/cv/assets/icons/GitHub-Mark-20x20.png "RobertBarrow")](https://github.com/RobertBarrow)|[![Twitter](https://robertbarrow.github.io/cv/assets/icons/Twitter_Social_Icon_Rounded_Square_Color_20x20.png "@SquidVicious_UK")](https://twitter.com/SquidVicious_UK)|
 
@@ -16,9 +16,12 @@ Experienced **Agile Delivery Consultant** with a **SAFe SPC** certification and 
 
 ## Employment Summary
 
-- Employers: **MMT Digital** (Digital Agency) ~ **Objectway** (Digital Products) ~ **3i Infotech** (Service Delivery) ~ **Exact Technical Services** (Applpication Development)
-- Sector experience: **Financial Services** (20 years) ~ **Engineering** (7 years) ~ **Public Transport** (3 years)
-- Roles: **Agile Delivery Consultant** ~ **Release Train Engineer** ~ **Technical Account Lead** ~ **Agile Transformation Manager** ~ **Agile Delivery Manager** ~ **Product Owner** ~ **Scrum Master** ~ **Service Delivery Manager** ~ **Development Manager** ~ **Application Developer**
+|Employer|Type|Roles|Sectors|Tenure| 
+| --- | --- | --- | ---- | ---- |
+|**MMT Digital**|Digital Agency|**Agile Delivery Consultant** - **Release Train Engineer** - **Technical Account Lead**|**Airline** - **Retail** - **Public Transport** - **Charity**|4 years| 
+|**Objectway**|Digital Products|**Agile Transformation Manager** ~ **Agile Delivery Manager** ~ **Product Owner** ~ **Scrum Master**|**Financial Services**|15 years|
+|**3i Infotech**|Service Delivery|**Service Delivery Manager**|**Financial Services**|6 years|
+|**Colbek Systems**|Application Development|**Development Manager** - **Application Developer**|**Engineering**|7 years|
 
 ## Employment History (last 15 years)
 

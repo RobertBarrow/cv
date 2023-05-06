@@ -8,7 +8,7 @@ categories: cv
 
 |Full name|Telephone|Email|Social| 
 | --- | --- | --- | ---- |
-|Robert Andrew Barrow|**+44 (0) 7399 896262**|**[robert.barrow@agilemanifesto.co.uk](mailto:robert.barrow@agilemanifesto.co.uk)**|[![LinkedIn](https://robertbarrow.github.io/cv/assets/icons/LinkedIn-2C-21px-R.png "robertbarrow")](https://www.linkedin.com/in/robertbarrow) [![GitHub](https://robertbarrow.github.io/cv/assets/icons/GitHub-Mark-20x20.png "RobertBarrow")](https://github.com/RobertBarrow) [![Twitter](https://robertbarrow.github.io/cv/assets/icons/Twitter_Social_Icon_Rounded_Square_Color_20x20.png "@SquidVicious_UK")](https://twitter.com/SquidVicious_UK)|
+|Robert Andrew Barrow|**+44 (0) 7399 896262**|**[robert.barrow@agilemanifesto.co.uk](mailto:robert.barrow@agilemanifesto.co.uk)**|[![LinkedIn](https://robertbarrow.github.io/cv/assets/icons/LinkedIn-2C-21px-R.png "robertbarrow")](https://www.linkedin.com/in/robertbarrow)<br>[![GitHub](https://robertbarrow.github.io/cv/assets/icons/GitHub-Mark-20x20.png "RobertBarrow")](https://github.com/RobertBarrow)<br>[![Twitter](https://robertbarrow.github.io/cv/assets/icons/Twitter_Social_Icon_Rounded_Square_Color_20x20.png "@SquidVicious_UK")](https://twitter.com/SquidVicious_UK)|
 
 ## Personal Profile
 
@@ -19,9 +19,9 @@ Experienced **Agile Delivery Consultant** with a **SAFe SPC** certification and 
 |Employer Type|Roles|Client Sectors|Tenure| 
 | --- | --- | --- | ---- |
 |Digital Agency|**Agile Delivery Consultant**<br>**Release Train Engineer**<br>**Technical Account Lead**|**Airline**<br>**Retail**<br>**Public Transport**<br>**Charity**|4 years| 
-|FinTech Products|<li>**Agile Transformation Manager**</li><li>**Agile Delivery Manager**</li><li>**Product Owner**</li><li>**Scrum Master**</li>|<li>**Financial Services**</li>|15 years|
-|Service Delivery|<li>**Service Delivery Manager**</li>|<li>**Financial Services**</li>|6 years|
-|Application Development|<li>**Development Manager**</li><li>**Application Developer**</li>|<li>**Precision Engineering**</li>|7 years|
+|FinTech Products|**Agile Transformation Manager**<br>**Agile Delivery Manager**<br>**Product Owner**<br>**Scrum Master**|**Financial Services**|15 years|
+|Service Delivery|**Service Delivery Manager**|**Financial Services**|6 years|
+|Application Development|**Development Manager**<br>**Application Developer**|**Precision Engineering**|7 years|
 
 ## **MMT Digital Limited** ~ (Jun 2019 - Present)
 

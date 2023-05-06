@@ -18,10 +18,12 @@ Experienced **Agile Delivery Consultant** with a **SAFe SPC** certification and 
 
 |Employer|Type|Roles|Sectors|Tenure| 
 | --- | --- | --- | ---- | ---- |
-|**MMT Digital**|Digital Agency|**Agile Delivery Consultant** - **Release Train Engineer** - **Technical Account Lead**|**Airline** - **Retail** - **Public Transport** - **Charity**|4 years| 
-|**Objectway**|Digital Products|**Agile Transformation Manager** ~ **Agile Delivery Manager** ~ **Product Owner** ~ **Scrum Master**|**Financial Services**|15 years|
+|**MMT Digital**|Digital Agency|<li>**Agile Delivery Consultant**</li><li>**Release Train Engineer**</li><li>**Technical Account Lead**</li>|<li>**Airline**</li><li>**Retail**</li><li>**Public Transport**</li><li>**Charity**</li>|4 years| 
+|**Objectway**|FinTech Products|<li>**Agile Transformation Manager**</li><li>**Agile Delivery Manager**</li><li>**Product Owner**</li></li>**Scrum Master**</li>|**Financial Services**|15 years|
 |**3i Infotech**|Service Delivery|**Service Delivery Manager**|**Financial Services**|6 years|
-|**Colbek Systems**|Application Development|**Development Manager** - **Application Developer**|**Engineering**|7 years|
+|**Colbek Systems**|Application Development|<li>**Development Manager**</li><li>**Application Developer**</li>|**Engineering**|7 years|
+
+<li>Item one.</li><li>Item two.</li>
 
 ## Employment History (last 15 years)
 

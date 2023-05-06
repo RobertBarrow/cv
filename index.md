@@ -18,8 +18,8 @@ Experienced **Agile Delivery Consultant** with a **SAFe SPC** certification and 
 
 |Employer Type|Roles|Client Sectors|Tenure| 
 | --- | --- | --- | ---- |
-|Digital Agency|**Agile Delivery Consultant**<br>**Release Train Engineer**<br>**Technical Account Lead**|**Airline**<br>**Retail**<br>**Public Transport**<br>**Charity**|4 years| 
-|FinTech Products|**Agile Transformation Manager**<br>**Agile Delivery Manager**<br>**Product Owner**<br>**Scrum Master**|**Wealth Management**<br><br>**Investment Management**|15 years|
+|Digital Agency|**Agile Delivery Consultant**<br>**Release Train Engineer**<br>**Technical Account Lead**|**Airline**<br>**Charity**<br>**Public Transport**<br>**Retail**|4 years| 
+|FinTech Products|**Agile Delivery Manager**<br>**Agile Transformation Manager**<br>**Product Owner**<br>**Scrum Master**|**Investment Management**<br><br>**Wealth Management**|15 years|
 |FinTech Services|**Service Delivery Manager**|**Financial Services**|6 years|
 
 ## **MMT Digital Limited** ~ (Jun 2019 - Present)

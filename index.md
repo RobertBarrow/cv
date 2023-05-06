@@ -14,13 +14,13 @@ categories: cv
 
 ## Personal Profile
 
-Experienced **Agile Delivery Consultant** with a **SAFe SPC** certification and a background in Production Control and Back-office Settlement systems. Skilled in designing, implementing, and optimizing Value Streams and Value-Driven Operating Models for **Lean Portfolio Management** in scaled Agile environments. Proven ability as an **Agile Delivery Manager**, building great, cross-functional, outcome-focused teams for both internal products and client engagements.  Success implementing **Agile Transformation** at scale and overseeing **Service Delivery** for mission critical platforms within a highly-regulated environment. Additiontal successes and experiences from **Release Train Engineer**, **Scrum Master**, **Product Owner**, and **Engineering** roles.
+Experienced **Agile Delivery Consultant** with a **SAFe SPC** certification and a background in Production Control and Back-office Settlement systems. Skilled in designing, implementing, and optimizing Value Streams and Value-Driven Operating Models for **Lean Portfolio Management** in scaled Agile environments. Proven ability as an **Agile Delivery Manager**, building great, cross-functional, outcome-focused teams for both internal products and client engagements.  Success implementing **Agile Transformation** at scale and overseeing **Service Delivery** for mission critical platforms within a highly-regulated environment. 
 
 ## Employment Summary
 
-#### Digital Agency (various sectors) ~ (4 years): **Agile Delivery Consultant** and **Technical Account Lead** roles
-#### Digital Products (Financial Services sector) ~ (20 years): **Agile Transformation Manager**, **Agile Delivery Manager**, **Product Owner**, and **Scrum Master** roles
-#### Application Development (Engineering sector) ~ (7 years): **Development Manager** and **Application Developer** roles
+* 4 years at a Digital Agency (various sectors) in **Agile Delivery Consultant**, **Release Train Engineer** and **Technical Account Lead** roles 
+* 20 years in Digital Products (Financial Services sector) in **Agile Transformation Manager**, **Agile Delivery Manager**, **Product Owner**, **Scrum Master**, and **Service Delivery Manager** roles
+* 7 years in Application Development (Engineering sector) in **Development Manager** and **Application Developer** roles
 
 ## Employment History (last 15 years)
 

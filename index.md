@@ -16,12 +16,12 @@ Experienced **Agile Delivery Consultant** with a **SAFe SPC** certification and 
 
 ## Employment Summary
 
-|Employer|Type|Roles|Sectors|Tenure| 
+|Employer Type|Roles|Client Sectors|Tenure| 
 | --- | --- | --- | ---- | ---- |
-|**MMT Digital**|Digital Agency|<li>**Agile Delivery Consultant**</li><li>**Release Train Engineer**</li><li>**Technical Account Lead**</li>|<li>**Airline**</li><li>**Retail**</li><li>**Public Transport**</li><li>**Charity**</li>|4 years| 
-|**Objectway**|FinTech Products|<li>**Agile Transformation Manager**</li><li>**Agile Delivery Manager**</li><li>**Product Owner**</li><li>**Scrum Master**</li>|<li>**Financial Services**</li>|15 years|
-|**3i Infotech**|Service Delivery|<li>**Service Delivery Manager**</li>|<li>**Financial Services**</li>|6 years|
-|**Colbek Systems**|Application Development|<li>**Development Manager**</li><li>**Application Developer**</li>|<li>**Precision Engineering**</li>|7 years|
+|Digital Agency|<li>**Agile Delivery Consultant**</li><li>**Release Train Engineer**</li><li>**Technical Account Lead**</li>|<li>**Airline**</li><li>**Retail**</li><li>**Public Transport**</li><li>**Charity**</li>|4 years| 
+|FinTech Products|<li>**Agile Transformation Manager**</li><li>**Agile Delivery Manager**</li><li>**Product Owner**</li><li>**Scrum Master**</li>|<li>**Financial Services**</li>|15 years|
+|Service Delivery|<li>**Service Delivery Manager**</li>|<li>**Financial Services**</li>|6 years|
+|Application Development|<li>**Development Manager**</li><li>**Application Developer**</li>|<li>**Precision Engineering**</li>|7 years|
 
 ## **MMT Digital Limited** ~ (Jun 2019 - Present)
 

@@ -18,9 +18,9 @@ Experienced **Agile Delivery Consultant** with a **SAFe SPC** certification and 
 
 ## Employment Summary
 
-* 4 years at a Digital Agency (various sectors) in **Agile Delivery Consultant**, **Release Train Engineer** and **Technical Account Lead** roles 
-* 20 years in Digital Products (Financial Services sector) in **Agile Transformation Manager**, **Agile Delivery Manager**, **Product Owner**, **Scrum Master**, and **Service Delivery Manager** roles
-* 7 years in Application Development (Engineering sector) in **Development Manager** and **Application Developer** roles
+Employers: **MMT Digital** (Digital Agency) ~ **Objectway** (Digital Products) ~ **3i Infotech** (Service Delivery) ~ **Exact Technical Services** (Applpication Development)
+Sector experience: **Financial Services** (20 years) ~ **Engineering** (7 years) ~ **Public Transport** (3 years)
+Roles: **Agile Delivery Consultant** ~ **Release Train Engineer** ~ **Technical Account Lead** ~ **Agile Transformation Manager** ~ **Agile Delivery Manager** ~ **Product Owner** ~ **Scrum Master** ~ **Service Delivery Manager** ~ **Development Manager** ~ **Application Developer*
 
 ## Employment History (last 15 years)
 

@@ -1,3 +1,11 @@
+---
+title:  "COMPETENCIES FOR DELIVERY MANAGER"
+date:   2022-05-30 12:04:00 +0000
+categories: cv
+permalink: /delivery-manager
+---
+_[< Home](https://robertbarrow.github.io/cv/)_
+
 # Competencies for Delivery Manager
 
 ## Seeing the Big Picture
@@ -54,3 +62,4 @@ Show a positive approach to keeping the whole team’s efforts focused on the to
 
 Ensure everyone clearly understands and owns their roles, responsibilities and business priorities. Give honest, motivating and enthusiastic messages about priorities, objectives and expectations to get the best out of people. Comply with legal, regulatory and security requirements in service delivery. Set out clear processes and standards for managing performance at all levels. Ensure delivery of timely quality outcomes, through providing the right resources to do the job, reviewing and adjusting performance expectations and rewarding success. Maintain own levels of performance in challenging circumstances and encourage others to do the same.
 
+_[< Home](https://robertbarrow.github.io/cv/)_

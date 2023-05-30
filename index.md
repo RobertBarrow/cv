@@ -14,6 +14,8 @@ categories: cv
 
 Experienced **[Agile Delivery Consultant](https://robertbarrow.github.io/cv/agile-delivery-consultant)** with a **SAFe SPC** certification and a background in Production Control and Back-office Settlement systems. Skilled in designing, implementing, and optimizing Value Streams and Value-Driven Operating Models for **Lean Portfolio Management** in scaled Agile environments. Proven ability as an **Agile Delivery Manager**, building great, cross-functional, outcome-focused teams for both internal products and client engagements.  Success implementing **Agile Transformation** at scale and overseeing **Service Delivery** for mission critical platforms within a highly-regulated environment. 
 
+**Current status:** Available to start a new role from **June 2023**.
+
 ## Employment Summary
 
 |Employer Type|Roles|Client Sectors|Tenure| 
@@ -21,8 +23,6 @@ Experienced **[Agile Delivery Consultant](https://robertbarrow.github.io/cv/agil
 |Digital Agency|**Agile Delivery Consultant**<br>**Release Train Engineer**<br>**Technical Account Lead**|**Airline**<br>**Charity**<br>**Public Transport**<br>**Retail**|4 years| 
 |FinTech Products|**Agile Delivery Manager**<br>**Agile Transformation Lead**<br>**Product Owner**<br>**Scrum Master**|**Investment Management**<br><br>**Wealth Management**|15 years|
 |FinTech Services|**Service Delivery Manager**|**Financial Services**|6 years|
-
-**Current status:** Available to start a new role from **June 2023**.
 
 ## **MMT Digital Limited** ~ (Jun 2019 - May 2023)
 

@@ -20,7 +20,7 @@ Experienced **[Agile Delivery Consultant](https://robertbarrow.github.io/cv/agil
 
 |Employer Type|Roles|Client Sectors|Tenure| 
 | --- | --- | --- | ---- |
-|Digital Agency|**[Agile Delivery Consultant](https://robertbarrow.github.io/cv/agile-delivery-consultant)**<br>[SAFe Practice Consultant (SPC)](https://robertbarrow.github.io/cv/safe-practice-consultant)**<br>**Technical Account Lead**|**Airline**<br>**Charity**<br>**Public Transport**<br>**Retail**|4 years| 
+|Digital Agency|**[Agile Delivery Consultant](https://robertbarrow.github.io/cv/agile-delivery-consultant)**<br>**[SAFe Practice Consultant (SPC)](https://robertbarrow.github.io/cv/safe-practice-consultant)**<br>**Technical Account Lead**|**Airline**<br>**Charity**<br>**Public Transport**<br>**Retail**|4 years| 
 |FinTech Products|**Agile Delivery Manager**<br>**Agile Transformation Lead**<br>**Product Owner**<br>**Scrum Master**|**Investment Management**<br><br>**Wealth Management**|15 years|
 |FinTech Services|**Service Delivery Manager**|**Financial Services**|6 years|
 

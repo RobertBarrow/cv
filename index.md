@@ -1,6 +1,6 @@
 ---
 title:  "AGILE DELIVERY CONSULTANT"
-date:   2022-05-12 10:00:00 +0000
+date:   2022-05-30 11:50:00 +0000
 categories: cv
 
 ---
@@ -20,11 +20,11 @@ Experienced **[Agile Delivery Consultant](https://robertbarrow.github.io/cv/agil
 
 |Employer Type|Roles|Client Sectors|Tenure| 
 | --- | --- | --- | ---- |
-|Digital Agency|**Agile Delivery Consultant**<br>**Release Train Engineer**<br>**Technical Account Lead**|**Airline**<br>**Charity**<br>**Public Transport**<br>**Retail**|4 years| 
+|Digital Agency|**[Agile Delivery Consultant](https://robertbarrow.github.io/cv/agile-delivery-consultant)**<br>**Release Train Engineer**<br>**Technical Account Lead**|**Airline**<br>**Charity**<br>**Public Transport**<br>**Retail**|4 years| 
 |FinTech Products|**Agile Delivery Manager**<br>**Agile Transformation Lead**<br>**Product Owner**<br>**Scrum Master**|**Investment Management**<br><br>**Wealth Management**|15 years|
 |FinTech Services|**Service Delivery Manager**|**Financial Services**|6 years|
 
-## **MMT Digital Limited** ~ (Jun 2019 - May 2023)
+## **[MMT Digital Limited](https://robertbarrow.github.io/cv/mmt-digital)** ~ (Jun 2019 - May 2023)
 
 ### As an **[Agile Delivery Consultant](https://robertbarrow.github.io/cv/agile-delivery-consultant)**
 
@@ -39,7 +39,7 @@ Experienced **[Agile Delivery Consultant](https://robertbarrow.github.io/cv/agil
 - Providing technical support, governance, and oversight to delivery teams - acting as Delivery Manager for internal projects.
 - Configuring Microsoft Azure DevOps or Atlassian JIRA to support LPM processes.
 
-### As a **SAFe Practice Consultant (SPC)**
+### As a **[SAFe Practice Consultant (SPC)](https://robertbarrow.github.io/cv/safe-practice-consultant)**
 - Collaborating with Release Train Engineer (RTE) to design and launch an Agile Release Train (ART) for a new value stream.
 - Acting as Solution Train Engineer, running Lean-Agile Centre of Excellence (LACE) and "ART of ART" sync ceremonies for Release Train Engineers.
 - Assisting in the facilitation of PI Planning events.

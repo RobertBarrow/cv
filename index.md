@@ -1,6 +1,6 @@
 ---
 title:  "AGILE DELIVERY CONSULTANT"
-date:   2022-05-30 11:50:00 +0000
+date:   2022-05-30 14:45:00 +0000
 categories: cv
 
 ---
@@ -33,7 +33,7 @@ Experienced **[Agile Delivery Consultant](https://robertbarrow.github.io/cv/agil
 |Scrum Alliance**|[Certified Scrum Master (CSM)](https://certification.scrumalliance.org/accounts/887172-robert-andrew-barrow/certifications/1007243-csm/)|2019|
 |Atlassian|ACP-100 Jira Administrator (BETA)|2016 
 |Udemy|Docker Swarm Mastery: DevOps Style Cluster Orchestration<br>[Docker Mastery: The complete toolset from a Docker Captain](https://www.udemy.com/certificate/UC-CAM71I53/)|2018
-|Atlassian|JIRA Administration - Part 1 - Project Configuration<br>JIRA Administration - Part 2 - User Management and Schemes<br>Getting more out of JIRA Workflows - Advanced Workflow Configuration<br>ACP-100 Jira Administrator Certification Prep|2016|
+|Atlassian|JIRA Administration - Part 1 - Project Configuration<br>JIRA Administration - Part 2 - User Management and Schemes<br>Advanced JIRA Workflow Configuration<br>ACP-100 Jira Administrator Certification Prep|2016|
 
 ## Publications and interests
 

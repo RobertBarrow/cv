@@ -24,7 +24,7 @@ Experienced **Agile Delivery Consultant** with a **SAFe SPC** certification and 
 
 ## **MMT Digital Limited** ~ (Jun 2019 - Present)
 
-### As an **Agile Delivery Consultant** 
+### As an **Agile Delivery Consultant** _[Link](https://robertbarrow.github.io/cv/employement-history/mmt-digital__agile-delivery-consultant.md)_)_ 
 
 - Designing, implementing, and optimizing Lean-Agile delivery models and portfolio management processes for various clients (providing governance of Epic life cycle from inception to value delivery).
 - Facilitating senior stakeholder interviews and workshops to identify strategic themes, value streams, key metrics, and team principles.

@@ -13,4 +13,3 @@ github_username:  RobertBarrow
 markdown: GFM
 remote_theme: pages-themes/modernist@v0.2.0
 show_excerpts: true # set to false to remove excerpts on the homepage
-# theme: jekyll-theme-cayman

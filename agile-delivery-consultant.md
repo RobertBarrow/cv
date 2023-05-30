@@ -1,5 +1,4 @@
 ---
-layout: page
 title:  "AGILE DELIVERY CONSULTANT"
 date:   2022-05-30 10:00:00 +0000
 categories: cv

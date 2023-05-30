@@ -23,7 +23,7 @@ _[< MMT Digital](https://robertbarrow.github.io/cv/mmt-digital)_
 - Reviewing CVs, conducting interviews, and making hiring recommendations for Technical Account Lead and Senior Technical Product Owner roles.
 - Line management of a Product Lead.
 
-## Professional Certifications and Accreditations
+## Relevant Certifications and Accreditations
 
 ### Scaled Agile Framework 
 - SAFe Practice Consultant (SPC) upgrade for SAFe 6.0 ~ May 2023

@@ -21,4 +21,14 @@ _[< Home](https://robertbarrow.github.io/cv/)_
 - Providing technical support, governance, and oversight to delivery teams - acting as Delivery Manager for internal projects.
 - Configuring Microsoft Azure DevOps or Atlassian JIRA to support LPM processes.
 
+## Relevant Certifications and Accreditations
+
+### Scaled Agile Framework 
+- SAFe Practice Consultant (SPC) upgrade for SAFe 6.0 ~ May 2023
+- Implementing SAFe Training (SPC Certification) ~ May 2022
+- SAFe Agilist 5.0 Certification ~ Jan 2020
+- SAFe Agilist 4.6 Certification ~ Dec 2019
+
+_[< MMT Digital](https://robertbarrow.github.io/cv/mmt-digital)_
+
 _[< Home](https://robertbarrow.github.io/cv/)_

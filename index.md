@@ -24,27 +24,11 @@ Experienced **[Agile Delivery Consultant](https://robertbarrow.github.io/cv/agil
 |FinTech Products|**Agile Delivery Manager**<br>**Agile Transformation Lead**<br>**Product Owner**<br>**Scrum Master**|**Investment Management**<br><br>**Wealth Management**|15 years|
 |FinTech Services|**Service Delivery Manager**|**Financial Services**|6 years|
 
-## **[MMT Digital Limited](https://robertbarrow.github.io/cv/mmt-digital)** ~ (Jun 2019 - May 2023)
+## **[MMT Digital Limited](https://robertbarrow.github.io/cv/mmt-digital)** ~ (Jun 2019 - May 2023) _[Details](https://robertbarrow.github.io/cv/mmt-digital)_
 
-### As an **[Agile Delivery Consultant](https://robertbarrow.github.io/cv/agile-delivery-consultant)**
+### As an **[Agile Delivery Consultant](https://robertbarrow.github.io/cv/agile-delivery-consultant)** _[Details](https://robertbarrow.github.io/cv/agile-delivery-consultant)_
 
-- Designing, implementing, and optimizing Lean-Agile delivery models and portfolio management processes for various clients (providing governance of Epic life cycle from inception to value delivery).
-- Facilitating senior stakeholder interviews and workshops to identify strategic themes, value streams, key metrics, and team principles.
-- Collaborating with colleagues and clients to build business cases to secure funding (statements of work, annual budgets, forecasts, capex/opex requests).
-- Acting as a Subject Matter Expert for internal projects and providing thought leadership to develop consulting frameworks and product development models.
-- Designing an organizational Value Model (as the single prioritization framework for all future business change, development, and delivery roadmaps).
-- Selecting appropriate roles and delivery methodologies for hybrid Lean-Agile delivery models.
-- Creating a Digital Enterprise Team hiring plan, including roles, responsibilities, capabilities, and skill sets required for recruitment purposes.
-- Establishing strategic technical delivery partnerships for capability augmentation strategy.
-- Providing technical support, governance, and oversight to delivery teams - acting as Delivery Manager for internal projects.
-- Configuring Microsoft Azure DevOps or Atlassian JIRA to support LPM processes.
-
-### As a **[SAFe Practice Consultant (SPC)](https://robertbarrow.github.io/cv/safe-practice-consultant)**
-- Collaborating with Release Train Engineer (RTE) to design and launch an Agile Release Train (ART) for a new value stream.
-- Acting as Solution Train Engineer, running Lean-Agile Centre of Excellence (LACE) and "ART of ART" sync ceremonies for Release Train Engineers.
-- Assisting in the facilitation of PI Planning events.
-- Collaborating with Product Leads, Delivery Manager, QA Manager, Release Train Engineers and Data Analysts to design and implement Microsoft Power BI dashboards, delivering real-time flow and delivery metrics across multiple Agile Release Trains.
-- Configuration of Atlassian JIRA to standardise workflows, Agile boards, reports and dashboards across multiple Agile Release Trains.
+### As a **[SAFe Practice Consultant (SPC)](https://robertbarrow.github.io/cv/safe-practice-consultant)** _[Details](https://robertbarrow.github.io/cv/safe-practice-consultant)_
 
 ### As a **Technical Account Lead** 
 

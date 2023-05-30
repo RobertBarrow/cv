@@ -18,19 +18,13 @@ Experienced **[Agile Delivery Consultant](https://robertbarrow.github.io/cv/agil
 
 ## Employment Summary
 
-|Employer Type|Roles|Client Sectors|Tenure| 
+|Employer (Type)|Roles|Client Sectors|Tenure| 
 | --- | --- | --- | ---- |
-|Digital Agency|**[Agile Delivery Consultant](https://robertbarrow.github.io/cv/agile-delivery-consultant)**<br>**[SAFe Practice Consultant (SPC)](https://robertbarrow.github.io/cv/safe-practice-consultant)**<br>**Technical Account Lead**|**Airline**<br>**Charity**<br>**Public Transport**<br>**Retail**|4 years| 
+|**[MMT Digital Limited](https://robertbarrow.github.io/cv/mmt-digital)**<br>Digital Agency|**[Agile Delivery Consultant](https://robertbarrow.github.io/cv/agile-delivery-consultant)**<br>**[SAFe Practice Consultant (SPC)](https://robertbarrow.github.io/cv/safe-practice-consultant)**<br>**[Technical Account Lead](https://robertbarrow.github.io/cv/technical-account-lead)**|**Airline**<br>**Charity**<br>**Public Transport**<br>**Retail**|4 years| 
 |FinTech Products|**Agile Delivery Manager**<br>**Agile Transformation Lead**<br>**Product Owner**<br>**Scrum Master**|**Investment Management**<br><br>**Wealth Management**|15 years|
 |FinTech Services|**Service Delivery Manager**|**Financial Services**|6 years|
 
-## **[MMT Digital Limited](https://robertbarrow.github.io/cv/mmt-digital)** ~ (Jun 2019 - May 2023) _[Details](https://robertbarrow.github.io/cv/mmt-digital)_
-
-### As an **[Agile Delivery Consultant](https://robertbarrow.github.io/cv/agile-delivery-consultant)** _[Details](https://robertbarrow.github.io/cv/agile-delivery-consultant)_
-
-### As a **[SAFe Practice Consultant (SPC)](https://robertbarrow.github.io/cv/safe-practice-consultant)** _[Details](https://robertbarrow.github.io/cv/safe-practice-consultant)_
-
-### As a **Technical Account Lead** 
+### As a **Technical Account Lead**
 
 - Building and leading delivery teams that deliver value sooner, safer, and happier.
 - Creating a long-lasting impact by guiding and enabling teams to achieve desired outcomes.

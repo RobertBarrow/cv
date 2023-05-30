@@ -12,7 +12,7 @@ categories: cv
 
 ## Personal Profile
 
-Experienced **Agile Delivery Consultant** with a **SAFe SPC** certification and a background in Production Control and Back-office Settlement systems. Skilled in designing, implementing, and optimizing Value Streams and Value-Driven Operating Models for **Lean Portfolio Management** in scaled Agile environments. Proven ability as an **Agile Delivery Manager**, building great, cross-functional, outcome-focused teams for both internal products and client engagements.  Success implementing **Agile Transformation** at scale and overseeing **Service Delivery** for mission critical platforms within a highly-regulated environment. 
+Experienced **[Agile Delivery Consultant](https://robertbarrow.github.io/cv/agile-delivery-consultant)** with a **SAFe SPC** certification and a background in Production Control and Back-office Settlement systems. Skilled in designing, implementing, and optimizing Value Streams and Value-Driven Operating Models for **Lean Portfolio Management** in scaled Agile environments. Proven ability as an **Agile Delivery Manager**, building great, cross-functional, outcome-focused teams for both internal products and client engagements.  Success implementing **Agile Transformation** at scale and overseeing **Service Delivery** for mission critical platforms within a highly-regulated environment. 
 
 ## Employment Summary
 
@@ -22,7 +22,9 @@ Experienced **Agile Delivery Consultant** with a **SAFe SPC** certification and 
 |FinTech Products|**Agile Delivery Manager**<br>**Agile Transformation Lead**<br>**Product Owner**<br>**Scrum Master**|**Investment Management**<br><br>**Wealth Management**|15 years|
 |FinTech Services|**Service Delivery Manager**|**Financial Services**|6 years|
 
-## **MMT Digital Limited** ~ (Jun 2019 - Present)
+**Current status:** Available to start a new role from **June 2023**.
+
+## **MMT Digital Limited** ~ (Jun 2019 - May 2023)
 
 ### As an **[Agile Delivery Consultant](https://robertbarrow.github.io/cv/agile-delivery-consultant)**
 

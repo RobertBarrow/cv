@@ -1,0 +1,9 @@
+# meta data
+title: Employment History
+author: RobertBarrow
+email: robert.barrow@agilemanifesto.co.uk
+description: Employment History for Robert Barrow
+
+# build settings
+markdown: GFM
+remote_theme: pages-themes/modernist@v0.2.0

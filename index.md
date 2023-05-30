@@ -47,10 +47,10 @@ Experienced **[Agile Delivery Consultant](https://robertbarrow.github.io/cv/agil
 ## Publications and interests
 
 * ![Amazon](/assets/icons/amazon-logo_white_58x28.png) _**[Value Based Velocity](https://amzn.to/3ynyh0L "View on Amazon UK")** - Start tracking the value delivered by your Scrum teams (2017)_
-* _**Domain-Driven Design**_, _**Event Storming**_, _**Impact Mapping**_, and _**Team Topologies**_ as independent value stream identification and design techniques
+* _**Core Domain Charts** (from Domain-Driven Design)_, _**Event Storming**_, _**Impact Mapping**_, and _**Independent Service Heuristics** (from Team Topologies)_ as independent value stream identification and design techniques
 * _**E2E Workflow**_ and _**Value Stream Mapping**_ as value stream optimisation techniques
 * _**Scrum**_, _**Kanban**_, _**Lean**_, _**SAFe**_, _**Nexus**_ as delivery frameworks
-* _Organiational and Ecconomic **Value Models**_ and _**WSJF**_ as prioritisation techniques
+* _Organisational **Value Models**_ and _Ecconomic Frameworks (incorporating **WSJF**)_ as prioritisation techniques
 * _**Wardley Mapping**_, _**Kano modelling**_, _**OKRs**_, _**Impact mapping**_ and _**Hypothesis statements**_ for product roadmap development
 * _**Objectives and Key Results**_ for delivery measurement
 * _**Containerisation**_, _**microservices**_ and _**function-as-a-service / serverless**_ as modern socio-technical architecture patterns

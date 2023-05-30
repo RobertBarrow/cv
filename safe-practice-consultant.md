@@ -6,9 +6,9 @@ permalink: /safe-practice-consultant
 ---
 _[< Home](https://robertbarrow.github.io/cv/)_
 
-## **[MMT Digital Limited](https://robertbarrow.github.io/cv/mmt-digital)** ~ (Jun 2019 - May 2023)
+_[< MMT Digital](https://robertbarrow.github.io/cv/mmt-digital)_
 
-### As a **SAFe Practice Consultant (SPC)**
+### Working as a **SAFe Practice Consultant (SPC)** at **[MMT Digital Limited](https://robertbarrow.github.io/cv/mmt-digital)** ~ May 2022 - May 2023
 - Collaborating with Release Train Engineer (RTE) to design and launch an Agile Release Train (ART) for a new value stream.
 - Acting as Solution Train Engineer, running Lean-Agile Centre of Excellence (LACE) and "ART of ART" sync ceremonies for Release Train Engineers.
 - Assisting in the facilitation of PI Planning events.
@@ -22,5 +22,7 @@ _[< Home](https://robertbarrow.github.io/cv/)_
 - Implementing SAFe Training (SPC Certification) ~ May 2022
 - SAFe Agilist 5.0 Certification ~ Jan 2020
 - SAFe Agilist 4.6 Certification ~ Dec 2019
+
+_[< MMT Digital](https://robertbarrow.github.io/cv/mmt-digital)_
 
 _[< Home](https://robertbarrow.github.io/cv/)_

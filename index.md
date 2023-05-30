@@ -20,34 +20,25 @@ Experienced **[Agile Delivery Consultant](https://robertbarrow.github.io/cv/agil
 
 |Employer (Type)|Roles|Client Sectors|Tenure| 
 | --- | --- | --- | ---- |
-|**[MMT Digital Limited](https://robertbarrow.github.io/cv/mmt-digital)**<br>(Digital Agency)|**[Agile Delivery Consultant](https://robertbarrow.github.io/cv/agile-delivery-consultant)**<br>**[SAFe Practice Consultant (SPC)](https://robertbarrow.github.io/cv/safe-practice-consultant)**<br>**[Technical Account Lead](https://robertbarrow.github.io/cv/technical-account-lead)**|**Airline**<br>**Charity**<br>**Public Transport**<br>**Retail**|4 years| 
-|**[Objectway Limited](https://robertbarrow.github.io/cv/objectway)**<br>(FinTech Products)|**Agile Delivery Manager**<br>**Agile Transformation Lead**<br>**Product Owner**<br>**Scrum Master**|**Investment Management**<br><br>**Wealth Management**|4 years|
-|**[3i Infotech](https://robertbarrow.github.io/cv/3i-infotech)**<br>(FinTech Services)|**Service Delivery Manager**|**Financial Services**|6 years|
+|[MMT Digital Limited](https://robertbarrow.github.io/cv/mmt-digital)<br>(Digital Agency)|[Agile Delivery Consultant](https://robertbarrow.github.io/cv/agile-delivery-consultant)<br>[SAFe Practice Consultant (SPC)](https://robertbarrow.github.io/cv/safe-practice-consultant)<br>[Technical Account Lead](https://robertbarrow.github.io/cv/technical-account-lead)|Airline<br>Charity<br>Public Transport<br>Retail|4 years| 
+|[Objectway Limited](https://robertbarrow.github.io/cv/objectway)<br>(FinTech Products)|Agile Delivery Manager<br>Agile Transformation Lead<br>Product Owner<br>Scrum Master|Investment Management<br><br>Wealth Management|4 years|
+|[3i Infotech](https://robertbarrow.github.io/cv/3i-infotech)<br>(FinTech Services)|Service Delivery Manager|Financial Services|6 years|
 
-## Professional Certifications and Accreditations
+## Professional Certifications, Accreditations and Training
 
-### Scaled Agile Framework 
-- SAFe Practice Consultant (SPC) upgrade for SAFe 6.0 ~ May 2023
-- Implementing SAFe Training (SPC Certification) ~ May 2022
-- SAFe Agilist 5.0 Certification ~ Jan 2020
-- SAFe Agilist 4.6 Certification ~ Dec 2019
- 
-### Scrum Alliance
-
-* _**Certified Scrum Master**_ (_**CSM**_) _[View](https://certification.scrumalliance.org/accounts/887172-robert-andrew-barrow/certifications/1007243-csm/)_
-
-### Atlassian
-
-* JIRA Administration - Part 1 - Project Configuration (2015)
-* JIRA Administration - Part 2 - User Management and Schemes (2016)
-* Getting more out of JIRA Workflows - Advanced Workflow Configuration (2016)
-* ACP-100 Jira Administrator [BETA TEST] (2016)
-* ACP-100 Jira Administrator Certification Prep (2019) 
+|Certification body|Accreditations|Date
+| --- | --- | --- |
+|Team Topologies Academy|Independent Value Streams with Domain-Driven Design|May 2023
+|Scaled Agile Framework|SAFe Practice Consultant (SPC) upgrade for SAFe 6.0<br>Implementing SAFe Training (SPC Certification)<br>SAFe Agilist 5.0 Certification<br>SAFe Agilist 4.6 Certification|May 2023<br>May 2022<br>Jan 2020<br>Dec 2019|
+|Scrum Alliance**|[Certified Scrum Master (CSM)](https://certification.scrumalliance.org/accounts/887172-robert-andrew-barrow/certifications/1007243-csm/)|2019|
+|Atlassian|ACP-100 Jira Administrator (BETA)|2016 
+|Udemy|Docker Swarm Mastery: DevOps Style Cluster Orchestration<br>[Docker Mastery: The complete toolset from a Docker Captain](https://www.udemy.com/certificate/UC-CAM71I53/)|2018
+|Atlassian|JIRA Administration - Part 1 - Project Configuration<br>JIRA Administration - Part 2 - User Management and Schemes<br>Getting more out of JIRA Workflows - Advanced Workflow Configuration<br>ACP-100 Jira Administrator Certification Prep|2016|
 
 ## Publications and interests
 
 * ![Amazon](/assets/icons/amazon-logo_white_58x28.png) _**[Value Based Velocity](https://amzn.to/3ynyh0L "View on Amazon UK")** - Start tracking the value delivered by your Scrum teams (2017)_
-* _**Core Domain Charts** (from Domain-Driven Design)_, _**Event Storming**_, _**Impact Mapping**_, and _**Independent Service Heuristics** (from Team Topologies)_ as independent value stream identification and design techniques
+* Combining _**[Core Domain Charts](https://github.com/ddd-crew/core-domain-charts)** (from Domain-Driven Design)_, _**Event Storming**_, _**Impact Mapping**_, and _[**Independent Service Heuristics**](https://teamtopologies.com/ish) (from [Team Topologies](https://teamtopologies.com))_ as independent value stream identification and design techniques
 * _**E2E Workflow**_ and _**Value Stream Mapping**_ as value stream optimisation techniques
 * _**Scrum**_, _**Kanban**_, _**Lean**_, _**SAFe**_, _**Nexus**_ as delivery frameworks
 * _Organisational **Value Models**_ and _Ecconomic Frameworks (incorporating **WSJF**)_ as prioritisation techniques

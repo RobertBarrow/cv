@@ -1,10 +1,11 @@
 ---
+layout: page
 title:  "AGILE DELIVERY CONSULTANT"
 date:   2022-05-30 10:00:00 +0000
 categories: cv
-
+permalink: /agile-delivery-consultant
 ---
-_[Back](https://robertbarrow.github.io/cv/)_
+_[Home](https://robertbarrow.github.io/cv/)_
 
 ## **MMT Digital Limited** ~ (Jun 2019 - May 2023)
 
@@ -21,4 +22,4 @@ _[Back](https://robertbarrow.github.io/cv/)_
 - Providing technical support, governance, and oversight to delivery teams - acting as Delivery Manager for internal projects.
 - Configuring Microsoft Azure DevOps or Atlassian JIRA to support LPM processes.
 
-_[Back](https://robertbarrow.github.io/cv/)_
+_[Home](https://robertbarrow.github.io/cv/)_

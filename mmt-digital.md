@@ -10,9 +10,9 @@ _[< Home](https://robertbarrow.github.io/cv/)_
 
 |Employer Type|Roles|Client Sectors|Tenure| 
 | --- | --- | --- | ---- |
-|Digital Agency|**Agile Delivery Consultant**<br>**Release Train Engineer**<br>**Technical Account Lead**|**Airline**<br>**Charity**<br>**Public Transport**<br>**Retail**|c. 4 years| 
+|Digital Agency|Agile Delivery Consultant<br>SAFe Practice Consultant<br>Technical Account Lead|Airline<br>Charity<br>Public Transport<br>Retail|c. 4 years| 
 
-## Roles and experience
+## Roles, responsibilities and experience
 
 ### **[Agile Delivery Consultant](https://robertbarrow.github.io/cv/agile-delivery-consultant)**
 

@@ -4,6 +4,8 @@ date:   2022-05-30 11:50:00 +0000
 categories: cv
 
 ---
+**Status:** Available to start a new role from **June 2023**
+
 ## Contact Details
 
 |Full name|Telephone|Email|Social| 

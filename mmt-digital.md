@@ -6,15 +6,15 @@ permalink: /mmt-digital
 ---
 _[< Home](https://robertbarrow.github.io/cv/)_
 
-## Employment Summary
+## Employment Summary for **MMT Digital**  ~ (Jun 2019 - May 2023)
 
 |Employer Type|Roles|Client Sectors|Tenure| 
 | --- | --- | --- | ---- |
-|Digital Agency|**Agile Delivery Consultant**<br>**Release Train Engineer**<br>**Technical Account Lead**|**Airline**<br>**Charity**<br>**Public Transport**<br>**Retail**|4 years| 
+|Digital Agency|**Agile Delivery Consultant**<br>**Release Train Engineer**<br>**Technical Account Lead**|**Airline**<br>**Charity**<br>**Public Transport**<br>**Retail**|c. 4 years| 
 
-## **MMT Digital Limited** ~ (Jun 2019 - May 2023)
+## Roles and experience
 
-### As an **[Agile Delivery Consultant](https://robertbarrow.github.io/cv/agile-delivery-consultant)**
+### **[Agile Delivery Consultant](https://robertbarrow.github.io/cv/agile-delivery-consultant)**
 
 - Designing, implementing, and optimizing Lean-Agile delivery models and portfolio management processes for various clients (providing governance of Epic life cycle from inception to value delivery).
 - Facilitating senior stakeholder interviews and workshops to identify strategic themes, value streams, key metrics, and team principles.
@@ -27,14 +27,14 @@ _[< Home](https://robertbarrow.github.io/cv/)_
 - Providing technical support, governance, and oversight to delivery teams - acting as Delivery Manager for internal projects.
 - Configuring Microsoft Azure DevOps or Atlassian JIRA to support LPM processes.
 
-### As a **SAFe Practice Consultant (SPC)**
+### **SAFe Practice Consultant (SPC)**
 - Collaborating with Release Train Engineer (RTE) to design and launch an Agile Release Train (ART) for a new value stream.
 - Acting as Solution Train Engineer, running Lean-Agile Centre of Excellence (LACE) and "ART of ART" sync ceremonies for Release Train Engineers.
 - Assisting in the facilitation of PI Planning events.
 - Collaborating with Product Leads, Delivery Manager, QA Manager, Release Train Engineers and Data Analysts to design and implement Microsoft Power BI dashboards, delivering real-time flow and delivery metrics across multiple Agile Release Trains.
 - Configuration of Atlassian JIRA to standardise workflows, Agile boards, reports and dashboards across multiple Agile Release Trains.
 
-### As a **Technical Account Lead** 
+### **Technical Account Lead** 
 
 - Building and leading delivery teams that deliver value sooner, safer, and happier.
 - Creating a long-lasting impact by guiding and enabling teams to achieve desired outcomes.

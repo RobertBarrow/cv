@@ -6,7 +6,7 @@ permalink: /safe-practice-consultant
 ---
 _[< Home](https://robertbarrow.github.io/cv/)_
 
-## **MMT Digital Limited** ~ (Jun 2019 - May 2023)
+## **[MMT Digital Limited](https://robertbarrow.github.io/cv/mmt-digital)** ~ (Jun 2019 - May 2023)
 
 ### As a **SAFe Practice Consultant (SPC)**
 - Collaborating with Release Train Engineer (RTE) to design and launch an Agile Release Train (ART) for a new value stream.

@@ -6,7 +6,7 @@ permalink: /agile-delivery-consultant
 ---
 _[< Home](https://robertbarrow.github.io/cv/)_
 
-## **MMT Digital Limited** ~ (Jun 2019 - May 2023)
+## **[MMT Digital Limited](https://robertbarrow.github.io/cv/mmt-digital)** ~ (Jun 2019 - May 2023)
 
 ### As an **Agile Delivery Consultant** 
 

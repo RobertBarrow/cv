@@ -153,10 +153,10 @@ Experienced **[Agile Delivery Consultant](https://robertbarrow.github.io/cv/agil
 ## Professional Certifications and Accreditations
 
 ### Scaled Agile Framework 
-- SAFe Practice Consultant (SPC) upgrade for SAFe 6.0 ~ April 2023
+- SAFe Practice Consultant (SPC) upgrade for SAFe 6.0 ~ May 2023
 - Implementing SAFe Training (SPC Certification) ~ May 2022
 - SAFe Agilist 5.0 Certification ~ Jan 2020
-- SAFe Agilist 4.6 Certification ~ Jan 2020
+- SAFe Agilist 4.6 Certification ~ Dec 2019
  
 ### Scrum Alliance
 

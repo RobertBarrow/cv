@@ -30,7 +30,7 @@ Experienced **[Agile Delivery Consultant](https://robertbarrow.github.io/cv/agil
 | --- | --- | --- |
 |Team Topologies Academy|Independent Value Streams with Domain-Driven Design|May 2023
 |Scaled Agile Framework|SAFe Practice Consultant (SPC) upgrade for SAFe 6.0<br>Implementing SAFe Training (SPC Certification)<br>SAFe Agilist 5.0 Certification<br>SAFe Agilist 4.6 Certification|May 2023<br>May 2022<br>Jan 2020<br>Dec 2019|
-|Scrum Alliance**|[Certified Scrum Master (CSM)](https://certification.scrumalliance.org/accounts/887172-robert-andrew-barrow/certifications/1007243-csm/)|2019|
+|Scrum Alliance|[Certified Scrum Master (CSM)](https://certification.scrumalliance.org/accounts/887172-robert-andrew-barrow/certifications/1007243-csm/)|2019|
 |Atlassian|ACP-100 Jira Administrator (BETA)|2016 
 |Udemy|Docker Swarm Mastery: DevOps Style Cluster Orchestration<br>[Docker Mastery: The complete toolset from a Docker Captain](https://www.udemy.com/certificate/UC-CAM71I53/)|2018
 |Atlassian|JIRA Administration - Part 1 - Project Configuration<br>JIRA Administration - Part 2 - User Management and Schemes<br>Advanced JIRA Workflow Configuration<br>ACP-100 Jira Administrator Certification Prep|2016|
